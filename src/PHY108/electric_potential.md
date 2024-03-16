@@ -1,4 +1,4 @@
-# Electric Potential
+# 3. Electric Potential
 
 Chapters:
 

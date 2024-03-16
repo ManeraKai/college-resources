@@ -1,4 +1,4 @@
-# Gauss's Law
+# 2. Gauss's Law
 
 Chapters:
 

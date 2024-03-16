@@ -1,4 +1,4 @@
-# Electric Fields
+# 1. Electric Fields
 
 Chapters:
 

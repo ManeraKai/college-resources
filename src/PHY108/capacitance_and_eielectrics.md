@@ -1,4 +1,4 @@
-# Capacitance and Dielectrics
+# 4. Capacitance and Dielectrics
 
 Chapters:
 
