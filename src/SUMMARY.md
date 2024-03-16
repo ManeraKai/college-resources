@@ -1,8 +1,8 @@
 # Summary
 
-[Home](README.md)
+[Home](index.md)
 
-- [Mathematics I (MTH105)](./MTH105.md)
+- [Mathematics I (MTH105)](./MTH105/index.md)
     - [Week 1]()
     - [Week 2](./MTH105/week_2.md)
     - [Week 3](./MTH105/week_3.md)
@@ -17,7 +17,7 @@
     - [Week 12]()
     - [Week 13](./MTH105/week_13.md)
 
-- [Physics I (PHY107)](./PHY107.md)
+- [Physics I (PHY107)](./PHY107/index.md)
     - [1. Physics and Measurement]()
     - [2. Motion in One Dimension]()
     - [3. Vectors]()
@@ -32,14 +32,14 @@
     - [12. Static Equilibrium and Elasticity]()
 
 
-- [Physics II (PHY108)](./PHY108.md)
+- [Physics II (PHY108)](./PHY108/index.md)
     - [1. Electric Fields](./PHY108/electric_fields.md)
     - [2. Gauss's Law](./PHY108/gausss_law.md)
     - [3. Electric Potential](./PHY108/electric_potential.md)
     - [4. Capacitance and Dielectrics](./PHY108/capacitance_and_eielectrics.md)
 
 
-- [Linear Algebra (MTH104)](./MTH104.md)
+- [Linear Algebra (MTH104)](./MTH104/index.md)
     - [1. Group, Ring, Field, Vectors and Vector Spaces](./MTH104/group_ring_field_vectors_vector_spaces.md)
     - [2. Subspaces, Inner Product Spaces, Metric Properties]()
     - [3. Linear Independence, Basis, Dimension, Matrix Vector Spaces, Basis and Dimension of Matrices]()

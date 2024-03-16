@@ -13,7 +13,5 @@ Chapters:
 Resources:
 
 - [Yale, Physics II, Capacitors](https://www.youtube.com/watch?v=FLzJ2_DfNX0&list=PLD07B2225BB40E582&index=6)
-
 - [MIT, 8.02x, Capacitance, Electric Field Energy](https://www.youtube.com/watch?v=qyP1xZCB62E&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=8)
-
 - [The Engineering Mindset, Capacitors Explained](https://www.youtube.com/watch?v=X4EUwTwZ110)

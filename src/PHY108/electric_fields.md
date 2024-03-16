@@ -13,6 +13,6 @@ Chapters:
 Resources: 
 - [Yale, Physics II, Electrostatics](https://www.youtube.com/watch?v=NK-BxowMIfg&list=PLD07B2225BB40E582&index=1)
 - [Yale, Physics II, Electric Fields](https://www.youtube.com/watch?v=xnSc_OWpCuY&list=PLD07B2225BB40E582&index=2)
-
 - [MIT, 8.02x, Electric Charges and Forces - Coulomb's Law - Polarization](https://www.youtube.com/watch?v=x1-SibwIPM4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=2)
 - [MIT, 8.02x, Electric Field Lines, Superposition, Inductive Charging, Induced Dipoles](https://www.youtube.com/watch?v=Pd9HY8iLiCA&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=3)
+- [What is Coulomb's Constant (k) and Electric Constant (ε<sub>0</sub>)](https://www.youtube.com/watch?v=809bJaG1c_Q)
