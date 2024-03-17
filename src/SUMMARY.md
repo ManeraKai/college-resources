@@ -31,6 +31,13 @@
     - [11. Rolling Motion and Angular Momentum]()
     - [12. Static Equilibrium and Elasticity]()
 
+- [Computer Programming I (COM103)](./COM103/index.md)
+    - [0. Scratch](./COM103/0_scratch.md)
+    - [1. C](./COM103/1_c.md)
+    - [2. Arrays](./COM103/2_arrays.md)
+    - [3. Algorithms](./COM103/3_lgorithms.md)
+    - [4. Memory](./COM103/4_memory.md)
+    - [5. Data Structures](./COM103/5_data_structures.md)
 
 - [Physics II (PHY108)](./PHY108/index.md)
     - [1. Electric Fields](./PHY108/electric_fields.md)
