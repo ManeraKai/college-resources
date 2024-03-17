@@ -1,6 +1,7 @@
 # Physics II (PHY108)
 
-Basic principles and theories of electromagnetic concepts: Coulomb's Law
+Basic principles and theories of electromagnetic concepts:
+- Coulomb's Law
 - Electric Field
 - Gauss's Law
 - Electric Potential

@@ -1,5 +1,6 @@
 # Physics I (PHY107)
 
+Kinematics:
 - Physics and Measurement
 - Vectors
 - Motion in One Dimension
