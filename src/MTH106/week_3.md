@@ -1,5 +1,9 @@
 # Week 3
 
+Chapters:
+- Substitution and Area Between Curves
+- Lengths of Plane Curves
+
 Resources:
 
 - [Khan Academy: Area Between Curves](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-of-integration-new/ab-8-4/v/evaluating-simple-definite-integral)

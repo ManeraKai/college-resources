@@ -17,4 +17,4 @@ Chapters:
 - Sort Race
 
 Resources:
-- [CS50x, Algorithms](https://www.youtube.com/watch?v=jZzyERW7h1A&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=4)
+- [CS50x: Algorithms](https://www.youtube.com/watch?v=jZzyERW7h1A&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=4)

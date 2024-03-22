@@ -4,4 +4,4 @@ Apparently you should first learn something called Abstract Algebra before start
 
 Resources:
 
-- [Abstract Algebra](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+- [Socratica: Abstract Algebra](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)

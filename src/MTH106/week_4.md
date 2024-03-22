@@ -1,5 +1,10 @@
 # Week 4
 
+Chapters:
+- Volumes by Slicing and Rotation About an Axis
+- Volumes by Cylindrical Shells
+- Areas of Surfaces of Revolution
+
 Resources:
 - [Khan Academy: Volumes with cross sections: squares and rectangles](https://www.khanacademy.org/math/ap-calculus-bc/bc-applications-of-integration-new/bc-8-7/v/volume-with-cross-sections-intro)
 - [Khan Academy: Volumes with cross sections: triangles and semicircles](https://www.khanacademy.org/math/ap-calculus-bc/bc-applications-of-integration-new/bc-8-8/v/volume-solid-semicircle-cross-section)
