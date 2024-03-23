@@ -1,1 +1,0 @@
-# 2. Subspaces, Inner Product Spaces, Metric Properties

@@ -1,0 +1,14 @@
+# Week 3
+
+Chapters:
+- [2.5 Linear Independence](https://textbooks.math.gatech.edu/ila/linear-independence.html)
+- [2.6 Subspaces](https://textbooks.math.gatech.edu/ila/subspaces.html)
+- [2.7 Basis and Dimension](https://textbooks.math.gatech.edu/ila/dimension.html)
+- [2.8 Bases as Coordinate Systems](https://textbooks.math.gatech.edu/ila/bases-as-coord-systems.html)
+- [2.9 The Rank Theorem](https://textbooks.math.gatech.edu/ila/rank-thm.html)
+
+Videos:
+- [3Blue1Brown: Linear combinations, span, and basis vectors](https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2)
+- [Khan Academy: Linear combinations and span](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span)
+- [Khan Academy: Linear dependence and independence](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
+- [Khan Academy: Subspaces and the basis for a subspace](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)

@@ -62,8 +62,9 @@
 
 
 - [Linear Algebra (MTH104)](MTH104/index.md)
-    - [1. Group, Ring, Field, Vectors and Vector Spaces](MTH104/1_group_ring_field_vectors_vector_spaces.md)
-    - [2. Subspaces, Inner Product Spaces, Metric Properties]()
-    - [3. Linear Independence, Basis, Dimension, Matrix Vector Spaces, Basis and Dimension of Matrices]()
-    - [4. Multiplication of Matrices, Transposition, Inverse Matrix, Special Matrices]()
+    - [Week 1](MTH104/week_1.md)
+    - [Week 2](MTH104/week_2.md)
+    - [Week 3](MTH104/week_3.md)
+    - [Week 4](MTH104/week_4.md)
+    - [Week 5](MTH104/week_5.md)
 

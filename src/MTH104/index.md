@@ -4,3 +4,6 @@
 - To teach to solve a system of linear equations by using matrices
 - To give the definitions of a vector space, subspace, base and dimension and to prove some of related theorems
 - And to give the defination of determinate founction and properties.
+
+Books:
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
