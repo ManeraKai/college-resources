@@ -2,13 +2,13 @@
 
 Chapters (Serway & Jewett, Physics 9ed):
 
-1.1 Properties of Electric Charges\
-1.2 Charging Objects by Induction\
-1.3 Coulomb's Law\
-1.4 The Electric Field\
-1.5 Electric Field of a Continuous Charge Distribution\
-1.6 Electric Field Lines\
-1.7 Motion of Charged Particles in a Uniform Electric Field
+- 23.1 Properties of Electric Charges
+- 23.2 Charging Objects by Induction
+- 23.3 Coulomb's Law
+- 23.4 The Electric Field
+- 23.5 Electric Field of a Continuous Charge Distribution
+- 23.6 Electric Field Lines
+- 23.7 Motion of Charged Particles in a Uniform Electric Field
 
 Videos: 
 - [Yale: Physics II, Electrostatics](https://www.youtube.com/watch?v=NK-BxowMIfg&list=PLD07B2225BB40E582&index=1)
@@ -18,9 +18,10 @@ Videos:
 - [KTB World: What is Coulomb's Constant (k) and Electric Constant (ε<sub>0</sub>)](https://www.youtube.com/watch?v=809bJaG1c_Q)
 
 Exercise Videos:
-- [Michel van Biezen: Coulomb's Law (1 of 8)](https://www.youtube.com/watch?v=-jxX7Vt2wrA&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB&index=1)
-- [Michel van Biezen: Coulomb's Law (2 of 8)](https://www.youtube.com/watch?v=-jxX7Vt2wrA&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB&index=2)
-- [Michel van Biezen: Coulomb's Law (3 of 8)](https://www.youtube.com/watch?v=_ZuroDbIi8A&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB&index=3)
-- [Michel van Biezen: The Electric Field (1 of 18)](https://www.youtube.com/watch?v=EPIhhbwbCNc&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB&index=4)
-- [Michel van Biezen: The Electric Field (2 of 18)](https://www.youtube.com/watch?v=EPIhhbwbCNc&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB&index=5)
-- [Michel van Biezen: The Electric Field (4 of 18)](https://www.youtube.com/watch?v=EPIhhbwbCNc&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB&index=7)
+- [Michel van Biezen: Coulomb's Law (1 of 8)](https://www.youtube.com/watch?v=-jxX7Vt2wrA&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: Coulomb's Law (2 of 8)](https://www.youtube.com/watch?v=6XR8eHzpwyc&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: Coulomb's Law (3 of 8)](https://www.youtube.com/watch?v=_ZuroDbIi8A&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: The Electric Field (1 of 18)](https://www.youtube.com/watch?v=EPIhhbwbCNc&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: The Electric Field (2 of 18)](https://www.youtube.com/watch?v=qziQH1fBObk&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: The Electric Field (3 of 18)](https://www.youtube.com/watch?v=4K5hvZBDOAE&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: The Electric Field (4 of 18)](https://www.youtube.com/watch?v=DqnM3KbMydM&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)

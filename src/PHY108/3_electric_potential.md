@@ -21,3 +21,11 @@ Optional:
 - [MIT: 8.02x, E= - grad V, Conductors, Electrostatic Shielding (Faraday Cage)](https://www.youtube.com/watch?v=JhV-GOS4y8g&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=6)
 - [MIT: 8.02x, High-voltage Breakdown, Lightning, Sparks, St-Elmo's Fire](https://www.youtube.com/watch?v=ww0XJUqFHXU&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=7)
 
+
+Exercise Videos:
+- [Michel van Biezen: Electrical Potential (1 of 22) Electrical Potential Energy](https://www.youtube.com/watch?v=eZPmIKneSBk&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: Electrical Potential (2 of 22) Electrical Potential Energy](https://www.youtube.com/watch?v=z-4monRooN4&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: Electrical Potential (3 of 22) Electrical Potential Energy](https://www.youtube.com/watch?v=zM7Cz1sQj9c&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: Electrical Potential (4 of 22) Electrical Potential Energy](https://www.youtube.com/watch?v=PBLgN4e8NFQ&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: Electrical Potential (5 of 22) Electrical Potential Energy](https://www.youtube.com/watch?v=SzxFuiTUyaI&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
+- [Michel van Biezen: Electrical Potential (6 of 22) Electrical Potential Energy](https://www.youtube.com/watch?v=y8vGuA6k6so&list=PLX2gX-ftPVXX7BZOcM1Y2gb8IQrTBrmUB)
