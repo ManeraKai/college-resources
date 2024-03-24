@@ -9,6 +9,7 @@ Videos:
 After that, you start learning Linear Algebra:
 
 Chapters:
+- [Overview](https://textbooks.math.gatech.edu/ila/overview.html)
 - [1.1 Systems of Linear Equations](https://textbooks.math.gatech.edu/ila/systems-of-eqns.html)
 - [1.2 Row Reduction](https://textbooks.math.gatech.edu/ila/row-reduction.html)
 - [1.3 Parametric Form](https://textbooks.math.gatech.edu/ila/parametric-form.html)

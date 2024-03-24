@@ -12,3 +12,5 @@ Videos:
 - [Khan Academy: Linear combinations and span](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span)
 - [Khan Academy: Linear dependence and independence](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
 - [Khan Academy: Subspaces and the basis for a subspace](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
+- [Kimberly Brehm: Linear Independence](https://www.youtube.com/watch?v=ofGN1Gtgjok&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
+- [Kimberly Brehm: Special Ways to Determine Linear Independence](https://www.youtube.com/watch?v=EdLoNRo0s28&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
