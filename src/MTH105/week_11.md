@@ -1,5 +1,5 @@
 # Week 11
 
-Resources:
+Videos:
 - [Khan Academy: Integral](https://khanacademy.org/math/ap-calculus-bc/bc-integration-new)
 

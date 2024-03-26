@@ -13,7 +13,11 @@ Videos:
 - [3Blue1Brown: Linear transformations and matrices](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
 - [3Blue1Brown: Matrix multiplication as composition](https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=4)
 - [3Blue1Brown: Three-dimensional linear transformations](https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=5)
+- [3Blue1Brown: The determinant](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=6)
+- [3Blue1Brown: Inverse matrices, column space and null space](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7)
+<!---->
 - [Khan Academy: Matrix transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
+<!---->
 - [Kimberly Brehm: Matrix Transformations](https://www.youtube.com/watch?v=oo2ej9M49Tw&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
 - [Kimberly Brehm: Introduction to Linear Transformations](https://www.youtube.com/watch?v=ofAcvZVEfBk&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
 - [Kimberly Brehm: Matrix Operations - Sums and Scalar Multiples](https://www.youtube.com/watch?v=dFc2XK9dyNs&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)

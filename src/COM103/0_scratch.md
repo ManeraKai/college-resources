@@ -14,5 +14,5 @@ Chapters:
 - Abstraction
 - Conditionals
 
-Resources:
+Videos:
 - [CS50x: Scratch](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=1)

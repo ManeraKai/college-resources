@@ -16,6 +16,7 @@ Chapters:
 
 Videos:
 - [Khan Academy: Matrices for solving systems by elimination](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-1)
+<!---->
 - [Kimberly Brehm: Systems of Linear Equations](https://www.youtube.com/watch?v=LHsPJ2bQX1U&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
 - [Kimberly Brehm: Solve Systems of Linear Equations in Augmented Matrices Using Row Operations](https://www.youtube.com/watch?v=SEh3yhEFK1w&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
 - [Kimberly Brehm: Row Reduction and Echelon Forms](https://www.youtube.com/watch?v=7xtAYrAtuPc&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)

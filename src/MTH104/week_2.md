@@ -8,7 +8,9 @@ Chapters:
 
 Videos:
 - [3Blue1Brown: Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+<!---->
 - [Khan Academy: Vectors](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
+<!---->
 - [Kimberly Brehm: Vector Equations](https://www.youtube.com/watch?v=ztsT5uoWeEE&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
 - [Kimberly Brehm: Linear Combinations](https://www.youtube.com/watch?v=9QXnOwSOoWA&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
 - [Kimberly Brehm: The Matrix Equation Ax=b](https://www.youtube.com/watch?v=kcBufqZgP4s&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
