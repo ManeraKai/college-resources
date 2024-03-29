@@ -2,7 +2,6 @@
 
 Chapters:
 - [4.1 Determinants: Definition](https://textbooks.math.gatech.edu/ila/determinants-definitions-properties.html)
-- [5.1 Eigenvalues and Eigenvectors](https://textbooks.math.gatech.edu/ila/eigenvectors.html)
 - [6.3 Orthogonal Projection](https://textbooks.math.gatech.edu/ila/projections.html)
 
 Videos:
