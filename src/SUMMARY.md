@@ -44,6 +44,7 @@
     - [2. Gauss's Law](PHY108/2_gausss_law.md)
     - [3. Electric Potential](PHY108/3_electric_potential.md)
     - [4. Capacitance and Dielectrics](PHY108/4_capacitance_and_eielectrics.md)
+    - [5. Current and Resistance](PHY108/5_current_and_resistance.md)
 
 - [Mathematics II (MTH106)](MTH106/index.md)
     - [Week 1]()
