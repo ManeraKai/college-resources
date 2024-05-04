@@ -11,3 +11,4 @@ Videos:
 - [Yale: Physics II, Resistance](https://www.youtube.com/watch?v=BvHqgbIVulc&list=PLD07B2225BB40E582)
 <!---->
 - [MIT: 8.02x, Electric Currents, Resistivity, Conductivity, Ohm's Law](https://www.youtube.com/watch?v=PJqOaHBgr30&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [MIT: 8.02x, Batteries, Power, Kirchhoff's Rules, Circuits, Kelvin Water Dropper](https://www.youtube.com/watch?v=ViwSDL657L4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
