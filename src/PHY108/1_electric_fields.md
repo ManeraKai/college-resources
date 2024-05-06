@@ -17,6 +17,13 @@ Videos:
 - [MIT: 8.02x, Electric Field Lines, Superposition, Inductive Charging, Induced Dipoles](https://www.youtube.com/watch?v=Pd9HY8iLiCA&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=3)
 <!---->
 - [KTB World: What is Coulomb's Constant (k) and Electric Constant (ε<sub>0</sub>)](https://www.youtube.com/watch?v=809bJaG1c_Q)
+<!---->
+- [KhanAcademy: Electric charge](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/in-in-electric-charge-ap/v/triboelectric-effect-and-charge)
+- [KhanAcademy: Conservation of charge](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/in-in-conservation-of-charge/v/conservation-of-charge)
+- [KhanAcademy: Coulomb's law and electric force](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/in-in-coulombs-law-and-electric-force/v/coulombs-law)
+- [KhanAcademy: Electric field & field lines](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/in-in-electric-field/v/electric-field-definition)
+- [KhanAcademy: Electric field due to point charges](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/x51bd77206da864f3:electric-field-due-to-point-charges/v/magnitude-of-electric-field-created-by-a-charge)
+- [KhanAcademy: Continuous charge distribution](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/x51bd77206da864f3:continuous-charge-distribution/v/charge-density-continuous-charge-distribution)
 
 Exercise Videos:
 - [Michel van Biezen: Coulomb's Law (1 of 8)](https://www.youtube.com/watch?v=-jxX7Vt2wrA)

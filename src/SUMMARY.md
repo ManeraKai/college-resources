@@ -47,6 +47,7 @@
     - [5. Current and Resistance](PHY108/5_current_and_resistance.md)
     - [6. Direct Current Circuits](PHY108/6_direct_current_circuits.md)
     - [7. Magnetic Fields](PHY108/7_magnetic_fields.md)
+    - [8. Sources of Magnetic Field](PHY108/8_sources_of_magnetic_field.md)
 
 
 - [Mathematics II (MTH106)](MTH106/index.md)

@@ -12,6 +12,11 @@ Videos:
 - [Yale: Physics II, Resistance](https://www.youtube.com/watch?v=BvHqgbIVulc&list=PLD07B2225BB40E582)
 <!---->
 - [MIT: 8.02x, Electric Currents, Resistivity, Conductivity, Ohm's Law](https://www.youtube.com/watch?v=PJqOaHBgr30&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+<!---->
+- [KhanAcademy: Drift of electrons & the origin of resistance](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-current-electricity/x51bd77206da864f3:drift-of-electrons-the-origin-of-resistance/v/drift-velocity-concept-intuition)
+- [KhanAcademy: Electric current and voltage](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-current-electricity/in-in-electric-current-and-voltage/v/ee-current)
+- [KhanAcademy: Resistivity, and Ohm's law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-current-electricity/in-in-resistivity-and-ohms-law/v/circuits-part-1)
+- [KhanAcademy: Electric power and DC circuits](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-current-electricity/in-in-electric-power-and-dc-circuits/a/circuit-introduction)
 
 Exercise Videos:
 - [Michel van Biezen: Resistivity and Resistance (1 of 32)](https://www.youtube.com/watch?v=wkBF2q0fGx4)

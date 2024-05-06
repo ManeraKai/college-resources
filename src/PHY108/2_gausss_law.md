@@ -11,6 +11,10 @@ Videos:
 - [Yale: Physics II, Gauss's Law and Application to Conductors and Insulators](https://www.youtube.com/watch?v=Hlj5vGOSQlY&list=PLD07B2225BB40E582) 
 <!---->
 - [MIT: 8.02x, Electric Flux, Gauss' Law, Examples](https://www.youtube.com/watch?v=Zu2gomaDqnM&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+<!---->
+- [KhanAcademy: Electric flux and Gauss's law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/x51bd77206da864f3:electric-flux-and-gauss-s-law/v/electric-flux-meaning-how-to-calculate-it)
+- [KhanAcademy: Gauss's law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/x51bd77206da864f3:gauss-law/v/gauss-law-of-electricity)
+- [KhanAcademy: Application of Gauss law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/x51bd77206da864f3:in-in-application-of-gauss-law/a/electric-field-due-to-spherical-shell-of-charge)
 
 Exercise Videos:
 - [Michel van Biezen: Gauss's Law (1 of 16) Line Charge](https://www.youtube.com/watch?v=NyRjHj2uy6k)

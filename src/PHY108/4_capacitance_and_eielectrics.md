@@ -16,6 +16,14 @@ Videos:
 - [MIT: 8.02x, Polarization, Dielectrics, Van de Graaff Generator, Capacitors](https://www.youtube.com/watch?v=GAtAG938AQc&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=9)
 <!---->
 - [The Engineering Mindset: Capacitors Explained](https://www.youtube.com/watch?v=X4EUwTwZ110)
+<!---->
+- [KhanAcademy: Capacitance & parallel plate capacitors](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electrostatic-potential-and-capacitance/x51bd77206da864f3:capacitance-parallel-plate-capacitors/v/capacitors-and-capacitance)
+- [KhanAcademy: Effect of dielectric on capacitance](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electrostatic-potential-and-capacitance/x51bd77206da864f3:effect-of-dielectric-on-capacitance/v/dielectrics-capacitors)
+- [KhanAcademy: Combination of capacitors](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electrostatic-potential-and-capacitance/x51bd77206da864f3:combination-of-capacitors/v/capacitors-series)
+- [KhanAcademy: Energy stored in a capacitor](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electrostatic-potential-and-capacitance/x51bd77206da864f3:energy-stored-in-capacitors/v/energy-capacitor)
+- [KhanAcademy: Electric dipoles](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/x51bd77206da864f3:electric-dipoles/v/electric-dipoles-dipole-moments)
+- [KhanAcademy: Torque on a dipole in external field](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electric-charges-and-field/x51bd77206da864f3:dipole-in-a-uniform-external-field/v/intro-to-torque-on-a-dipole-in-uniform-electric-field)
+
 
 Exercise Videos:
 - [Michel van Biezen: Capacitors (1 of 37) Calculating the Charge on a Capacitor](https://www.youtube.com/watch?v=CFzCDg9yp7Q)
