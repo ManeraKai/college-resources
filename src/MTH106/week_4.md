@@ -1,9 +1,9 @@
 # Week 4
 
-Chapters:
-- Volumes by Slicing and Rotation About an Axis
-- Volumes by Cylindrical Shells
-- Areas of Surfaces of Revolution
+Chapters ([Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)):
+- 6.1 Volumes by Slicing and Rotation About an Axis
+- 6.2 Volumes by Cylindrical Shells
+- 6.5 Areas of Surfaces of Revolution
 
 Videos:
 - [Khan Academy: Volumes with cross sections: squares and rectangles](https://www.khanacademy.org/math/ap-calculus-bc/bc-applications-of-integration-new/bc-8-7/v/volume-with-cross-sections-intro)
