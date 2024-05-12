@@ -48,6 +48,7 @@
     - [6. Direct Current Circuits](PHY108/6_direct_current_circuits.md)
     - [7. Magnetic Fields](PHY108/7_magnetic_fields.md)
     - [8. Sources of Magnetic Field](PHY108/8_sources_of_magnetic_field.md)
+    - [9. Faraday's Law](PHY108/9_faradays_law.md)
 
 
 - [Mathematics II (MTH106)](MTH106/index.md)
