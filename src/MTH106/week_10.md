@@ -6,3 +6,5 @@ Chapters ([Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef
 
 Videos:
 - [Khan Academy: Gradient and directional derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
+- [Khan Academy: Tangent planes and local linearization](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization/v/what-is-a-tangent-plane)
+

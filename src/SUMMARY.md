@@ -61,7 +61,7 @@
     - [Week 8](MTH106/week_8.md)
     - [Week 9](MTH106/week_9.md)
     - [Week 10](MTH106/week_10.md)
-    - [Week 11]()
+    - [Week 11](MTH106/week_11.md)
     - [Week 12]()
     - [Week 13]()
 
