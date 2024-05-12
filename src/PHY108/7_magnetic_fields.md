@@ -23,3 +23,6 @@ Videos:
 - [KhanAcademy: Lorentz force & definition of magnetic field](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:lorentz-force-definition-of-magnetic-field/v/magnetism-2)
 - [KhanAcademy: Magnetic force on a current carrying conductor](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:magnetic-force-on-a-current-carrying-conductor/v/force-on-a-current-carrying-conductor-ni-a-magnetic-field)
 - [KhanAcademy: Motion in magnetic field](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:motion-in-magnetic-field/v/radius-time-period-of-charges-moving-in-magnetic-field)
+
+Exercise Videos:
+- [Michel van Biezen: Magnetic Fields And Magnetic Forces](https://www.youtube.com/playlist?list=PLX2gX-ftPVXX3FUB8FPKFPPXPJ6yhY4mT)

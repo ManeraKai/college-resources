@@ -27,3 +27,6 @@ Videos:
 Optional Videos:
 - [KhanAcademy: Moving coil galvanometer](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:moving-coil-galvanometer/v/moving-coil-galvanometer-working)
 - [KhanAcademy: Converting galvanometer into ammeter/voltmeter](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:converting-galvanometer-into-ammeter-voltmeter/v/conversion-of-galvanometer-into-ammeter)
+
+Exercise Videos:
+- [Michel van Biezen: Magnetic Field Sources](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWMz9EYz_V8CdnotJesSRnY)

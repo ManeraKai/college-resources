@@ -8,6 +8,7 @@ title = "College Resources"
 [output.html]
 no-section-label = true
 git-repository-url = "https://github.com/ManeraKai/college-resources"
+additional-css = ["src/custom.css"]
 
 [output.html.print]
 enable = false

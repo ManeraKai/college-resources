@@ -23,3 +23,12 @@ Videos:
 Optional Videos:
 - [KhanAcademy: Wheatstone bridge](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-current-electricity/x51bd77206da864f3:untitled-lesson-328/v/wheatstone-bridge-its-logic)
 - [KhanAcademy: Potentiometers](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-current-electricity/x51bd77206da864f3:potentiometers/v/potentiometer-principle-logic-working)
+
+Exercise Videos:
+- [Michel van Biezen: (8 of 31) What Are Kirchhoff's Laws?](https://www.youtube.com/watch?v=F83mC-nq5HQ&list=PLX2gX-ftPVXW6bFHC_a2wsp7kJgWyeaT0)
+- [Michel van Biezen: (9 of 31) Kirchhoff's Laws: A Simple Example](https://www.youtube.com/watch?v=DAjn1tG2LjU&list=PLX2gX-ftPVXW6bFHC_a2wsp7kJgWyeaT0)
+- [Michel van Biezen: (10 of 31) Kirchhoff's Laws: A Medium Example 1](https://www.youtube.com/watch?v=xQbzBEq14MU&list=PLX2gX-ftPVXW6bFHC_a2wsp7kJgWyeaT0)
+- [Michel van Biezen: (11 of 31) Kirchhoff's Laws: A Medium Example 2](https://www.youtube.com/watch?v=7ztIL4W6O1o&list=PLX2gX-ftPVXW6bFHC_a2wsp7kJgWyeaT0)
+- [Michel van Biezen: (12 of 31) Kirchhoff's Laws: A Harder Example](https://www.youtube.com/watch?v=iY9OqWvB744&list=PLX2gX-ftPVXW6bFHC_a2wsp7kJgWyeaT0)
+<!---->
+- [Michel van Biezen: Resistors in Series and Parallel (5 of 5) The RC Circuit](https://www.youtube.com/watch?v=TFTIFqkmpOE&list=PLX2gX-ftPVXX6YOaCz3v6r4n-umSIWisT)
