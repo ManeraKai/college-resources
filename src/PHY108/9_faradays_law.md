@@ -13,4 +13,7 @@ Videos:
 <!---->
 - [MIT: 8.02x, Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO](https://www.youtube.com/watch?v=nGQbA2jwkWI&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 <!---->
-- [KhanAcademy: Electromagnetic induction](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction)
+- [KhanAcademy: Faraday's Law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:faraday-s-laws-of-induction/v/faradays-law-introduction)
+- [KhanAcademy: Motional EMF](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:motional-emf/v/emf-induced-in-rod-traveling-through-magnetic-field)
+- [KhanAcademy: Lenz's Law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:lenz-s-law/v/lenzs-law)
+- [KhanAcademy: Eddy currents](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:eddy-currents/v/eddy-currents-their-applications-how-to-reduce-them)

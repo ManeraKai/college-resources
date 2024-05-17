@@ -18,8 +18,7 @@ Videos:
 - [KhanAcademy: Force between two parallel currents](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:force-between-two-parallel-currents/v/force-between-two-parallel-current-wires)
 - [KhanAcademy: Ampere's circuital law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:ampere-s-circuital-law/v/ampere-s-circuital-law-with-examples)
 - [KhanAcademy: Solenoid & torroid](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:solenoid-torroid/v/magnetic-fields-through-solenoids)
-- [KhanAcademy: Current loops as magnetic dipoles](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:current-loops-as-magnetic-dipoles/v/magnetic-dipoles-dipole-moment)
-- [KhanAcademy: Torque on magnetic dipoles](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:torque-on-magnetic-dipoles/v/torque-acting-on-current-loops)
+- [KhanAcademy: Flux and magnetic flux, Gauss’s Law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:magnetic-flux/v/flux-and-magnetic-flux)
 - [KhanAcademy: Magnetism & matter](https://www.khanacademy.org/science/in-in-class-12th-physics-india/x51bd77206da864f3:magnetism-matter)
 
 Optional Videos:
