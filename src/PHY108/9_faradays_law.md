@@ -13,3 +13,4 @@ Videos:
 <!---->
 - [MIT: 8.02x, Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO](https://www.youtube.com/watch?v=nGQbA2jwkWI&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 <!---->
+- [KhanAcademy: Electromagnetic induction](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction)

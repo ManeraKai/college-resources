@@ -15,14 +15,12 @@ Videos:
 <!---->
 - [KhanAcademy: Biot Savart law, Magnetic field due to a current element](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:biot-savart-law-magnetic-field-due-to-a-current-element/v/biot-savart-law-vector-form)
 - [KhanAcademy: Magnetic field on the axis of circular current loop](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:magnetic-field-on-the-axis-of-circular-current-loop/v/magnetic-field-due-to-current-carrying-loop)
-- [KhanAcademy: Ampere's circuital law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:ampere-s-circuital-law/v/ampere-s-circuital-law-with-examples)
 - [KhanAcademy: Force between two parallel currents](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:force-between-two-parallel-currents/v/force-between-two-parallel-current-wires)
+- [KhanAcademy: Ampere's circuital law](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:ampere-s-circuital-law/v/ampere-s-circuital-law-with-examples)
 - [KhanAcademy: Solenoid & torroid](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:solenoid-torroid/v/magnetic-fields-through-solenoids)
 - [KhanAcademy: Current loops as magnetic dipoles](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:current-loops-as-magnetic-dipoles/v/magnetic-dipoles-dipole-moment)
 - [KhanAcademy: Torque on magnetic dipoles](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:torque-on-magnetic-dipoles/v/torque-acting-on-current-loops)
-- [KhanAcademy: Earth's magnetic field & magnetic elements](https://www.khanacademy.org/science/in-in-class-12th-physics-india/x51bd77206da864f3:magnetism-matter/x51bd77206da864f3:earth-s-magnetic-field-magnetic-elements/v/magnetic-declination-earth-s-magnetism)
-- [KhanAcademy: Magnetic properties of materials](https://www.khanacademy.org/science/in-in-class-12th-physics-india/x51bd77206da864f3:magnetism-matter/x51bd77206da864f3:magnetic-properties-of-materials/v/paramagnetism-diamagnetism)
-- [KhanAcademy: Permanent magnets & electromagnets](https://www.khanacademy.org/science/in-in-class-12th-physics-india/x51bd77206da864f3:magnetism-matter/x51bd77206da864f3:permanent-magnets-electromagnets/v/hysteresis-magnetic-retention)
+- [KhanAcademy: Magnetism & matter](https://www.khanacademy.org/science/in-in-class-12th-physics-india/x51bd77206da864f3:magnetism-matter)
 
 Optional Videos:
 - [KhanAcademy: Moving coil galvanometer](https://www.khanacademy.org/science/in-in-class-12th-physics-india/moving-charges-and-magnetism/x51bd77206da864f3:moving-coil-galvanometer/v/moving-coil-galvanometer-working)
