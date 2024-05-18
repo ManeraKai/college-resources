@@ -23,6 +23,8 @@ Videos:
 - [KhanAcademy: Eddy currents](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:eddy-currents/v/eddy-currents-their-applications-how-to-reduce-them)
 
 Optional Videos:
+- [KhanAcademy: AC and DC generators ](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:ac-generator/v/right-hand-generator-rule)
+<!---->
 - [GlobalSpec Types of DC and AC Motors](https://youtu.be/TFNlrXnIngY?si=Tv8shNY27bDo5WXk)
 <!---->
 - [Lesics: Induction Motor](https://www.youtube.com/watch?v=AQqyGNOP_3o)
@@ -30,3 +32,4 @@ Optional Videos:
 <!---->
 - [JAES Company: Induction Motor](https://www.youtube.com/watch?v=EcbHEOIVGcg)
 - [JAES Company: Synchronous Motor](https://www.youtube.com/watch?v=Tk3lNBSAgEg)
+

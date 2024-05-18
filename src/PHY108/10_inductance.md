@@ -13,4 +13,6 @@ Videos:
 - [Yale: Physics II, LCR Circuits—AC Voltage](https://www.youtube.com/watch?v=cS83YUpcEsY&list=PLD07B2225BB40E582)
 <!---->
 - [MIT: 8.02x, Inductance, RL Circuits, Magnetic Field Energy](https://www.youtube.com/watch?v=t2micky_3uI&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
-
+<!---->
+- [KhanAcademy: Self inductance, RL Circuits, Magnetic Field Energy](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:self-inductance/e/self-inductance)
+- [KhanAcademy: Mutual inductance](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:mutual-inductance/v/mutual-induction-inductance)
