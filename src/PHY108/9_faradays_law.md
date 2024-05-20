@@ -33,3 +33,6 @@ Optional Videos:
 - [JAES Company: Induction Motor](https://www.youtube.com/watch?v=EcbHEOIVGcg)
 - [JAES Company: Synchronous Motor](https://www.youtube.com/watch?v=Tk3lNBSAgEg)
 
+Exercise Videos:
+- [Michel van Biezen: Electromagnetic Induction](https://www.youtube.com/playlist?list=PLX2gX-ftPVXV1z8nPIePOUk5WIGVYBzDy)
+

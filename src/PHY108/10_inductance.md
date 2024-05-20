@@ -16,3 +16,17 @@ Videos:
 <!---->
 - [KhanAcademy: Self inductance, RL Circuits, Magnetic Field Energy](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:self-inductance/e/self-inductance)
 - [KhanAcademy: Mutual inductance](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-induction/x51bd77206da864f3:mutual-inductance/v/mutual-induction-inductance)
+- [KhanAcademy: LC natural response intuition 1](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition1)
+- [KhanAcademy: LC natural response intuition 2](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition2)
+- [KhanAcademy: LC natural response derivation 1](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation1)
+- [KhanAcademy: LC natural response derivation 2](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation2)
+- [KhanAcademy: LC natural response derivation 3](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation3)
+- [KhanAcademy: LC natural response derivation 4](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation4)
+- [KhanAcademy: LC natural response example](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-example)
+
+Optional Videos:
+- [GreatScott!: Oscillators || RC, LC, Crystal](https://www.youtube.com/watch?v=eYVOdlK15Og)
+
+Exercise Videos:
+- [Michel van Biezen: Inductance & Inductors](https://www.youtube.com/playlist?list=PLX2gX-ftPVXVphyNCV_tR7ib5PrXfm_0p)
+- [Michel van Biezen: RC & RL Circuits](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXnp1Q4us-Vi7HqHE33AtzA)
