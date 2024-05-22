@@ -65,7 +65,7 @@
     - [Week 10](MTH106/week_10.md)
     - [Week 11](MTH106/week_11.md)
     - [Week 12](MTH106/week_12.md)
-    - [Week 13]()
+    - [Week 13](MTH106/week_13.md)
 
 
 - [Linear Algebra (MTH104)](MTH104/index.md)
