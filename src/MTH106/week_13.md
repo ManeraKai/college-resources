@@ -10,6 +10,8 @@ Videos:
 <!---->
 - [Dr. Trefor Bazett: Double Integration in Polar Coordinates](https://www.youtube.com/watch?v=U-13q74uvTo)
 - [Dr. Trefor Bazett: Change of Variables & The Jacobian](https://www.youtube.com/watch?v=wUF-lyyWpUc)
+<!---->
+- [Mathemaniac: What is Jacobian?](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 
 Optional Videos:
 - [Khan Academy: Polar coordinates](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/v/polar-coordinates-1)
