@@ -23,7 +23,3 @@ Videos:
 
 Optional Videos:
 - [GreatScott!: Oscillators || RC, LC, Crystal](https://www.youtube.com/watch?v=eYVOdlK15Og)
-
-Exercise Videos:
-- [Michel van Biezen: Inductance & Inductors](https://www.youtube.com/playlist?list=PLX2gX-ftPVXVphyNCV_tR7ib5PrXfm_0p)
-- [Michel van Biezen: RC & RL Circuits](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXnp1Q4us-Vi7HqHE33AtzA)
