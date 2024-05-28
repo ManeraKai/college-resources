@@ -50,6 +50,7 @@
     - [8. Sources of Magnetic Field](PHY108/8_sources_of_magnetic_field.md)
     - [9. Faraday's Law](PHY108/9_faradays_law.md)
     - [10. Inductance](PHY108/10_inductance.md)
+    - [11. Alternating Current Circuits](PHY108/11_alternating_current_circuits.md)
 
 
 - [Mathematics II (MTH106)](MTH106/index.md)
