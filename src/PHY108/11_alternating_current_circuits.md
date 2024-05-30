@@ -21,8 +21,5 @@ Videos:
 <!---->
 - [The Engineering Mindset: Half Wave and Full Wave Bridge Rectifier](https://www.youtube.com/watch?v=RiRyzLl4Y8U)
 
-Optional Videos:
-- [GreatScott!: Oscillators || RC, LC, Crystal](https://www.youtube.com/watch?v=eYVOdlK15Og)
-
 Exercise Videos:
 - [Michel van Biezen: RCL CIRCUITS](https://www.youtube.com/playlist?list=PLX2gX-ftPVXVg9J4Y8fzukA2Ezs2jfufO)

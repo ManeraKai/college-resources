@@ -1,19 +1,18 @@
 # Physics II (PHY108)
 
-Basic principles and theories of electromagnetic concepts:
-- Coulomb's Law
-- Electric Field
-- Gauss's Law
-- Electric Potential
-- Direct Current Circuits
-- Magnetic Field
-- Magnetic Field Sources
-- Ampere's Law
-- Faraday's Law
-- Magnetic Properties of Matter
-- Alternating Current Circuits
-- Presentation of Maxwell Equations
-- Electromagnetic Wave concept
+Subjects:
+- [1. Electric Fields](1_electric_fields.md)
+- [2. Gauss's Law](2_gausss_law.md)
+- [3. Electric Potential](3_electric_potential.md)
+- [4. Capacitance and Dielectrics](4_capacitance_and_eielectrics.md)
+- [5. Current and Resistance](5_current_and_resistance.md)
+- [6. Direct Current Circuits](6_direct_current_circuits.md)
+- [7. Magnetic Fields](7_magnetic_fields.md)
+- [8. Sources of Magnetic Field](8_sources_of_magnetic_field.md)
+- [9. Faraday's Law](9_faradays_law.md)
+- [10. Inductance](10_inductance.md)
+- [11. Alternating Current Circuits](11_alternating_current_circuits.md)
+- [12. Electromagnetic Waves](12_electromagnetic_waves.md)
 
 Books:
 - [Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)

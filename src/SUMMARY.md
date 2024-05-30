@@ -51,7 +51,7 @@
     - [9. Faraday's Law](PHY108/9_faradays_law.md)
     - [10. Inductance](PHY108/10_inductance.md)
     - [11. Alternating Current Circuits](PHY108/11_alternating_current_circuits.md)
-
+    - [12. Electromagnetic Waves](PHY108/12_electromagnetic_waves.md)
 
 - [Mathematics II (MTH106)](MTH106/index.md)
     - [Week 1 (Review of Mathematics I)]()

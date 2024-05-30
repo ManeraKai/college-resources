@@ -1,23 +1,20 @@
 # Mathematics II (MTH106)
 
-- Area Between Curves
-- Lengths of Plane Curves
-- Finding Volume by Slicing and Rotation around an Axis
-- Finding Volume with Cylindrical Shells
-- Areas of Rotational Surfaces
-- Generalized Integrals
-- Multivariable Functions
-- Limits and Continuity in High Dimensions
-- Partial Derivatives
-- Chain Rule
-- Direction Derivatives and Gradient Vectors. 
-- Tangent Planes and Differentials
-- Extreme Values ​​and Saddle Points
-- Second Derivative Test for Extreme Values
-- Double Integrals and Area
-- Volume Applications
-- Double Integrals in Polar Form
-- Variable Conversion in Multiple Integrals
+Weeks:
+- Week 1 (Review of Mathematics I)
+- Week 2 (Review of Mathematics I)
+- [Week 3](week_3.md)
+- [Week 4](week_4.md)
+- [Week 5](week_5.md)
+- Week 6 (Review)
+- Week 7 (Exam)
+- [Week 8](week_8.md)
+- [Week 9](week_9.md)
+- [Week 10](week_10.md)
+- [Week 11](week_11.md)
+- [Week 12](week_12.md)
+- [Week 13](week_13.md)
+- Week 14 (Review)
 
 Books:
 - [Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)
