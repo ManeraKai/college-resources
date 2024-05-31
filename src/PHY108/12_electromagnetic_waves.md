@@ -14,6 +14,10 @@ Videos:
 - [Yale: Physics II, Maxwell's Equations and Electromagnetic Waves II](httpshttps://www.youtube.com/watch?v=JJZkjMRcTD4&list=PLD07B2225BB40E582)
 <!---->
 - [MIT: 8.02x, Traveling Waves, Standing Waves, Musical Instruments](https://www.youtube.com/watch?v=D_RIzl1uCxY&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [MIT: 8.02x, Destructive Resonance, Electromagnetic Waves, Speed of Light](https://www.youtube.com/watch?v=D3tnZzhSISo&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [MIT: 8.02x, Poynting Vector, Oscillating Charges, Polarization, Radiation Pressure](https://www.youtube.com/watch?v=6lb040GCs2M&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+<!-- -->
+- [KhanAcademy: Electromagnetic waves](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-electromagnetic-waves)
 
 Optional Videos:
 - [Lesics: Electromagnetic Radiation](https://www.youtube.com/watch?v=FWCN_uI5ygY)

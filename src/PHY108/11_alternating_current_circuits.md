@@ -19,7 +19,13 @@ Videos:
 - [MIT: 8.02x, Transformers, Car Coils, RC Circuits](https://www.youtube.com/watch?v=6w3SzI_s5Sg&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 - [MIT: 8.02x, Driven LRC Circuits, Metal Detectors](https://www.youtube.com/watch?v=FWMhk6x785Q&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 <!---->
+- [KhanAcademy: Alternating current](https://www.khanacademy.org/science/in-in-class-12th-physics-india/x51bd77206da864f3:alternating-current)
+<!---->
 - [The Engineering Mindset: Half Wave and Full Wave Bridge Rectifier](https://www.youtube.com/watch?v=RiRyzLl4Y8U)
+<!---->
+- [Ludic Science: Hertz Experiment](https://www.youtube.com/watch?v=9gDFll6Ge7g)
+<!---->
+- [UNSW Physics: Hertz Experiment](https://www.youtube.com/watch?v=qcRNG4KG6IA)
 
 Exercise Videos:
 - [Michel van Biezen: RCL CIRCUITS](https://www.youtube.com/playlist?list=PLX2gX-ftPVXVg9J4Y8fzukA2Ezs2jfufO)
