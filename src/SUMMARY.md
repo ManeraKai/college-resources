@@ -71,9 +71,15 @@
 
 
 - [Linear Algebra (MTH104)](MTH104/index.md)
-    - [Week 1](MTH104/week_1.md)
-    - [Week 2](MTH104/week_2.md)
-    - [Week 3](MTH104/week_3.md)
-    - [Week 4](MTH104/week_4.md)
-    - [Week 5](MTH104/week_5.md)
-
+    - [1. Introduction](MTH104/1.md)
+    - [2. Vectors, Systems of Linear Equations](MTH104/2.md)
+    - [3. Linear Independence, Basis, Dimensions](MTH104/3.md)
+    - [4. Linear Transformations and Matrix Algebra](MTH104/4.md)
+    - [5. Dot Products and Orthogonality](MTH104/5.md)
+    - [6. Types of Matrices](MTH104/6.md)
+    - [(Exam)]()
+    - [7. Determinants](MTH104/7.md)
+    - [8. Eigenvalues and Eigenvectors](MTH104/8.md)
+    - [9. Orthogonality](MTH104/9.md)
+    - [(Review)]()
+    - [(Exam)]()
