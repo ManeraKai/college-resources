@@ -18,3 +18,5 @@ Videos:
 
 Exercise Videos:
 - [Michel van Biezen: Gauss's Law](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUD03mhbNDgEEsFQKEMt8RM)
+<!---->
+

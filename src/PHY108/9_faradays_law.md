@@ -35,4 +35,7 @@ Optional Videos:
 
 Exercise Videos:
 - [Michel van Biezen: Electromagnetic Induction](https://www.youtube.com/playlist?list=PLX2gX-ftPVXV1z8nPIePOUk5WIGVYBzDy)
-
+<!---->
+- [MIT: 8.02x, Induced Current due to a Time Changing Magnetic Field](https://www.youtube.com/watch?v=Q7b1n583srI&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, A Loop of Wire Moving in A Non Unitform B Field](https://www.youtube.com/watch?v=XxLdKwxsJqI&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Magnetic Flux due to an Infinite Wire through a Rectangular Loop](https://www.youtube.com/watch?v=BxiEV8v31pA&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

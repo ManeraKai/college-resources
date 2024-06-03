@@ -22,3 +22,13 @@ Videos:
 Optional Videos:
 - [Lesics: Electromagnetic Radiation](https://www.youtube.com/watch?v=FWCN_uI5ygY)
 - [Physics by Alexander FufaeV: The 4 Maxwell Equations, Integral and Differential Form](https://www.youtube.com/watch?v=hJD8ywGrXks)
+<!---->
+- [MIT: 8.02x, Magnetic Discplacement Current](https://www.youtube.com/watch?v=8ZYFYUFRblM&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Comparing the Displacement Current to the Conduction Current in a Wire](https://www.youtube.com/watch?v=DuhT_sZ9PqY&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, An Argument for the Displacement Current Term](https://www.youtube.com/watch?v=kpn-4D0t8qo&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, EM Plane Waves - Poynting Vector - E-fields - B fields - Wavelength](https://www.youtube.com/watch?v=G6QryRlKbR4&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Spherical EM Waves - Luminosity - Energy Flux](https://www.youtube.com/watch?v=hndPPTKjfPU&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Radiation Pressure - Individual Photons - Momentum in photons](https://www.youtube.com/watch?v=4xBC38XR_Bk&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Radiation Pressure from the Sun](https://www.youtube.com/watch?v=hucfpst6suA&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Sailing using Radiation Pressure](https://www.youtube.com/watch?v=zjujlpRJFU4&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Standing Electromagnetic Waves](https://www.youtube.com/watch?v=Aeq4LU3_ick&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

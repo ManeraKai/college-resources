@@ -28,3 +28,10 @@ Videos:
 Exercise Videos:
 - [Michel van Biezen: Coulomb's Law](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXmkaz1o-gTRDw5wK7Ytw_H)
 - [Michel van Biezen: Electric Field](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUe627lsPqwktId0czDxadk)
+<!---->
+- [MIT: 8.02x, Electric Field due to Two Point Charges](https://www.youtube.com/watch?v=ZUYfbV-m9gw&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Electric Field of a Line Charge](https://www.youtube.com/watch?v=7E34VOj8Elc&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, A Solid Metal Sphere](https://www.youtube.com/watch?v=CDq844vrqk8&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, A Slab of Charge](https://www.youtube.com/watch?v=nW7LDCKWPqg&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, An Electric Dipole](https://www.youtube.com/watch?v=Ijb-UI0gMJM&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Electron Moving in an Electric Field](https://www.youtube.com/watch?v=S6Zlm89i1Do&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

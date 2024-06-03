@@ -28,3 +28,8 @@ Videos:
 
 Exercise Videos:
 - [Michel van Biezen: Magnetic Fields And Magnetic Forces](https://www.youtube.com/playlist?list=PLX2gX-ftPVXX3FUB8FPKFPPXPJ6yhY4mT)
+<!---->
+- [MIT: 8.02x, Electron Gyrating in a Magnetic Field](https://www.youtube.com/watch?v=AbH3PaUatb0&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Determine Mass of Isotope](https://www.youtube.com/watch?v=Y4a7PQiItCU&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Force on a Wire drawing a Current in a Magnetic Field](https://www.youtube.com/watch?v=3bHvEP24who&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Torque on a Current Loop](https://www.youtube.com/watch?v=bQDj0pfg0jU&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

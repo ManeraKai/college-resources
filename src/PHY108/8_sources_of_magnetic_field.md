@@ -27,3 +27,9 @@ Optional Videos:
 
 Exercise Videos:
 - [Michel van Biezen: Magnetic Field Sources](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWMz9EYz_V8CdnotJesSRnY)
+<!---->
+- [MIT: 8.02x, Magnetic Field in the Center of a Rectangular Wire Loop](https://www.youtube.com/watch?v=g2Yp0OLmN3w&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, The Field of Two Semi circles using Biot Savart](https://www.youtube.com/watch?v=RA919IEUqUc&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Using Ampere's Law to Find the Field of a Metallic Cylinder and Shell](https://www.youtube.com/watch?v=X0329Soe8Fk&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Wire with Varying Current Density](https://www.youtube.com/watch?v=9Z8NOZVOT7Q&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Magnetic Field from Moving Sheet of Charge, and Rotating Cylindrical Shell](https://www.youtube.com/watch?v=wy8QQH-szAk&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

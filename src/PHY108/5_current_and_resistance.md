@@ -27,3 +27,6 @@ Exercise Videos:
 - [Michel van Biezen: Ohm's Law and Resistor Circuits (4 of 23) Series and Parallel](https://www.youtube.com/watch?v=YsZyEMs3hic&list=PLX2gX-ftPVXXSnzVqN0lldRssT6HdypN0)
 - [Michel van Biezen: Ohm's Law and Resistor Circuits (5 of 23) Series and Parallel](https://www.youtube.com/watch?v=4-K4JwyHAEw&list=PLX2gX-ftPVXXSnzVqN0lldRssT6HdypN0)
 - [Michel van Biezen: Ohm's Law and Resistor Circuits (6 of 23) Series and Parallel](https://www.youtube.com/watch?v=V377QZbWmbg&list=PLX2gX-ftPVXXSnzVqN0lldRssT6HdypN0)
+<!---->
+- [MIT: 8.02x, Current and Current Density](https://www.youtube.com/watch?v=U0P0iNp9hZo&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, The Electric Field and Resistivity of a Wire drawing a Current](https://www.youtube.com/watch?v=DGZm8461od4&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

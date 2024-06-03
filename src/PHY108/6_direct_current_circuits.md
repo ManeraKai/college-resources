@@ -32,3 +32,8 @@ Exercise Videos:
 - [Michel van Biezen: (12 of 31) Kirchhoff's Laws: A Harder Example](https://www.youtube.com/watch?v=iY9OqWvB744&list=PLX2gX-ftPVXW6bFHC_a2wsp7kJgWyeaT0)
 <!---->
 - [Michel van Biezen: Resistors in Series and Parallel (5 of 5) The RC Circuit](https://www.youtube.com/watch?v=TFTIFqkmpOE&list=PLX2gX-ftPVXX6YOaCz3v6r4n-umSIWisT)
+<!---->
+- [MIT: 8.02x, Charging and Discharging a Battery](https://www.youtube.com/watch?v=M_im3QjAiXU&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Multi Batteries, Multi resistors, Multi loop Circuits](https://www.youtube.com/watch?v=yuF6mqMqdUg&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Current and Potential Differences in a Multi Loop Circuit with a Switch](https://www.youtube.com/watch?v=b3T93g5D97Q&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Discharging a Capacitor](https://www.youtube.com/watch?v=FGHUzaWd8Og&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

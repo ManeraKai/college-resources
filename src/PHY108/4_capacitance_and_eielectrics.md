@@ -27,3 +27,10 @@ Videos:
 
 Exercise Videos:
 - [Michel van Biezen: Capacitors](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWRRRZBxiMTRdxDPz9zrAMZ)
+<!---->
+- [MIT: 8.02x, Parallel Plate Capacitor](https://www.youtube.com/watch?v=Fg7ltXul5zI&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Capacitors in Series and in Parallel](https://www.youtube.com/watch?v=34Gr2fPwLeI&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Spherical Capacitor](https://www.youtube.com/watch?v=9JclFlUovbA&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Parallel Plate Capacitor with a Variable Gap](https://www.youtube.com/watch?v=9JclFlUovbA&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Capacitor with Dielectric](https://www.youtube.com/watch?v=4RnoBgzJBdM&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, A Cylindrical Capacitor with and without Dielectric](https://www.youtube.com/watch?v=Lybx7-9Nnvw&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

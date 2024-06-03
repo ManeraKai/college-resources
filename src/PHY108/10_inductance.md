@@ -27,3 +27,5 @@ Optional Videos:
 Exercise Videos:
 - [Michel van Biezen: Inductance & Inductors](https://www.youtube.com/playlist?list=PLX2gX-ftPVXVphyNCV_tR7ib5PrXfm_0p)
 - [Michel van Biezen: RC & RL Circuits](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXnp1Q4us-Vi7HqHE33AtzA)
+<!---->
+- [MIT: 8.02x, Faraday's Law Applied to Circuits. RL Circuits](https://www.youtube.com/watch?v=oc_JNe2ucYE&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)

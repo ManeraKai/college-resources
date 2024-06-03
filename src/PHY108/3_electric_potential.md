@@ -31,3 +31,9 @@ Optional Videos:
 
 Exercise Videos:
 - [Michel van Biezen: Electrical Potential](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXFqBJixIbQcyXZD6kQnAQH)
+<!---->
+- [MIT: 8.02x, Conducting Spherical Shell with a Point Charge at the Center](https://www.youtube.com/watch?v=aPARoNOIrek&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Calculating the Potential of a Semi circular Rod by Integration](https://www.youtube.com/watch?v=Pmx8c4v7XJI&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, The Electric Field and Potential of Cylindrical Shells Carrying Charge](https://www.youtube.com/watch?v=zJQoiNvGZVg&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, Two Metal Spheres Far Apart at the same Potential](https://www.youtube.com/watch?v=AybQHpyH_ug&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
+- [MIT: 8.02x, The Potential of Two Opposite Charges](https://www.youtube.com/watch?v=PXfMTi9_JhM&list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)
