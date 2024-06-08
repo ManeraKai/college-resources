@@ -81,5 +81,6 @@
     - [7. Determinants](MTH104/7.md)
     - [8. Change of basis](MTH104/8.md)
     - [9. Eigenvalues and Eigenvectors](MTH104/9.md)
+    - [10. Dot product and Cross product](MTH104/10.md)
     - [(Review)]()
     - [(Exam)]()
