@@ -13,6 +13,9 @@ Videos:
 - [Dr. Trefor Bazett: Change of Variables & The Jacobian](https://www.youtube.com/watch?v=wUF-lyyWpUc)
 <!---->
 - [Mathemaniac: What is Jacobian?](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
+<!---->
+- [Professor Leonard: Double Integrals over POLAR REGIONS](https://www.youtube.com/watch?v=HA41kYxVYnw&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+- [Professor Leonard:  How to Change Variables in Multiple Integrals (Using the Jacobian)](https://www.youtube.com/watch?v=VVPu5fWssPg&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
 
 Optional Videos:
 - [Khan Academy: Polar functions derivatives](https://www.khanacademy.org/math/ap-calculus-bc/bc-advanced-functions-new/bc-9-7/v/derivatives-in-polar-coordinates)

@@ -16,3 +16,6 @@ Videos:
 - [Dave: Cylindrical Shells method](https://www.youtube.com/watch?v=MNU5DT-CDrc)
 <!---->
 - [BlackPenRedPen: Surface Area of Revolution](https://www.youtube.com/watch?v=A_vSMlXH3sg)
+<!---->
+- [Professor Leonard: Volume of Solids By Disks and Washers Method](https://www.youtube.com/watch?v=GJOJl47l2_4&list=PLF797E961509B4EB5)
+- [Professor Leonard: Volume of Solids By Cylindrical Shells Method](https://www.youtube.com/watch?v=BDmlottZVd4&list=PLF797E961509B4EB5)

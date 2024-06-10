@@ -19,6 +19,6 @@ Subjects:
 - [7. Determinants](7.md)
 - [8. Change of basis](8.md)
 - [9. Eigenvalues and Eigenvectors](9.md)
-- [10. Orthogonality](10.md)
+- [10. Dot product and Cross product](10.md)
 - (Review)
 - (Exam)
