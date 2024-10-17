@@ -10,6 +10,8 @@ Videos:
 - [Professor Leonard: Checking Solutions in Differential Equations](https://www.youtube.com/watch?v=5LkQEOPwqfk&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
 - [Professor Leonard: Introduction to Initial Value Problems](https://www.youtube.com/watch?v=HjioXdmwze0&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
 - [Professor Leonard: Introduction to Time Rate of Change](https://www.youtube.com/watch?v=yhklHobbuyg&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+
+Exercise Videos:
 - [Professor Leonard: Solving Basic Differential Equations with Integration](https://www.youtube.com/watch?v=_4Bq6I68Yn4&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
 
 Optional Videos:

@@ -87,3 +87,5 @@
 
 - [Differential Equations (MTH215)](MTH215/index.md)
     - [Week 1](MTH215/week_1.md)
+    - [Week 2](MTH215/week_2.md)
+    - [Week 3](MTH215/week_3.md)

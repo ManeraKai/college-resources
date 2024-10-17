@@ -1,6 +1,14 @@
 # Differential Equations (MTH215)
 
+Weeks:
+- [Week 1](week_1.md)
+- [Week 2](week_2.md)
+- [Week 3](week_3.md)
 
+Books:
+- [Fundamentals of Differential Equations and Boundary Value Problems](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)
+
+<!-- 
 - Solution Steps and Solution of A Differential Equation.
 - Differential Equations and Solutions That Can Be Separated into Their Variables. 
 - Exact Differential Equations and General Solutions.
@@ -10,9 +18,4 @@
 - Constant Coefficient Homogeneous Differential Equations and Solutions. 
 - Solutions of Differential Equations with Integral Factor. 
 - Solutions of High Order Differential Equations.
-- General Evaluation of the Course and Discussion. 
-
-Weeks:
-- [Week 1](week_1.md)
-- [Week 2](week_2.md)
-- [Week 3](week_3.md)
+- General Evaluation of the Course and Discussion.  -->
