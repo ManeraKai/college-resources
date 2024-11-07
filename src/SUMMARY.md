@@ -89,3 +89,6 @@
     - [Week 1](MTH215/week_1.md)
     - [Week 2](MTH215/week_2.md)
     - [Week 3](MTH215/week_3.md)
+    - [Week 4](MTH215/week_4.md)
+    - [Week 5 (Holiday)]()
+    - [Week 6](MTH215/week_6.md)
