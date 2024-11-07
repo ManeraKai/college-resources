@@ -19,8 +19,6 @@ Videos:
         - [Professor Leonard: Applications of Slope Fields](https://www.youtube.com/watch?v=i_f6tC0BKxI&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
         - [Professor Leonard: Watch Before Diff Eq 11](https://www.youtube.com/watch?v=QXGtkTIAT1w&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
         - [Professor Leonard: Existence and Uniqueness of Solutions](https://www.youtube.com/watch?v=BVKyaEu1FWk&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
-
-
 - Separable Differential Equations
     - [Professor Leonard: Separable Differential Equations](https://www.youtube.com/watch?v=WfX20b-peDw&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
     - [Professor Leonard: Separable Equations with Initial Values](https://www.youtube.com/watch?v=ZWXG3c7A_9s&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)

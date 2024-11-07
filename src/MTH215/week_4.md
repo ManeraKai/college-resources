@@ -2,6 +2,7 @@
 
 Chapters ([Fundamentals of Differential Equations and Boundary Value Problems](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
 - 2.6 Substitutions and Transformations
+    - Bernoulli Equations
 
 Videos:
 - Bernoulli Differential Equations
