@@ -1,6 +1,6 @@
 # Week 1
 
-Chapters ([Fundamentals of Differential Equations and Boundary Value Problems](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
+Chapters ([Fundamentals of Differential Equations](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
 - 1 Introduction
 - 2.2 Separable Equations
 
