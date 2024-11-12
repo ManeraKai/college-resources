@@ -16,9 +16,9 @@ Books:
 - Differential Equations and Solutions That Can Be Separated into Their Variables. 
 - Exact Differential Equations and General Solutions.
 - Linear Differential Equations and General Solutions. 
-- Linear Differential Equations and It's Applications. 
-- Type of Homogeneous Differential Equations.
+- Linear Differential Equations 
+- Homogeneous Differential Equations.
 - Constant Coefficient Homogeneous Differential Equations and Solutions. 
-- Solutions of Differential Equations with Integral Factor. 
-- Solutions of High Order Differential Equations.
-- General Evaluation of the Course and Discussion.  -->
+- Differential Equations with Integral Factor. 
+- High Order Differential Equations
+-->
