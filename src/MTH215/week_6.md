@@ -1,6 +1,10 @@
 # Week 6
 
-Chapters ([Fundamentals of Differential Equations](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
+Chapters ([Differential Equations For Engineers](https://annas-archive.org/md5/ab5d25b4f04496d66e42b911cf6d9fe4))
+- 2.5 Equations Solvable for the Independent or Dependent Variable
+    - Case 1. Equation Solvable for Variable y
+    - Case 2. Equation Solvable for Variable x
+    - The Clairaut Equation
 
 
 Videos:
@@ -9,10 +13,5 @@ Videos:
     - [Professor Leonard: Reducible Second Order Differential Equations, Missing X](https://www.youtube.com/watch?v=-gi4GfbhrnI&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
 
 
-
-### Clairaut's equation:
-You will be given only a special case of Euler–Lagrange equation, called Clairaut's equation. You will reduce it to
-$$ A(p) \cdot  B\Big(\frac{dp}{dx}\Big)=0 \quad p = \frac{dy}{dx} $$
-Then solve for
-$$ A(p)=0 \quad B\Big(\frac{dp}{dx}\Big)=0  $$
-You will mostly find a General Solution, and a Singular Solution. See [Differential equations for engineers](https://annas-archive.org/md5/ab5d25b4f04496d66e42b911cf6d9fe4), Example 2.39.
+### The Clairaut equation:
+If your lovely teacher said Lagrange without further explanation, she means a special case of Euler–Lagrange equation called The Clairaut equation. See the Chapters above.

@@ -1,9 +1,13 @@
 # Week 3
 
-Chapters ([Fundamentals of Differential Equations](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
-- 2.3 Linear Equations
-- 2.4 Exact Equations
-- 2.5 Special Integrating Factors
+Chapters ([Differential Equations For Engineers](https://annas-archive.org/md5/ab5d25b4f04496d66e42b911cf6d9fe4))
+- 2.3 Exact Differential Equations and Integrating Factors
+    - 2.3.1 Exact Differential Equations
+    - 2.3.2 Integrating Factors
+    - 2.3.3  Method of Inspection
+    - 2.3.4 Integrating Factors by Groups
+- 2.4 Linear First-Order Equations
+    - 2.4.1 Linear First-Order Equations
 
 Videos:
 - Linear Differential Equations

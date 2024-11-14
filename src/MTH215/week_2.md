@@ -1,8 +1,9 @@
 # Week 2
 
-Chapters ([Fundamentals of Differential Equations](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
-- 2.6 Substitutions and Transformations
-    - Homogeneous Equations
+Chapters ([Differential Equations For Engineers](https://annas-archive.org/md5/ab5d25b4f04496d66e42b911cf6d9fe4))
+- 2.2 Method of Transformation of Variables
+    - 2.2.1 Homogeneous Equations
+    - 2.2.2 Special Transformations
 
 Videos:
 - Homogeneous First Order Differential Equations

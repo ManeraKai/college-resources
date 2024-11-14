@@ -1,8 +1,8 @@
 # Week 4
 
-Chapters ([Fundamentals of Differential Equations](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
-- 2.6 Substitutions and Transformations
-    - Bernoulli Equations
+Chapters ([Differential Equations For Engineers](https://annas-archive.org/md5/ab5d25b4f04496d66e42b911cf6d9fe4))
+- 2.4 Linear First-Order Equations
+    - 2.4.2 Bernoulli Differential Equations
 
 Videos:
 - Bernoulli Differential Equations
@@ -13,9 +13,9 @@ Because you are still learning the fundementals of Differential Equations, you w
 #### Example, use the particular solution \\( y_1 = \frac{-1}{x} \\) to find the general solution of \\( x^2(\frac{dy}{dx}+y^2) = 2 \\)
 #### Solution
 Always use the formula \\( y = y_1 + \frac{1}{u} \\), then differentiate \\( y \\) with respect to \\( x \\)
-$$ y = \frac{-1}{x} + \frac{1}{u} \qquad  \frac{dy}{dx} = \frac{1}{x^2} - \frac{1}{u^2} \cdot \frac{du}{dx} $$
+$$ y = \frac{-1}{x} + \frac{1}{u} \qquad  \frac{dy}{dx} = \frac{1}{x^2} + \frac{-1}{u^2} \cdot \frac{du}{dx} $$
 Then solve
-$$ x^2 \left[ \Big(\frac{1}{x^2} - \frac{1}{u^2} \cdot \frac{du}{dx} \Big) + \Big( \frac{-1}{x} + \frac{1}{u} \Big)^2 \right] = 2 $$
+$$ x^2 \left[ \Big(\frac{1}{x^2} + \frac{-1}{u^2} \cdot \frac{du}{dx} \Big) + \Big( \frac{-1}{x} + \frac{1}{u} \Big)^2 \right] = 2 $$
 After simplifying, you'll get
 $$ \frac{du}{dx} + \frac{2}{x}u = 1 $$
 Which is a Linear Differential Equation.

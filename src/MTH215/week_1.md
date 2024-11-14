@@ -1,8 +1,8 @@
 # Week 1
 
-Chapters ([Fundamentals of Differential Equations](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)):
+Chapters ([Differential Equations For Engineers](https://annas-archive.org/md5/ab5d25b4f04496d66e42b911cf6d9fe4))
 - 1 Introduction
-- 2.2 Separable Equations
+- 2.1 The Method of Separation of Variables
 
 Videos:
 - Introduction

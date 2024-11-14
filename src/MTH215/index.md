@@ -9,7 +9,7 @@ Weeks:
 - [Week 6](week_6.md)
 
 Books:
-- [Fundamentals of Differential Equations and Boundary Value Problems](https://annas-archive.org/md5/56a244ea4a50552e7ba39a4f16bd0d2c)
+- [Differential Equations For Engineers](https://annas-archive.org/md5/ab5d25b4f04496d66e42b911cf6d9fe4)
 
 <!-- 
 - Solution Steps and Solution of A Differential Equation.
