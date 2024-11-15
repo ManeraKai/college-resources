@@ -5,3 +5,5 @@ These are supplementing (or REPLACING) resources for college courses. You can ea
 Those courses are for Turkey's English Curriculum.
 
 Enjoy :)
+
+Special Thanks to every video and book creator in this website. You saved our lives!
