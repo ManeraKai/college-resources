@@ -14,7 +14,7 @@ Videos:
     - Range
     - Population & Sample Standard Deviation
     - Population & Sample Variance
-    - Empirical Rule
+    - Empirical Rule (68-95-99.7 Rule)
     - Coefficient of Variation
 - [Professor Leonard: Statistics Lecture 3.4](https://www.youtube.com/watch?v=lPe-rQA_afU&list=PL5102DFDC6790F3D0)
     - Z-Score
@@ -24,6 +24,7 @@ Videos:
     - Interquartile Range
     - Outliers
     - Comparing Standard Deviation
+
 <!-- - Examples
     - [Khan Academy: Range, variance & standard deviation](https://www.youtube.com/watch?v=E4HAYd0QnRc)
     - [Khan Academy: Variance of a population](https://www.youtube.com/watch?v=dvoHB9djouc)

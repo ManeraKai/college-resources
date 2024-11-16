@@ -98,3 +98,5 @@
     - [Week 2](MTH207/week_2.md)
     - [Week 3](MTH207/week_3.md)
     - [Week 4](MTH207/week_4.md)
+    - [Week 5 (Holiday)]()
+    - [Week 6](MTH207/week_6.md)
