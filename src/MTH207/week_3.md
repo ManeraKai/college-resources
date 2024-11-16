@@ -21,4 +21,4 @@ Videos:
     - Independent Events
 - [Professor Leonard: Statistics Lecture 4.5](https://www.youtube.com/watch?v=a86Vj_7R2aQ&list=PL5102DFDC6790F3D0)
     - Probability of all Events
-    - Probability of Complementary Events with "At Least One"
+    - Probability of Events with "At Least One"

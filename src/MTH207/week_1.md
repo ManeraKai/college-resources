@@ -16,12 +16,14 @@ Videos:
 - [Professor Leonard: Statistics Lecture 1.5](https://www.youtube.com/watch?v=MfkJu7J1LE4&list=PL5102DFDC6790F3D0)
     - Sampling Techniques
     - How to Develop a Random Sample
+    - Obervation vs Experiments
     - Randomization
     - Simple Random Sample
     - Convenience Sampling
     - Systematic Sampling
     - Stratified Sampling
     - Cluster Sampling
+    - Sampling & Non-Sampling Error
 - [Professor Leonard: Statistics Lecture 2.2](https://www.youtube.com/watch?v=AbHn39y8eUo&list=PL5102DFDC6790F3D0)
     - Frequency Distribution/Table
     - Class Width
@@ -31,12 +33,13 @@ Videos:
     - Class boundaries
     - Relative Frequency Distribution
     - Cumulative Frequency Distribution
+    - Normal Distribution
     - Histograms
-- Examples
+<!-- - Examples
     - [Khan Academy: Frequency Tables](https://www.youtube.com/watch?v=gdE46YSedvE)
     - [Khan Academy: Mean, median, & mode example](https://www.youtube.com/watch?v=k3aKKasOmIw)
     - [Khan Academy: Creating a bar graph](https://www.youtube.com/watch?v=woUQ9LLaees)
     - [Khan Academy: Reading bar graphs](https://www.youtube.com/watch?v=JCdbCdwqXbc)
     - [Khan Academy: Scatter plot](https://www.youtube.com/watch?v=sHbX58y5D4U)
     - [Khan Academy: Pie chart](https://www.youtube.com/watch?v=4JqH55rLGKY)
-    - [Khan Academy: Identifying individuals, variables and categorical variables in a data set](https://www.youtube.com/watch?v=EqeVXI4WNHM)
+    - [Khan Academy: Identifying individuals, variables and categorical variables in a data set](https://www.youtube.com/watch?v=EqeVXI4WNHM) -->

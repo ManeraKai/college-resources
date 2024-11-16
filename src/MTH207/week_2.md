@@ -12,22 +12,22 @@ Videos:
     - Variation
     - Bank Lines
     - Range
-    - Standard Deviation
-    - Sample Variance
-    - Population Variance
+    - Population & Sample Standard Deviation
+    - Population & Sample Variance
     - Empirical Rule
     - Coefficient of Variation
 - [Professor Leonard: Statistics Lecture 3.4](https://www.youtube.com/watch?v=lPe-rQA_afU&list=PL5102DFDC6790F3D0)
     - Z-Score
-    - Percentiles and Quartiles
+    - Quartiles
+    - Percentiles
     - Box Plot
     - Interquartile Range
     - Outliers
     - Comparing Standard Deviation
-- Examples
+<!-- - Examples
     - [Khan Academy: Range, variance & standard deviation](https://www.youtube.com/watch?v=E4HAYd0QnRc)
     - [Khan Academy: Variance of a population](https://www.youtube.com/watch?v=dvoHB9djouc)
     - [Khan Academy: Population standard deviation](https://www.youtube.com/watch?v=PWiWkqHmum0)
     - [Khan Academy: Interquartile range (IQR)](https://www.youtube.com/watch?v=qLYYHWYr8xI)
     - [Khan Academy: Mean and standard deviation versus median and IQR](https://www.youtube.com/watch?v=qNKOi08NxHs)
-    - [Khan Academy: Sample variance](https://www.youtube.com/watch?v=iHXdzfF7UEs)
+    - [Khan Academy: Sample variance](https://www.youtube.com/watch?v=iHXdzfF7UEs) -->
