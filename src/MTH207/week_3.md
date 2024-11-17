@@ -12,7 +12,7 @@ Videos:
     - Complementary Events
 - [Professor Leonard: Statistics Lecture 4.3](https://www.youtube.com/watch?v=mmWxtSx03JI&list=PL5102DFDC6790F3D0)
     - Addition Rule
-    - Desjoint Events
+    - Disjoint Events
     - Mutually Exclusive
     - Complementary Events
 - [Professor Leonard: Statistics Lecture 4.4](https://www.youtube.com/watch?v=05JCQswK3hE&list=PL5102DFDC6790F3D0)
