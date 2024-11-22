@@ -6,7 +6,6 @@
 - Mesh Analysis/Mesh Currents Method
     - [Mesh Analysis](https://www.youtube.com/watch?v=SkBAJ7TooDk&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=32)
     - [Mesh Analysis (Solved Problem 1)](https://www.youtube.com/watch?v=Ue3ozP_CSL4&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=33)
-    - [Mesh Analysis (Solved Problem 2)](https://www.youtube.com/watch?v=t2rsDrOCn4I&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=34)
     - [Mesh Analysis with Current Source](https://www.youtube.com/watch?v=s5svOTeKnOE&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=35)
 - Nodal Analysis
     - [Nodal Analysis](https://www.youtube.com/watch?v=fHj2RdOnTqg&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=38)
