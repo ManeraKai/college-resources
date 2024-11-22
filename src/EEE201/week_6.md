@@ -11,7 +11,6 @@
     - [Thevenin's Theorem (Problem 6)](https://www.youtube.com/watch?v=nIrFoulGOeY&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=180)
 - Norton's Theorem
     - [Norton's Theorem](https://www.youtube.com/watch?v=RkSN_JxBGt0&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=181)
-    - [Norton's Theorem (Problem 2)](https://www.youtube.com/watch?v=Hw8gyoI5ExY&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=186)
     - [Norton's Theorem (Problem 3)](https://www.youtube.com/watch?v=1tS8PUy8_W8&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=187)
     - [Norton's Theorem (Problem 4)](https://www.youtube.com/watch?v=NzDkCvth_9M&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=188)
     - [Norton's Theorem (Problem 5)](https://www.youtube.com/watch?v=XzVO19UaBzA&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=189)
