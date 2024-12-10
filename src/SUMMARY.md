@@ -118,3 +118,4 @@
         - [Week 6](EEE201/week_6.md)
         - [Week 7](EEE201/week_7.md)
         - [Week 8 (Exam)]()
+        - [Week 9](EEE201/week_9.md)
