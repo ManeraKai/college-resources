@@ -1,5 +1,5 @@
 # Physics I (PHY107)
-
+<!-- 
 Kinematics:
 - Physics and Measurement
 - Vectors
@@ -13,7 +13,7 @@ Kinematics:
 - Rotation of a Rigid Object About a Fixed Axis
 - Rolling Motion and Angular Momentum
 - Statik Equilibrium and Elasticity
-- Oscillatory Motion
+- Oscillatory Motion -->
 
 Books:
 - [Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)

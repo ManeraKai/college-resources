@@ -6,7 +6,7 @@ Books:
 - [Electric Circuits Instructor's Solution Manual](https://annas-archive.org/md5/454e63cdea6d82a260f15ff364524c1e)
 - [Fundamentals of Electrical Engineering](https://annas-archive.org/md5/46020f129cb7d3e87deddebd5ed36ef9)
 
-Weeks:
+<!-- Weeks:
 - Week 1 (bs)
 - Week 2 (bs)
 - [Week 3](week_3.md)
@@ -14,4 +14,4 @@ Weeks:
 - [Week 5](week_5.md)
 - [Week 6](week_6.md)
 - [Week 7](week_7.md)
-- Week 8 (Exam)
+- Week 8 (Exam) -->

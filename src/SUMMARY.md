@@ -58,6 +58,7 @@
         - [Week 7 (review)]()
         - [Week 8 (exam)]()
         - [Week 9](MTH215/week_9.md)
+        - [Week 10](MTH215/week_10.md)
 
     - [Probability and Statistics (MTH207)](MTH207/index.md)
         - [Week 1](MTH207/week_1.md)

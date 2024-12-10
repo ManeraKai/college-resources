@@ -1,6 +1,6 @@
 # Physics II (PHY108)
 
-Subjects:
+<!-- Subjects:
 - [1. Electric Fields](1_electric_fields.md)
 - [2. Gauss's Law](2_gausss_law.md)
 - [3. Electric Potential](3_electric_potential.md)
@@ -12,7 +12,7 @@ Subjects:
 - [9. Faraday's Law](9_faradays_law.md)
 - [10. Inductance](10_inductance.md)
 - [11. Alternating Current Circuits](11_alternating_current_circuits.md)
-- [12. Electromagnetic Waves](12_electromagnetic_waves.md)
+- [12. Electromagnetic Waves](12_electromagnetic_waves.md) -->
 
 Books:
 - [Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)

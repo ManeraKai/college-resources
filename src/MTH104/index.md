@@ -8,7 +8,7 @@
 Books:
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 
-Subjects:
+<!-- Subjects:
 - [1. Introduction](1.md)
 - [2. Vectors, Systems of Linear Equations](2.md)
 - [3. Linear Independence, Basis, Dimensions](3.md)
@@ -21,4 +21,4 @@ Subjects:
 - [9. Eigenvalues and Eigenvectors](9.md)
 - [10. Dot product and Cross product](10.md)
 - (Review)
-- (Exam)
+- (Exam) -->

@@ -1,6 +1,6 @@
 # Mathematics II (MTH106)
 
-Weeks:
+<!-- Weeks:
 - Week 1 (Review of Mathematics I)
 - Week 2 (Review of Mathematics I)
 - [Week 3](week_3.md)
@@ -14,7 +14,7 @@ Weeks:
 - [Week 11](week_11.md)
 - [Week 12](week_12.md)
 - [Week 13](week_13.md)
-- Week 14 (Review)
+- Week 14 (Review) -->
 
 Books:
 - [Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)
