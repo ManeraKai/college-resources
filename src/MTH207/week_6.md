@@ -10,3 +10,6 @@ Videos:
     - Histogram From Probability Distribution
     - Mean, Variance, Standard Deviation of Probability Distribution
     - Usual vs. Unusual
+<!---->
+- [jbstatistics: Introduction to Discrete Random Variables & Discrete Probability Distributions](https://www.youtube.com/watch?v=oHcrna8Fk18)
+- [jbstatistics: The Expected Value and Variance of Discrete Random Variables](https://www.youtube.com/watch?v=Vyk8HQOckIE)

@@ -68,6 +68,10 @@
         - [Week 4](MTH207/week_4.md)
         - [Week 5 (Holiday)]()
         - [Week 6](MTH207/week_6.md)
+        - [Week 7 (review)]()
+        - [Week 8 (exam)]()
+        - [Week 9](MTH207/week_9.md)
+        - [Week 10](MTH207/week_10.md)
 
 
 - [Physics (PHY)](PHY.md)

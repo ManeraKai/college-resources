@@ -1,5 +1,6 @@
 # Week 2
 
+
 Videos:
 - [Professor Leonard: Statistics Lecture 3.2](https://www.youtube.com/watch?v=NGGkOa35Sm8&list=PL5102DFDC6790F3D0)
     - Characteristics of data: Center, Variation, Distribution, Outliers, Changes Over Time
@@ -24,6 +25,12 @@ Videos:
     - Interquartile Range
     - Outliers
     - Comparing Standard Deviation
+
+Articles:
+- [Statology: Quartiles for Grouped Data](https://www.statology.org/quartiles-for-grouped-data/)
+- [Statology: Median of Grouped Data](https://www.statology.org/median-of-grouped-data/)
+- [Statology: Mode of Grouped Data](https://www.statology.org/mode-of-grouped-data/)
+- [Statology: Mean & Standard Deviation of Grouped Data](https://www.statology.org/mean-standard-deviation-grouped-data/)
 
 <!-- - Examples
     - [Khan Academy: Range, variance & standard deviation](https://www.youtube.com/watch?v=E4HAYd0QnRc)

@@ -6,5 +6,9 @@ Videos:
     - Factorial
     - Permutations
     - Combinations
+<!---->
+- [Mario's Math Tutoring: Permutations, Combinations & Probability (14 Word Problems)](https://www.youtube.com/watch?v=tnF9f3zCCKI)
+- [Mario's Math Tutoring: Permutations, Combinations, and Probability (15 Word Problems) ](https://www.youtube.com/watch?v=NJB6eP4_Tks)
+<!---->
 - [3Blue1Brown: Bayes theorem, the geometry of changing beliefs ](https://www.youtube.com/watch?v=HZGCoVF3YvM)
     - Bayes Theorem
