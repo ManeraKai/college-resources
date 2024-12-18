@@ -1,7 +1,7 @@
 # Week 10
 
 Videos:
-- Continuous Probability Distributions
+- Continuous Distributions
     - [jbstatistics: Introduction](https://www.youtube.com/watch?v=OWSOhpS00_s)
     - [jbstatistics: Exercises](https://www.youtube.com/watch?v=EPm7FdajBvc)
     - [jbstatistics: Mean and Variance](https://www.youtube.com/watch?v=Ro7dayHU5DQ)
