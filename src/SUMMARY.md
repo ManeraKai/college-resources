@@ -72,6 +72,8 @@
         - [Week 8 (exam)]()
         - [Week 9](MTH207/week_9.md)
         - [Week 10](MTH207/week_10.md)
+        - [Week 11](MTH207/week_11.md)
+        - [Week 12](MTH207/week_12.md)
 
 
 - [Physics (PHY)](PHY.md)
