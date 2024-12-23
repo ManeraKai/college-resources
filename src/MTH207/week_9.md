@@ -17,5 +17,6 @@ Videos:
         - [jbstatistics: Proof that the Binomial Distribution tends to the Poisson Distribution](https://www.youtube.com/watch?v=ceOwlHnVCqo)
         - [Khan Academy: Poisson Distribution Deriviation 1](https://www.youtube.com/watch?v=3z-M6sbGIZ0)
         - [Khan Academy: Poisson Distribution Deriviation 2](https://www.youtube.com/watch?v=Jkr4FSrNEVY)
+    - [jbstatistics: Multinomial Distribution](https://www.youtube.com/watch?v=syVW7DgvUaY)
     - [jbstatistics: Exercises](https://www.youtube.com/watch?v=Jm_Ch-iESBg)
     - [jbstatistics: Recap](https://www.youtube.com/watch?v=UrOXRvG9oYE)
