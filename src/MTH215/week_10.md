@@ -72,7 +72,7 @@ $$
 Now, we put \\(y_p\\), \\(y_p'\\), and \\(y_p''\\) into our original differential equation
 
 $$
-au_1'y_1' + u_1y_1'' + u_2'y_2' + u_2y_2''+bu_1y_1' + u_2y_2'+cu_1y_1 + u_2y_2=f(x)
+a\big(u_1'y_1' + u_1y_1'' + u_2'y_2' + u_2y_2''\big) + b\big(u_1y_1' + u_2y_2'\big) + c\big(u_1y_1 + u_2y_2\big)=f(x)
 $$
 
 This can be simplified to (watch [blackpenredpen: Variation of Parameters](https://youtube.com/watch?v=BaK4Mkn1k1Y))
