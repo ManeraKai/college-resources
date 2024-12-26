@@ -154,6 +154,6 @@ You may notice that this is the exact same as \\(D\\) in Crammer's Rule, and you
 
 Those two methods are basically the same.
 
-For why we write Wronksian: [Dr. Trefor Bazett: Variation of Parameters, 8:14](https://www.youtube.com/watch?v=4z5aL3aGVQs&t=493)
+For why we write Wronksian: [Dr. Trefor Bazett: Variation of Parameters, 8:14](https://youtube.com/watch?v=wSMad7QpaqE&t=493)
 
 As a myself note, Even if we assumed that \\(y_1\\) and \\(y_2\\) are linearly independent, according to the Wronksian definition, they still can be equal to zero at some points. They satisfy being linearly independent if they were at least non-zero at one point, even if all the other points are zero.
