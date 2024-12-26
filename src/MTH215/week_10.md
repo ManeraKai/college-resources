@@ -23,7 +23,7 @@ There's a lot of confusion about how to solve those. Some solve it using Crammer
 2nd Order Ordinary Differential Equation:
 
 $$
-ay′′+by′+cy=f(x)
+y′′+by′+cy=f(x)
 $$
 
 We know that to make a general solution, we would take the sum of a Complementary/Homogeneous Solution and a Particular Solution:
@@ -72,13 +72,18 @@ $$
 Now, we put \\(y_p\\), \\(y_p'\\), and \\(y_p''\\) into our original differential equation
 
 $$
-a\big(u_1'y_1' + u_1y_1'' + u_2'y_2' + u_2y_2''\big) + b\big(u_1y_1' + u_2y_2'\big) + c\big(u_1y_1 + u_2y_2\big)=f(x)
+\big(u_1'y_1' + u_1y_1'' + u_2'y_2' + u_2y_2''\big) + b\big(u_1y_1' + u_2y_2'\big) + c\big(u_1y_1 + u_2y_2\big)=f(x)
 $$
 
 This can be simplified to (watch [blackpenredpen: Variation of Parameters](https://youtube.com/watch?v=BaK4Mkn1k1Y))
 $$
+u_1(\underbrace{y_1''+by_1'+cy_1}_{y_h = 0}) + u_2(\underbrace{y_2''+by_2'+cy_2}) + u_1'y_1' + u_2'y_2' = f(x)
+$$
+
+$$
 u_1'y_1' + u_2'y_2' = f(x)
 $$
+
 Now, we have two equations
 $$
 \begin{split}
@@ -148,3 +153,7 @@ $$
 You may notice that this is the exact same as \\(D\\) in Crammer's Rule, and you would be correct.
 
 Those two methods are basically the same.
+
+For why we write Wronksian: [Dr. Trefor Bazett: Variation of Parameters, 8:14](https://www.youtube.com/watch?v=4z5aL3aGVQs&t=493)
+
+As a myself note, Even if we assumed that \\(y_1\\) and \\(y_2\\) are linearly independent, according to the Wronksian definition, they still can be equal to zero at some points. They satisfy being linearly independent if they were at least non-zero at one point, even if all the other points are zero.
