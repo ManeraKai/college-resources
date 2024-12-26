@@ -1,11 +1,5 @@
 # Week 11
 
-Chapters:
-- [Handbook of Differential Equations](https://annas-archive.org/md5/49f513e7bc62370eae64309c5d3309e7)
-    - 95 Variation of Parameters
-    - 61 Euler Equations
-
-
 Videos:
 - [Dr. Trefor Bazett: Intro to the Laplace Transform & Three Examples](https://www.youtube.com/watch?v=KqokoYr_h1A)
 - [Dr. Trefor Bazett: Properties of Laplace Transforms](https://www.youtube.com/watch?v=zModDQ-ST30)
