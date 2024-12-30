@@ -78,6 +78,7 @@
         - [Week 10](MTH207/week_10.md)
         - [Week 11](MTH207/week_11.md)
         - [Week 12](MTH207/week_12.md)
+        - [Week 13](MTH207/week_13.md)
 
 
 - [Physics (PHY)](PHY.md)
