@@ -77,7 +77,7 @@ $$
 
 This can be simplified to (watch [blackpenredpen: Variation of Parameters](https://youtube.com/watch?v=BaK4Mkn1k1Y))
 $$
-u_1(\underbrace{y_1''+by_1'+cy_1}\\_{y_h = 0}) + u_2(\underbrace{y_2''+by_2'+cy_2}\\_{y_h = 0}) + u_1'y_1' + u_2'y_2' = f(x)
+u_1(\underbrace{y_1''+by_1'+cy_1}\_{y_h = 0}) + u_2(\underbrace{y_2''+by_2'+cy_2}\_{y_h = 0}) + u_1'y_1' + u_2'y_2' = f(x)
 $$
 
 $$
