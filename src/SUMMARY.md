@@ -134,4 +134,4 @@
         - [Week 10](EEE201/week_10.md)
         - [Week 11](EEE201/week_11.md)
         - [Week 12](EEE201/week_12.md)
-        - [Week 13 (Exercises)]()
+        - [Week 13](EEE201/week_13.md)
