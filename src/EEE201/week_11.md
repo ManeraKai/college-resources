@@ -1,5 +1,6 @@
 # Week 11
 
+Videos:
 - Inductor
     - [Neso Academy: Circuit Elements (Inductor)](https://www.youtube.com/watch?v=1eJTz4RmMHc&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=15)
     - [Neso Academy: Linear and Non-Linear Inductors](https://www.youtube.com/watch?v=e26A3-V19Nw&list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh&index=16)
