@@ -18,3 +18,8 @@ Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd
 
 Videos:
 - [Computer Science Lessons: Binary and Decimal](https://www.youtube.com/watch?v=cJNm938Xwao)
+<!---->
+- [Intermation: Intro to Binary](https://www.youtube.com/watch?v=eE9LB4NgAVQ)
+- [Intermation: Binary to Decimal Conversion](https://www.youtube.com/watch?v=hBdGOb8w4DA)
+- [Intermation: Shifting Bits to Multiply, Divide, and Convert](https://www.youtube.com/watch?v=0w0ECNGnKiw)
+- [Intermation: Octa, Hex Conversions](https://www.youtube.com/watch?v=HoZ8_UIziX8)
