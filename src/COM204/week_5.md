@@ -36,3 +36,4 @@ Videos:
 - [Converting a POS to a Truth Table](https://www.youtube.com/watch?v=obNqeJeQQYI)
 - [Introduction to Karnaugh Maps](https://www.youtube.com/watch?v=pPHxpiJfyS8)
 - [Rules for Makin' Karnaugh Map Rectangles](https://www.youtube.com/watch?v=68e6eOKs8Gg)
+- [Karnaugh Maps and Don't Cares](https://www.youtube.com/watch?v=U92OiiAT854)

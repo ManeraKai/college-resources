@@ -14,6 +14,17 @@ Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd
 - 7.6 Carry Propagation–Look-Ahead Carry Generator
 - 7.7 Arithmetic Logic Unit (ALU)
 - 7.8 Multipliers
+- 8.1 Multiplexer
+- 8.2 Encoders
+- 8.3 Demultiplexers and Decoders
 
-
-<!-- Videos: -->
+Videos:
+- [Half Adder, Full Adder, Ripple Carry Adder, Carry Look-Ahead Adder](https://www.youtube.com/watch?v=JcuYAA9pKxM)
+<!---->
+- [Neso Academy: Carry Look-Ahead Adder (Part 1)](https://www.youtube.com/watch?v=6Z1WikEWxH0)
+- [Neso Academy: Carry Look-Ahead Adder (Part 2)](https://www.youtube.com/watch?v=9lyqSVKbyz8)
+<!---->
+- [Spanning Tree: Carry Look-Ahead Adder](https://www.youtube.com/watch?v=yj6wo5SCObY)
+- [Arithmetic Logic Unit (ALU)](https://www.youtube.com/watch?v=HjneAhCy2N4)
+- [Introduction to Multiplexers](https://www.youtube.com/watch?v=FKvnmxte98A)
+- [4X1 Multiplexer](https://www.youtube.com/watch?v=g1Lfz1XgrH8)
