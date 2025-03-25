@@ -14,7 +14,6 @@ Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd
 - 6.3 Theorems of Boolean Algebra
 - 6.4 Simplification Techniques
 - 6.6 Karnaugh Map Method
-<!-- - 6.5 Quine–McCluskey Tabular Method -->
 
 Videos:
 - [Intro to Boolean Logic, Truth Tables, Buffer, NOT Gate](https://www.youtube.com/watch?v=G84ZmMWamtk)
@@ -31,4 +30,9 @@ Videos:
 - [De Morgan's Theorem and Other Properties](https://www.youtube.com/watch?v=euW9JldGCFk)
 - [Basic Boolean Algebraic Simplification Examples](https://www.youtube.com/watch?v=dLIfh2wj8Dk)
 - [More Boolean Algebraic Simplification Examples](https://www.youtube.com/watch?v=dKxtMXZw2sw)
-- [Introduction to Sum of Products Expressions](https://www.youtube.com/watch?v=13HCv91RGOE)
+- [Introduction to Sum of Products Expressions (SOP)](https://www.youtube.com/watch?v=13HCv91RGOE)
+- [Converting a SOP to a Truth Table](https://www.youtube.com/watch?v=sIdjulp5rB4)
+- [Introduction to Product-of-Sums Expressions (POS)](https://www.youtube.com/watch?v=BiSxQjPZ-jA)
+- [Converting a POS to a Truth Table](https://www.youtube.com/watch?v=obNqeJeQQYI)
+- [Introduction to Karnaugh Maps](https://www.youtube.com/watch?v=pPHxpiJfyS8)
+- [Rules for Makin' Karnaugh Map Rectangles](https://www.youtube.com/watch?v=68e6eOKs8Gg)

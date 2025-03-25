@@ -126,7 +126,7 @@
         - [Week 3](COM204/week_3.md)
         - [Week 4](COM204/week_4.md)
         - [Week 5](COM204/week_5.md)
-        - [Week 6]()
+        - [Week 6](COM204/week_6.md)
         - [Week 7]()
         - [Week 8 (Exam)]()
         - [Week 9]()
