@@ -8,6 +8,10 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
     - 2.1.4 The Size of a Set
     - 2.1.5 Power Sets
     - 2.1.6 Cartesian Products
+- 2.2 Set Operations
+    - 2.2.1 Introduction
+    - 2.2.2 Set Identities
+    - 2.2.3 Generalized Unions and Intersections
 
 Videos:
 - [Set Theory (Basics of Sets)](https://www.youtube.com/watch?v=Ql7pHnavYSA)

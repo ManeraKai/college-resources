@@ -19,6 +19,9 @@ Videos:
 - [Rules of Inference for Quantified Statements (Part 2)](https://www.youtube.com/watch?v=mywP1lqVkXs)
 - [Universal Modus Ponens Rule](https://www.youtube.com/watch?v=5TeDFX7whck)
 - [Universal Modus Tollens Rule](https://www.youtube.com/watch?v=XXAcqrH2bfc)
+<!---->
+- [Intro to Induction](https://www.youtube.com/watch?v=GdM_iA1Zek4)
+- [Induction Proofs Involving Inequalities](https://www.youtube.com/watch?v=L5iCGi3dW-Y)
 
 Exercises:
 - [Nested Quantifiers (Solved Example 1)](https://www.youtube.com/watch?v=XsEEkuUhgbk)

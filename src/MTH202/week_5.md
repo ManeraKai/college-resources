@@ -1,10 +1,9 @@
 # Week 5
 
 Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
-- 2.2 Set Operations
-    - 2.2.1 Introduction
-    - 2.2.2 Set Identities
-    - 2.2.3 Generalized Unions and Intersections
+- 9.5 Equivalence Relations
+    - 9.5.1 Introduction
+    - 9.5.2 Equivalence Relations
 
 Videos:
 - [Introduction to Relations](https://www.youtube.com/watch?v=4Caxyh0zt_o)
