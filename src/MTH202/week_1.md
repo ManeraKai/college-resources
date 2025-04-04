@@ -1,4 +1,4 @@
-# Week 1, Logic
+# Week 1
 
 Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 1.1 Propositional Logic
@@ -38,6 +38,8 @@ Videos:
 - [Propositional Logic − Precedence of Logical Operators](https://www.youtube.com/watch?v=8octtUkdv4Y)
 - [Translating Sentences into Logical Expressions](https://www.youtube.com/watch?v=f5Iy1V3lgFs)
 <!---->
+- [Introduction to First Order Logic](https://www.youtube.com/watch?v=ARywou8HLQk)
+<!---->
 - [Quantifiers](https://www.youtube.com/watch?v=UN6Hd4UlrnM)
 - [Universal Quantifiers](https://www.youtube.com/watch?v=pPYkNkuo8nU)
 - [Universal Quantifiers - Counter Examples](https://www.youtube.com/watch?v=6Ebxy33e-Wk)
@@ -55,4 +57,13 @@ Exercises:
 - [Propositional Logic − Puzzle 1](https://www.youtube.com/watch?v=scsLVM9i8fg)
 - [Propositional Logic − Puzzle 2](https://www.youtube.com/watch?v=otkCaqUhofc)
 - [Propositional Logic (Solved Problem 1)](https://www.youtube.com/watch?v=SBBq-PUvh2c)
+<!---->
+- [Finding The Truth Values of Predicates (Examples)](https://www.youtube.com/watch?v=Cu9an3Rgd2E)
+<!---->
 - [Negating the Quantified Expressions (Examples)](https://www.youtube.com/watch?v=3LbvjGeh6xs)
+<!---->
+- [First Order Logic (Solved Problems) - Part 1](https://www.youtube.com/watch?v=1bpXqRL2dl8)
+- [First Order Logic (Solved Problems) - Part 2](https://www.youtube.com/watch?v=6H1uHXqLeRM)
+- [First Order Logic (Solved Problems) - Part 3](https://www.youtube.com/watch?v=19Eq2QOtOWw)
+- [First Order Logic (Solved Problems) - Part 4](https://www.youtube.com/watch?v=Lv3Ly8g0Rno)
+- [First Order Logic (Solved Problems) - Part 5](https://www.youtube.com/watch?v=FMBg9rA7i4A)
