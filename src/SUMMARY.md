@@ -80,6 +80,21 @@
         - [Week 12](MTH207/week_12.md)
         - [Week 13](MTH207/week_13.md)
 
+    - [Discrete Mathematics (MTH202)](MTH202/index.md)
+        - [Week 1](MTH202/week_1.md)
+        - [Week 2](MTH202/week_2.md)
+        - [Week 3](MTH202/week_3.md)
+        - [Week 4](MTH202/week_4.md)
+        - [Week 5](MTH202/week_5.md)
+        - [Week 6](MTH202/week_6.md)
+        - [Week 7 (review)]()
+        - [Week 8 (exam)]()
+        - [Week 9]()
+        - [Week 10]()
+        - [Week 11]()
+        - [Week 12]()
+        - [Week 13]()
+
 
 - [Physics (PHY)](PHY.md)
     - [Physics I (PHY107)](PHY107/index.md)
