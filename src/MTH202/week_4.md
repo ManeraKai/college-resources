@@ -25,12 +25,14 @@ Videos:
 - [Power Set](https://www.youtube.com/watch?v=FOQn8afAvLE)
 - [Cardinality of Sets](https://www.youtube.com/watch?v=ZvmtUacSxl4)
 - [Cartesian Product](https://www.youtube.com/watch?v=UdZ4yxf-F4M)
-- [Set Operations (Intersection & Union with Venn Diagram)](https://www.youtube.com/watch?v=JED4pyrpzas)
-- [Set Difference and Set Complement](https://www.youtube.com/watch?v=2p8T87-onC4)
-- [Set Operations (Solved Problems)](https://www.youtube.com/watch?v=W3CkXaayqbk)
-- [Set Identities (Part 1)](https://www.youtube.com/watch?v=Ij3Pfzmi_VY)
-- [Set Identities (Part 2)](https://www.youtube.com/watch?v=8hPALF2QBPI)
-- [Set Identities (Part 3)](https://www.youtube.com/watch?v=2-0OvQ5tsn8)
+- Set Operations
+    - [Intersection & Union with Venn Diagram](https://www.youtube.com/watch?v=JED4pyrpzas)
+    - [Set Difference and Set Complement](https://www.youtube.com/watch?v=2p8T87-onC4)
+    - [Solved Problems](https://www.youtube.com/watch?v=W3CkXaayqbk)
+- Set Identities
+    - [(Part 1)](https://www.youtube.com/watch?v=Ij3Pfzmi_VY)
+    - [(Part 2)](https://www.youtube.com/watch?v=8hPALF2QBPI)
+    - [(Part 3)](https://www.youtube.com/watch?v=2-0OvQ5tsn8)
 
 Exercises:
 - [Power Set (Solved Problems)](https://www.youtube.com/watch?v=QdQpSgxLTlA)

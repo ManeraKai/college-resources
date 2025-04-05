@@ -1,21 +1,24 @@
 # Week 5
 
 Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+- 9.4 Closures of Relations
+    - 9.4.2 Diﬀerent Types of Closures
 - 9.5 Equivalence Relations
-    - 9.5.1 Introduction
     - 9.5.2 Equivalence Relations
 
 Videos:
 - [Introduction to Relations](https://www.youtube.com/watch?v=4Caxyh0zt_o)
-- [Types of Relations (Part 1)](https://www.youtube.com/watch?v=GvNGf9Gki7o)
-- [Types of Relations (Part 2)](https://www.youtube.com/watch?v=O19RpfoxQpA)
-- [Types of Relations (Solved Problem)](https://www.youtube.com/watch?v=K1IUntpKkE8)
+- Types of Relations
+    - [Part 1](https://www.youtube.com/watch?v=GvNGf9Gki7o)
+    - [Part 2](https://www.youtube.com/watch?v=O19RpfoxQpA)
+    - [Solved Problem](https://www.youtube.com/watch?v=K1IUntpKkE8)
 - [Operations on Relations](https://www.youtube.com/watch?v=jCt70x6bjU0)
 - [Composition of Relations](https://www.youtube.com/watch?v=e3HJN-grUrk)
 - [Composition of Relation with Itself](https://www.youtube.com/watch?v=DfRC_zPnh8Q)
 - [Representation of Relations](https://www.youtube.com/watch?v=U3wEJbqQziE)
-- [Closure of Relations – Part 1](https://www.youtube.com/watch?v=SgQJlKLWJmY)
-- [Closure of Relations – Part 2](https://www.youtube.com/watch?v=zxbAnR96xC4)
+- Closure of Relations
+    - [Part 1](https://www.youtube.com/watch?v=SgQJlKLWJmY)
+    - [Part 2](https://www.youtube.com/watch?v=zxbAnR96xC4)
 - [Equivalence Relation](https://www.youtube.com/watch?v=RexPywlCmV8)
 
 Exercises:
