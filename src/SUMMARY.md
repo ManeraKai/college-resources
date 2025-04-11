@@ -87,7 +87,7 @@
         - [Week 4](MTH202/week_4.md)
         - [Week 5](MTH202/week_5.md)
         - [Week 6](MTH202/week_6.md)
-        - [Week 7 (review)]()
+        - [Week 7]()
         - [Week 8 (exam)]()
         - [Week 9]()
         - [Week 10]()
@@ -171,7 +171,7 @@
         - [Week 13](EEE201/week_13.md)
 
     - [Electronics Circuits (EEM212)](EEM212/index.md)
-        - [Week 1 (Introduction)]()
+        - [Week 1 (bs)]()
         - [Week 2](EEM212/week_2.md)
         - [Week 3](EEM212/week_3.md)
         - [Week 4](EEM212/week_4.md)

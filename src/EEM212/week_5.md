@@ -4,3 +4,6 @@ Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/
 - 3.1 Introduction
 - 3.2 Transistor Construction
 - 3.3 Transistor Operation
+
+
+# WE DIDN'T STUDY THIS
