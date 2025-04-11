@@ -153,6 +153,22 @@
         - [Week 15]()
         - [Week 16 (Exam)]()
 
+    - [Data Structures And Algorithms (COM202)](COM202/index.md)
+        - [Week 1](COM202/week_1.md)
+        - [Week 2](COM202/week_2.md)
+        - [Week 3](COM202/week_3.md)
+        - [Week 4](COM202/week_4.md)
+        - [Week 5](COM202/week_5.md)
+        - [Week 6](COM202/week_6.md)
+        - [Week 7](COM202/week_7.md)
+        - [Week 8 (Exam)]()
+        - [Week 9](COM202/week_9.md)
+        - [Week 10](COM202/week_10.md)
+        - [Week 11](COM202/week_11.md)
+        - [Week 12](COM202/week_12.md)
+        - [Week 13](COM202/week_13.md)
+        - [Week 14 (Exam)]()
+
 
 - [Electrical Engineering (EEE)](./EEE.md)
     - [Basics of Electrical Engineering (EEE201)](EEE201/index.md)
