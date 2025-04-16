@@ -8,13 +8,18 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
     - 1.6.4 Using Rules of Inference to Build Arguments
 
 Videos:
-- [Rules of Inference - Basic Terminology](https://www.youtube.com/watch?v=4iKahGOKmhY)
-- [Rules of Inference - Definition & Types of Inference Rules](https://www.youtube.com/watch?v=HcS4lqXxrV4)
-- [Arguments Building Using Rules of Inference (Part 1)](https://www.youtube.com/watch?v=28lebQ60TCc)
-- [Arguments Building Using Rules of Inference (Part 2)](https://www.youtube.com/watch?v=CqOn_n1PoQ4)
-- [Checking The Validity of An Argument (Shortcut Method)](https://www.youtube.com/watch?v=AJe3ATDFIjQ)
-- [The Limitation of Propositional Logic](https://www.youtube.com/watch?v=2GuRhc0ZzGc)
+- TrevTutor
+    - [Rules of Inference](https://www.youtube.com/watch?v=8DW0K3mnc-0)
+<!---->
+- Neso Academy
+    - [Rules of Inference - Basic Terminology](https://www.youtube.com/watch?v=4iKahGOKmhY)
+    - [Rules of Inference - Definition & Types of Inference Rules](https://www.youtube.com/watch?v=HcS4lqXxrV4)
+    - [Arguments Building Using Rules of Inference (Part 1)](https://www.youtube.com/watch?v=28lebQ60TCc)
+    - [Arguments Building Using Rules of Inference (Part 2)](https://www.youtube.com/watch?v=CqOn_n1PoQ4)
+    - [Checking The Validity of An Argument (Shortcut Method)](https://www.youtube.com/watch?v=AJe3ATDFIjQ)
+    - [The Limitation of Propositional Logic](https://www.youtube.com/watch?v=2GuRhc0ZzGc)
 
 Exercises:
-- [Rules of Inference in Propositional Logic (Solved Problem 1)](https://www.youtube.com/watch?v=z205Y7D40Lk)
-- [Rules of Inference in Propositional Logic (Solved Problem 2)](https://www.youtube.com/watch?v=4TKhGiaZy5s)
+- Neso Academy
+    - [Rules of Inference in Propositional Logic (Solved Problem 1)](https://www.youtube.com/watch?v=z205Y7D40Lk)
+    - [Rules of Inference in Propositional Logic (Solved Problem 2)](https://www.youtube.com/watch?v=4TKhGiaZy5s)

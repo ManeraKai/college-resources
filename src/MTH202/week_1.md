@@ -25,22 +25,31 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
     - 1.4.9 Negating Quantiﬁed Expressions
 
 Videos:
-- [Introduction](https://www.youtube.com/watch?v=p2b2Vb-cYCs)
-- Propositional Logic
-    - [Motivation & Introduction to Propositional Logic](https://www.youtube.com/watch?v=IZpvlR5J7FQ)
-    - [Propositional Logic, Propositional Variables & Compound Propositions](https://www.youtube.com/watch?v=Ib5njCwNMdk)
-    - [Logical Operators − Negation, Conjunction & Disjunction](https://www.youtube.com/watch?v=6kYngPvoGxU)
-    - [Logical Operators − Exclusive OR](https://www.youtube.com/watch?v=m2mf6I3g2-c)
-    - [Logical Operators − Implication (Part 1)](https://www.youtube.com/watch?v=tACXuzfXzSI)
-    - [Logical Operators − Implication (Part 2)](https://www.youtube.com/watch?v=ccz-w2JMsTM)
-    - [Logical Operators − Implication (Part 3)](https://www.youtube.com/watch?v=mQ6Hhu0xSaE)
-    - [Converse, Contrapositive and Inverse](https://www.youtube.com/watch?v=dsByaZZYXGw)
-    - [Logical Operators − Biconditional Operator](https://www.youtube.com/watch?v=ehKd3KmIRSw)
-    - [Propositional Logic − Precedence of Logical Operators](https://www.youtube.com/watch?v=8octtUkdv4Y)
-    - [Translating Sentences into Logical Expressions](https://www.youtube.com/watch?v=f5Iy1V3lgFs)
-- Predicates
-    - [Introduction to First Order Logic](https://www.youtube.com/watch?v=ARywou8HLQk)
-- Quantifiers
+- TrevTutor
+    - [Propositional Logic](https://www.youtube.com/watch?v=itrXYg41-V0)
+    - [Truth Tables](https://www.youtube.com/watch?v=UiGu57JzLkE)
+    - [Proofs with Truth Tables](https://www.youtube.com/watch?v=9fX6n0_MDic)
+    - [Propositional Equivalences](https://www.youtube.com/watch?v=eihhu72YdpQ)
+    - [Conditionals](https://www.youtube.com/watch?v=xag9TEAORK4)
+    - [Predicates and Quantifiers](https://www.youtube.com/watch?v=gyoqX0W-NH4)
+<!---->
+- Neso Academy
+    - [Introduction](https://www.youtube.com/watch?v=p2b2Vb-cYCs)
+    - Propositional Logic
+        - [Motivation & Introduction to Propositional Logic](https://www.youtube.com/watch?v=IZpvlR5J7FQ)
+        - [Propositional Logic, Propositional Variables & Compound Propositions](https://www.youtube.com/watch?v=Ib5njCwNMdk)
+        - [Logical Operators − Negation, Conjunction & Disjunction](https://www.youtube.com/watch?v=6kYngPvoGxU)
+        - [Logical Operators − Exclusive OR](https://www.youtube.com/watch?v=m2mf6I3g2-c)
+        - [Logical Operators − Implication (Part 1)](https://www.youtube.com/watch?v=tACXuzfXzSI)
+        - [Logical Operators − Implication (Part 2)](https://www.youtube.com/watch?v=ccz-w2JMsTM)
+        - [Logical Operators − Implication (Part 3)](https://www.youtube.com/watch?v=mQ6Hhu0xSaE)
+        - [Converse, Contrapositive and Inverse](https://www.youtube.com/watch?v=dsByaZZYXGw)
+        - [Logical Operators − Biconditional Operator](https://www.youtube.com/watch?v=ehKd3KmIRSw)
+        - [Propositional Logic − Precedence of Logical Operators](https://www.youtube.com/watch?v=8octtUkdv4Y)
+        - [Translating Sentences into Logical Expressions](https://www.youtube.com/watch?v=f5Iy1V3lgFs)
+    - Predicates
+        - [Introduction to First Order Logic](https://www.youtube.com/watch?v=ARywou8HLQk)
+    - Quantifiers
     - [Quantifiers](https://www.youtube.com/watch?v=UN6Hd4UlrnM)
     - [Universal Quantifiers](https://www.youtube.com/watch?v=pPYkNkuo8nU)
     - [Universal Quantifiers - Counter Examples](https://www.youtube.com/watch?v=6Ebxy33e-Wk)
@@ -55,16 +64,29 @@ Videos:
 
 
 Exercises:
-- [Propositional Logic − Puzzle 1](https://www.youtube.com/watch?v=scsLVM9i8fg)
-- [Propositional Logic − Puzzle 2](https://www.youtube.com/watch?v=otkCaqUhofc)
-- [Propositional Logic (Solved Problem 1)](https://www.youtube.com/watch?v=SBBq-PUvh2c)
+- TrevTutor
+    - [Propositional Logic](https://www.youtube.com/watch?v=ebmFeBxrotw)
+    <!---->
+    - [Truth Tables](https://www.youtube.com/watch?v=luRZuSE2n-k)
+    - [Exclusive Or](https://www.youtube.com/watch?v=TCt8wGBEdYY)
+    - [Logic Laws](https://www.youtube.com/watch?v=386Hpy6txtU)
+    - [Logic Laws 2](https://www.youtube.com/watch?v=mCthKo9noBQ)
+    - [Conditionals](https://www.youtube.com/watch?v=goYEdhWCRiQ)
+    <!---->
+    - [Quantifiers](https://www.youtube.com/watch?v=7HvCgm4vBv4)
+    - [Unique Quantifiers](https://www.youtube.com/watch?v=HIaNF4O3i7U)
 <!---->
-- [Finding The Truth Values of Predicates (Examples)](https://www.youtube.com/watch?v=Cu9an3Rgd2E)
-<!---->
-- [Negating the Quantified Expressions (Examples)](https://www.youtube.com/watch?v=3LbvjGeh6xs)
-<!---->
-- [First Order Logic (Solved Problems) - Part 1](https://www.youtube.com/watch?v=1bpXqRL2dl8)
-- [First Order Logic (Solved Problems) - Part 2](https://www.youtube.com/watch?v=6H1uHXqLeRM)
-- [First Order Logic (Solved Problems) - Part 3](https://www.youtube.com/watch?v=19Eq2QOtOWw)
-- [First Order Logic (Solved Problems) - Part 4](https://www.youtube.com/watch?v=Lv3Ly8g0Rno)
-- [First Order Logic (Solved Problems) - Part 5](https://www.youtube.com/watch?v=FMBg9rA7i4A)
+- Neso Academy
+    - [Propositional Logic − Puzzle 1](https://www.youtube.com/watch?v=scsLVM9i8fg)
+    - [Propositional Logic − Puzzle 2](https://www.youtube.com/watch?v=otkCaqUhofc)
+    - [Propositional Logic (Solved Problem 1)](https://www.youtube.com/watch?v=SBBq-PUvh2c)
+    <!---->
+    - [Finding The Truth Values of Predicates (Examples)](https://www.youtube.com/watch?v=Cu9an3Rgd2E)
+    <!---->
+    - [Negating the Quantified Expressions (Examples)](https://www.youtube.com/watch?v=3LbvjGeh6xs)
+    <!---->
+    - [First Order Logic (Solved Problems) - Part 1](https://www.youtube.com/watch?v=1bpXqRL2dl8)
+    - [First Order Logic (Solved Problems) - Part 2](https://www.youtube.com/watch?v=6H1uHXqLeRM)
+    - [First Order Logic (Solved Problems) - Part 3](https://www.youtube.com/watch?v=19Eq2QOtOWw)
+    - [First Order Logic (Solved Problems) - Part 4](https://www.youtube.com/watch?v=Lv3Ly8g0Rno)
+    - [First Order Logic (Solved Problems) - Part 5](https://www.youtube.com/watch?v=FMBg9rA7i4A)

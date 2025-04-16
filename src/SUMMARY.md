@@ -87,7 +87,7 @@
         - [Week 4](MTH202/week_4.md)
         - [Week 5](MTH202/week_5.md)
         - [Week 6](MTH202/week_6.md)
-        - [Week 7]()
+        - [Week 7](MTH202/week_7.md)
         - [Week 8 (exam)]()
         - [Week 9]()
         - [Week 10]()
