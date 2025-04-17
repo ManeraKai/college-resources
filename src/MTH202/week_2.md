@@ -9,8 +9,7 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
 
 Videos:
 - TrevTutor
-    - [Rules of Inference](https://www.youtube.com/watch?v=8DW0K3mnc-0)
-    - Writing a Proof
+    - Rules of Inference
         - [Rules 1](https://www.youtube.com/watch?v=m2j0TX-e8NY)
         - [Rules 2](https://www.youtube.com/watch?v=Q09VwL41ZH0)
         - [Derivable Rules](https://www.youtube.com/watch?v=fi4Q9gY1eos)
@@ -29,3 +28,5 @@ Exercises:
     - [Rules of Inference in Propositional Logic (Solved Problem 2)](https://www.youtube.com/watch?v=4TKhGiaZy5s)
 - TrevTutor
     - [Writing a Proof](https://www.youtube.com/watch?v=ePsgmqE7pJs)
+
+<!-- - [Rules of Inference](https://www.youtube.com/watch?v=8DW0K3mnc-0) -->
