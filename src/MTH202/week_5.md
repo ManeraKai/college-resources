@@ -9,7 +9,6 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
 Videos:
 - TrevTutor
     - [Relations](https://www.youtube.com/watch?v=FI6j5QZNVx0)
-    - [Partial Orders](https://www.youtube.com/watch?v=R36F8CWAi2k)
 <!---->
 - Neso Academy
     - [Introduction to Relations](https://www.youtube.com/watch?v=4Caxyh0zt_o)

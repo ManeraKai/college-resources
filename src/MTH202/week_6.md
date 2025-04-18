@@ -4,8 +4,21 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
 - 9.5 Equivalence Relations
     - 9.5.3 Equivalence Classes
     - 9.5.4 Equivalence Classes and Partitions
+- 9.6 Partial Orderings
 
 Videos:
+- TrevTutor
+    - [Partial Orders](https://www.youtube.com/watch?v=R36F8CWAi2k)
+        - Equivalence Relation
+        - Antisymmetry
+        - Partial Order
+        - Total Order
+- Wrath of Math
+    - [Composition of Relations](https://www.youtube.com/watch?v=1gkUKbrIssY)
+
+- Dr. Trefor Bazett
+    - [Inverse of Relation](https://www.youtube.com/watch?v=cQiyDUiIcOQ)
+
 - Neso Academy
     - [Equivalence Classes](https://www.youtube.com/watch?v=TbCk79SoCYw)
     - [Congruence Modulo m](https://www.youtube.com/watch?v=-SpWfD4WsmM)
