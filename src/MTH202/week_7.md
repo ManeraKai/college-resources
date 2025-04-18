@@ -9,7 +9,11 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
 Videos:
 - TrevTutor
     - [Functions](https://www.youtube.com/watch?v=OixshZzH8t0)
-    - [Injective, Surjective, Bijective](https://www.youtube.com/watch?v=bZred_Ksz2k)
+    - [Properties of Functions](https://www.youtube.com/watch?v=bZred_Ksz2k)
+        - Injective (one-to-one)
+        - Surjective (onto)
+        - Bijective (Injective & Surjective)
+        - Inverse
     - [Pigeonhole Principle](https://www.youtube.com/watch?v=2-mxYrCNX60)
 <!---->
 - Neso Academy
