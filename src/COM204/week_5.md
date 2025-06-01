@@ -1,6 +1,6 @@
 # Week 5
 
-Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
+<!-- Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
 - 4.1 Positive and Negative Logic
 - 4.2 Truth Table
 - 4.3 Logic Gates
@@ -13,7 +13,46 @@ Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd
 - 6.2 Postulates of Boolean Algebra
 - 6.3 Theorems of Boolean Algebra
 - 6.4 Simplification Techniques
-- 6.6 Karnaugh Map Method
+- 6.6 Karnaugh Map Method -->
+
+
+Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+- 4 Logic Functions and Gates
+    - 4.1 Logic Gate Basics
+        - 4.1.1 NOT Gate
+        - 4.1.2 AND Gate
+        - 4.1.3 OR Gate
+        - 4.1.4 Exclusive-OR (XOR) Gate
+    - 4.2 Truth Tables
+    - 4.3 Timing Diagrams for Gates
+    - 4.4 Combinational Logic
+    - 4.5 Truth Tables for Combinational Logic 
+- 5 Boolean Algebra
+    - 5.1 Need for Boolean Expressions
+    - 5.2 Symbols of Boolean Algebra
+    - 5.3 Boolean Expressions of Combinational Logic
+    - 5.4 Laws of Boolean Algebra
+    - 5.5 Rules of Boolean Algebra
+        - 5.5.1 NOT Rule
+        - 5.5.2 OR Rules
+        - 5.5.3 AND Rules
+        - 5.5.4 XOR Rules
+        - 5.5.5 Derivation of Other Rules
+    - 5.6 Simplification
+    - 5.7 DeMorgan's Theorem
+- 6 Standard Boolean Expression Formats
+    - 6.1 Sum-of-Products
+    - 6.2 Converting an SOP Expression to a Truth Table
+    - 6.3 Converting a Truth Table to an SOP Expression
+    - 6.4 Product-of-Sums
+    - 6.5 Converting POS to Truth Table
+    - 6.6 Converting a Truth Table to a POS Expression
+    - 6.7 NAND-NAND Logic
+- 7 Karnaugh Maps
+    - 7.1 The Karnaugh Map
+    - 7.2 Using Karnaugh Maps
+    - 7.3 "Don't Care" Conditions in a Karnaugh Map
+
 
 Videos:
 - [Intro to Boolean Logic, Truth Tables, Buffer, NOT Gate](https://www.youtube.com/watch?v=G84ZmMWamtk)

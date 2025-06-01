@@ -1,6 +1,6 @@
 # Week 6
 
-Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
+<!-- Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
 - 7.1 Combinational Circuits
 - 7.2 Implementing Combinational Logic
 - 7.3 Arithmetic Circuits – Basic Building Blocks
@@ -16,9 +16,9 @@ Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd
 - 7.8 Multipliers
 - 8.1 Multiplexer
 - 8.2 Encoders
-- 8.3 Demultiplexers and Decoders
+- 8.3 Demultiplexers and Decoders -->
 
-Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
+<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
 - 3.4 Digital Components
   - 3.4.1 Digital Circuits and Their Relationship to Boolean Algebra
   - 3.4.2 Integrated Circuits
@@ -30,7 +30,30 @@ Chapters ([The Essentials Of Computer Organization And Architecture](https://ann
   - 3.6.2 Clocks
   - 3.6.3 Flip-Flops
   - 3.6.4 Examples of Sequential Circuits
-- 3.7 Designing Circuits
+- 3.7 Designing Circuits -->
+
+Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+- 8 Combinational Logic Applications
+  - 8.1 Adders
+  - 8.2 Seven-Segment Displays
+  - 8.3 Active-Low Signals
+  - 8.4 Decoders
+  - 8.5 Multiplexers
+  - 8.6 Demultiplexers
+  - 8.7 Integrated Circuits
+<!-- - 9 Binary Operation Applications
+  - 9.1 Bitwise Operations
+    - 9.1.1 Clearing/Masking Bits
+    - 9.1.2 Setting Bits
+    - 9.1.3 Toggling Bits
+  - 9.2 Comparing Bits with XOR
+  - 9.3 Parity
+  - 9.4 Checksum
+  - 9.5 Cyclic Redundancy Check
+    - 9.5.1 CRC Process
+    - 9.5.2 CRC Implementation
+  - 9.6 Hamming Code -->
+
 
 Videos:
 - [Half Adder, Full Adder, Ripple Carry Adder, Carry Look-Ahead Adder](https://www.youtube.com/watch?v=JcuYAA9pKxM)
