@@ -148,9 +148,8 @@
         - [Week 10](COM204/week_10.md)
         - [Week 11](COM204/week_11.md)
         - [Week 12](COM204/week_12.md)
-        - [Week 13](COM204/week_13.md)
-        - [Week 14](COM204/week_14.md)
-        - [Week 15 (Exam)]()
+        - [Week 13 (Review)]()
+        - [Week 14 (Exam)]()
 
     - [Data Structures And Algorithms (COM202)](COM202/index.md)
         - [Week 1](COM202/week_1.md)

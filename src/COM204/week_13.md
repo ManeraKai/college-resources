@@ -9,7 +9,7 @@
   - 6.5.5 Segmentation
   - 6.5.6 Paging Combined with Segmentation -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+<!-- Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 16 Intel 80x86 Base Architecture
   - 16.1 Why Study the 80x86?
   - 16.2 Execution Unit
@@ -20,4 +20,4 @@ Chapters ([Computer organization and design fundamentals](https://annas-archive.
   - 16.3 Bus Interface Unit
     - 16.3.1 Segment Addressing
     - 16.3.2 Instruction Queue
-  - 16.4 Memory versus I/O Ports
+  - 16.4 Memory versus I/O Ports -->

@@ -33,13 +33,4 @@ Chapters ([Computer organization and design fundamentals](https://annas-archive.
     - 12.5.5 Asynchronous vs. Synchronous Memory
 
 Videos:
-- [Data Registers and the Program Counter (Instruction Pointer)](https://www.youtube.com/watch?v=th8FnKQNIYE)
-- [Introduction to the Stack Pointer](https://www.youtube.com/watch?v=n8_2y5E8N4Y)
-- [How Functions use the Stack Pointer](https://www.youtube.com/watch?v=mC5eNUpyfKY)
-- [Introduction to the Flags Register](https://www.youtube.com/watch?v=7eaTT8PekE0)
-- [Example Operation of the CPU Flag Register](https://www.youtube.com/watch?v=CfVj3Iip4q4)
-- [Creating a CPU](https://www.youtube.com/watch?v=GYlNoAMBY6o)
-  - Machine Instructions
-  - Address Bus
-  - Compiler
-  - Comntrol Unit
+- [Core Dumped: Storing Data using Transistors](https://www.youtube.com/watch?v=rM9BjciBLmg)

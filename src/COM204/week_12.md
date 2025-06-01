@@ -22,14 +22,9 @@ Chapters ([Computer organization and design fundamentals](https://annas-archive.
   - 15.9.5 I/O Channels and Processors
 
 Videos:
-- [Introduction to the Memory Hierarchy](https://www.youtube.com/watch?v=JogSnkvENr0)
-- [Organization of a Simple Memory Device](https://www.youtube.com/watch?v=3By4tx4grSk)
-- [Memory Hierarchy Addressing Modes and SRAM versus DRAM Technology](https://www.youtube.com/watch?v=gitpEy-NLwk)
-<!---->
-- [Core Dumped: Storing Data using Transistors](https://www.youtube.com/watch?v=rM9BjciBLmg)
-<!---->
-- [Introduction to Cache Memory](https://www.youtube.com/watch?v=Bz49xnKBH_0)
-- [Fully Associative Caches and Replacement Algorithms](https://www.youtube.com/watch?v=A0vR-ks3hsQ)
-- [Direct Mapped Caches](https://www.youtube.com/watch?v=zocwH0g-qQM)
-- [Set-Associative Caches](https://www.youtube.com/watch?v=gr5M9CULUZw)
-- [Cache Write Policies, Flag Bits, and Split Caches](https://www.youtube.com/watch?v=Y7q2ECeFWE8)
+- [Introduction to the CPU Pipeline](https://www.youtube.com/watch?v=E5qacBU1XjQ)
+- [Introduction to Input/Output](https://www.youtube.com/watch?v=nnO2OfSTVbA)
+- [Using Polled I/O with a Memory Mapped Device](https://www.youtube.com/watch?v=xNH1e5snIEY)
+- [Introduction to Interrupts](https://www.youtube.com/watch?v=dDA3PUr16As)
+- [How to Set Up an Interrupt](https://www.youtube.com/watch?v=0mgNFJnJLc4)
+- [Introduction to Direct Memory Access (DMA)](https://www.youtube.com/watch?v=M16l_ymlfcs)

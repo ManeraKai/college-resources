@@ -22,16 +22,15 @@ Chapters ([Computer organization and design fundamentals](https://annas-archive.
   - 10.6 Parallel Data Output
 
 Videos:
-- [Basic CPU Architecture and Instruction Execution](https://www.youtube.com/watch?v=YNAcQ-uVM7Y)
-- [Executing Instructions using Transistors](https://www.youtube.com/watch?v=HjneAhCy2N4)
+- [Core Dumped: Executing Instructions using Transistors](https://www.youtube.com/watch?v=HjneAhCy2N4)
   - Transistor
   - Logic Gates
   - Adder
   - Binary Decoder
   - OP Code
   - ALU
-- [Introduction to Input/Output](https://www.youtube.com/watch?v=nnO2OfSTVbA)
-- [Using Polled I/O with a Memory Mapped Device](https://www.youtube.com/watch?v=xNH1e5snIEY)
-- [Introduction to Interrupts](https://www.youtube.com/watch?v=dDA3PUr16As)
-- [How to Set Up an Interrupt](https://www.youtube.com/watch?v=0mgNFJnJLc4)
-- [Introduction to Direct Memory Access (DMA)](https://www.youtube.com/watch?v=M16l_ymlfcs)
+<!---->
+- [D Flip-Flop Event Detector](https://www.youtube.com/watch?v=c5-hwuRuCrI)
+- [D Flip-Flop Divide-by-Two Circuit](https://www.youtube.com/watch?v=lxNmz_iEAX0)
+- [D Flip-Flop Binary Counter/Timer Circuit](https://www.youtube.com/watch?v=ts4g_NUuHAc)
+- [Transparent D Latch Applications](https://www.youtube.com/watch?v=EUBf5Exv0TM)
