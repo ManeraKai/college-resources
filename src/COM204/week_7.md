@@ -30,6 +30,9 @@ Videos:
   - OP Code
   - ALU
 <!---->
+- [The Basics of Storing a Bit with the S-R Latch](https://www.youtube.com/watch?v=weju-cwgsmI)
+- [Latch and Flip-Flop Operation](https://www.youtube.com/watch?v=lVXjI8Mpu4w)
+- [Timing Diagrams of Flip-Flops and Latches](https://www.youtube.com/watch?v=moxMU86NeVI)
 - [D Flip-Flop Event Detector](https://www.youtube.com/watch?v=c5-hwuRuCrI)
 - [D Flip-Flop Divide-by-Two Circuit](https://www.youtube.com/watch?v=lxNmz_iEAX0)
 - [D Flip-Flop Binary Counter/Timer Circuit](https://www.youtube.com/watch?v=ts4g_NUuHAc)

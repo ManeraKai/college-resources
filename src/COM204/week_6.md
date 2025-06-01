@@ -69,7 +69,3 @@ Videos:
 - [Logical Expression from Multiplexer](https://www.youtube.com/watch?v=HEluMErB3-s)
 - [Introduction to Demultiplexer | 1:2 DEMUX](https://www.youtube.com/watch?v=t3Ed13z9uz8)
 - [1:4 Demultiplexer](https://www.youtube.com/watch?v=4kgPMT9k3bg)
-<!---->
-- [The Basics of Storing a Bit with the S-R Latch](https://www.youtube.com/watch?v=weju-cwgsmI)
-- [Latch and Flip-Flop Operation](https://www.youtube.com/watch?v=lVXjI8Mpu4w)
-- [Timing Diagrams of Flip-Flops and Latches](https://www.youtube.com/watch?v=moxMU86NeVI)
