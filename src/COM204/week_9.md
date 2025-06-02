@@ -33,4 +33,11 @@ Chapters ([Computer organization and design fundamentals](https://annas-archive.
     - 12.5.5 Asynchronous vs. Synchronous Memory
 
 Videos:
+- [Introduction to the Memory Hierarchy](https://www.youtube.com/watch?v=JogSnkvENr0)
+- [Organization of a Simple Memory Device](https://www.youtube.com/watch?v=3By4tx4grSk)
+- [Introduction to Chip Selects in a Flat Memory Model](https://www.youtube.com/watch?v=lovdz9Ixy0U)
+- [Designing an Active-Low Chip Select from a Memory Map](https://www.youtube.com/watch?v=LoPCkhgoVFc)
+- [Extending Chip Select Theory to Other Computing Resources](https://www.youtube.com/watch?v=ZcvATcEODhk)
+- [Memory Hierarchy Addressing Modes and SRAM versus DRAM Technology](https://www.youtube.com/watch?v=gitpEy-NLwk)
+<!---->
 - [Core Dumped: Storing Data using Transistors](https://www.youtube.com/watch?v=rM9BjciBLmg)
