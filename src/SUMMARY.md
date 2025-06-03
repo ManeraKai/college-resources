@@ -94,6 +94,7 @@
         - [Week 11]()
         - [Week 12]()
         - [Week 13]()
+        - [Week 13 (Exam)]()
 
 
 - [Physics (PHY)](PHY.md)
@@ -136,7 +137,7 @@
         - [5. Data Structures](COM103/5_data_structures.md)
 
     - [Computer Architecture (COM204)](COM204/index.md)
-        - [Week 1 (Introduction)]()
+        - [Week 1 (bs)]()
         - [Week 2](COM204/week_2.md)
         - [Week 3](COM204/week_3.md)
         - [Week 4](COM204/week_4.md)
@@ -183,6 +184,7 @@
         - [Week 11](EEE201/week_11.md)
         - [Week 12](EEE201/week_12.md)
         - [Week 13](EEE201/week_13.md)
+        - [Week 14 (Exam)]()
 
     - [Electronics Circuits (EEM212)](EEM212/index.md)
         - [Week 1 (bs)]()
@@ -193,11 +195,9 @@
         - [Week 6](EEM212/week_6.md)
         - [Week 7](EEM212/week_7.md)
         - [Week 8 (Exam)]()
-        - [Week 9]()
-        - [Week 10]()
-        - [Week 11]()
-        - [Week 12]()
-        - [Week 13]()
-        - [Week 14]()
-        - [Week 15]()
-        - [Week 16 (Exam)]()
+        - [Week 9](EEM212/week_9.md)
+        - [Week 10](EEM212/week_10.md)
+        - [Week 11](EEM212/week_11.md)
+        - [Week 12](EEM212/week_12.md)
+        - [Week 13](EEM212/week_13.md)
+        - [Week 14 (Exam)]()
