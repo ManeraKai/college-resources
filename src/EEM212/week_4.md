@@ -1,13 +1,14 @@
 # Week 4
 
 Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/1fec9964c4c69b9aedb545bc50eff5de)):
-- 2.1 Introduction
-- 2.2 Load-Line Analysis
-- 2.3 Series Diode Configurations
-- 2.4 Parallel and Series–Parallel Configurations
-- 2.5 AND/OR Gates
-- 2.6 Sinusoidal Inputs; Half-Wave Rectification
-- 2.7 Full-Wave Rectification
+- 2 Diode Applications
+    - 2.1 Introduction
+    - 2.2 Load-Line Analysis
+    - 2.3 Series Diode Configurations
+    - 2.4 Parallel and Series–Parallel Configurations
+    - 2.5 AND/OR Gates
+    - 2.6 Sinusoidal Inputs; Half-Wave Rectification
+    - 2.7 Full-Wave Rectification
 
 
 Videos:
