@@ -32,5 +32,3 @@ Videos:
     - [Neso: Common-Emitter Configuration](https://www.youtube.com/watch?v=IRok_SGrx9Q)
     - [Neso: Input Characteristics](https://www.youtube.com/watch?v=jk5CZ_rRAcE)
     - [Neso: Output Characteristics](https://www.youtube.com/watch?v=kfdhNwf7MBA)
-<!---->
-- [ElectronicsNotes: Common Emitter Vs. Common Collector Vs. Common Base](https://www.youtube.com/watch?v=Vktb8Mrgm4k)
