@@ -37,3 +37,9 @@ Videos:
 - [D Flip-Flop Divide-by-Two Circuit](https://www.youtube.com/watch?v=lxNmz_iEAX0)
 - [D Flip-Flop Binary Counter/Timer Circuit](https://www.youtube.com/watch?v=ts4g_NUuHAc)
 - [Transparent D Latch Applications](https://www.youtube.com/watch?v=EUBf5Exv0TM)
+
+Practical:
+- [S-R Latch](https://www.youtube.com/watch?v=KM0DdEaY5sY)
+- [D Latch](https://www.youtube.com/watch?v=peCh_859q7Q)
+- [D Flip-Flop](https://www.youtube.com/watch?v=YW-_GkUguMM)
+- [Divide-by-Two Circuit, Binary Counter](https://www.youtube.com/watch?v=exGEmA67dNc)

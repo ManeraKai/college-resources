@@ -41,3 +41,18 @@ Videos:
 - [Memory Hierarchy Addressing Modes and SRAM versus DRAM Technology](https://www.youtube.com/watch?v=gitpEy-NLwk)
 <!---->
 - [Core Dumped: Storing Data using Transistors](https://www.youtube.com/watch?v=rM9BjciBLmg)
+
+Practical:
+- Buses
+  - [Part 1](https://www.youtube.com/watch?v=QzWW-CBugZo)
+  - [Part 2](https://www.youtube.com/watch?v=faAjse109Q8)
+- Register
+  - [Part 1](https://www.youtube.com/watch?v=-arYx_oVIj8)
+  - [Part 2](https://www.youtube.com/watch?v=CiMaWbz_6E8)
+  - [Part 3](https://www.youtube.com/watch?v=9WE3Obdjtv0)
+- RAM
+  - [Intro](https://www.youtube.com/watch?v=FnxPIZR1ybs)
+  - [Part 1](https://www.youtube.com/watch?v=uYXwCBo40iA)
+  - [Part 2](https://www.youtube.com/watch?v=KNve2LCcSRc)
+  - [Part 3](https://www.youtube.com/watch?v=5rl1tEFXKt0)
+  - [Part 4](https://www.youtube.com/watch?v=Vw3uDOUJRGw)
