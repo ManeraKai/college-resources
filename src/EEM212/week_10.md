@@ -7,7 +7,6 @@ Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/
     - 4.8 Common-Base Configuration
     - 4.9 Miscellaneous Bias Configurations
     - 4.10 Summary Table
-    - 4.11 Design Operations
 
 Videos:
 - [Neso: Collector Feedback Biasing](https://www.youtube.com/watch?v=wg0OqrUXDjI)
