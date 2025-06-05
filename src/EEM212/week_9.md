@@ -14,6 +14,7 @@ Videos:
 - [Neso: Fixed-Bias Configuration](https://www.youtube.com/watch?v=yLEcCtqsa14)
 - [Neso: Emitter-Bias Configuration](https://www.youtube.com/watch?v=rERBi7Ao9To)
 - [Neso: Voltage Divider Bias](https://www.youtube.com/watch?v=VKr9SB3cULc)
+- [SimplyInfo: Coupling Capacitor](https://www.youtube.com/watch?v=tZmXTADSmMs)
 
 Exercises:
 - [Neso: Fixed-Bias Configuration](https://www.youtube.com/watch?v=yMvTpaHKn0E)
