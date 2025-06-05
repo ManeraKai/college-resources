@@ -9,7 +9,9 @@ Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/
     - 4.10 Summary Table
 
 Videos:
-- [Neso: Collector Feedback Biasing](https://www.youtube.com/watch?v=wg0OqrUXDjI)
+- Collector  Feedback Biasing
+    - [Without Emitter Resistance](https://www.youtube.com/watch?v=wg0OqrUXDjI)
+    - [With Emitter Resistance](https://www.youtube.com/watch?v=wah516ZoPtQ)
 
 Exercises:
 - [Neso: Collector Feedback Biasing](https://www.youtube.com/watch?v=9KzApMILLU0)

@@ -11,6 +11,7 @@ Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/
 
 Videos:
 - [Neso: DC Biasing, Load Line & Operating Point](https://www.youtube.com/watch?v=jQb199oIY5U)
+- [Neso: Saturation](https://www.youtube.com/watch?v=GIcLxRZkydY)
 - [Neso: Fixed-Bias Configuration](https://www.youtube.com/watch?v=yLEcCtqsa14)
 - [Neso: Emitter-Bias Configuration](https://www.youtube.com/watch?v=rERBi7Ao9To)
 - [Neso: Voltage Divider Bias](https://www.youtube.com/watch?v=VKr9SB3cULc)
