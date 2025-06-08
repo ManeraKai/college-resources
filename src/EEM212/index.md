@@ -12,12 +12,4 @@ Subjects:
 - BJT Transistors, Small Signal Model, Biasing Circuits
 - BJT Amplifiers (CE)
 - BJT Amplifiers (CB-CC)
-- Mid-term Exam
-- MOSFET Transistors, Small Signal Model, Biasing Circuits
-- MOS Amplifiers (CS)
-- MOS Amplifiers (CG-CD)
-- Operational Amplifier and Its Properties
-- Operational Amplifier Structures: Inverting and Non-Inverting Amplifier, Adder, Integrator, etc.
-- CMOS Inverter: Static Behavior
-- CMOS Inverter: Dynamic Behavior
-- Final Exam
+- MOSFET Transistors, Small Signal Model
