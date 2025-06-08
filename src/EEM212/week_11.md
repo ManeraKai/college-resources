@@ -15,9 +15,9 @@ Videos:
 - \\(r_e\\) Transistor Model
     - [Neso: Part 1](https://www.youtube.com/watch?v=aLofpeLAIeo)
     - [Neso: Part 2](https://www.youtube.com/watch?v=TFDgLL_OI2I)
-    - Fixed-Bias Configuration  (No need to understand \\(A_{vs}\\))
+    - Fixed-Bias Configuration
         - [Neso: Equivalent Circuit, \\(r_e\\) Model, \\(Z_i\\), \\(Z_o\\)](https://www.youtube.com/watch?v=r9R6DsCNpMk)
-        - [Neso: \\(A_v\\), \\(A_{vs}\\)](https://www.youtube.com/watch?v=1YCSoDQSBiU)
+        - [Neso: \\(A_v\\), \\(A_{vs}\\)](https://www.youtube.com/watch?v=1YCSoDQSBiU) (No need to understand \\(A_{vs}\\))
     - Voltage-Divider Bias
         - [Neso: Voltage-Divider Bias](https://www.youtube.com/watch?v=D4KatFV4EXw)
 
