@@ -23,6 +23,6 @@ Videos:
 - [Neso: BJT Vs JFET](https://www.youtube.com/watch?v=BD-OQ7Hy79A)
 
 Exercises:
-- JFET Solved Problems
+- JFET
     - [Neso: Part 1](https://www.youtube.com/watch?v=E06AYiUQlRY)
     - [Neso: Part 2](https://www.youtube.com/watch?v=n9YrszXqPWE)
