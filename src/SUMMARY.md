@@ -89,11 +89,11 @@
         - [Week 6](MTH202/week_6.md)
         - [Week 7](MTH202/week_7.md)
         - [Week 8 (exam)]()
-        - [Week 9]()
-        - [Week 10]()
-        - [Week 11]()
-        - [Week 12]()
-        - [Week 13]()
+        - [Week 9](MTH202/week_9.md)
+        - [Week 10](MTH202/week_10.md)
+        - [Week 11](MTH202/week_11.md)
+        - [Week 12](MTH202/week_12.md)
+        - [Week 13 (Review)]()
         - [Week 13 (Exam)]()
 
 
