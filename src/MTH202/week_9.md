@@ -1,9 +1,12 @@
 # Week 9
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
-- 4.1 Divisibility and Modular Arithmetic
-    - 4.1.1 Introduction
-    - 4.1.2 Division
-    - 4.1.3 The Division Algorithm
-    - 4.1.4 Modular Arithmetic
-    - 4.1.5 Arithmetic Modulo m
+Videos:
+- [Socratica: Group](https://www.youtube.com/watch?v=g7L_r6zw4-c)
+- [Socratica: Group Examples](https://www.youtube.com/watch?v=g7L_r6zw4-c)
+- [Socratica: Subgroups](https://www.youtube.com/watch?v=g7L_r6zw4-c)
+- [Socratica: Examples of Groups and not Groups](https://www.youtube.com/watch?v=g7L_r6zw4-c)
+- [Socratica: Ring](https://www.youtube.com/watch?v=j_f7O-4Rb9U)
+- [Socratica: Ring Examples](https://www.youtube.com/watch?v=_RTHvweHlhE)
+- [Socratica: Units in a Ring](https://www.youtube.com/watch?v=HHpODrFZ4YQ)
+- [Socratica: Field](https://www.youtube.com/watch?v=KCSZ4QhOw0I)
+- [Socratica: Field Examples](https://www.youtube.com/watch?v=9hmr_Fjot_8)
