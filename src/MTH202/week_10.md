@@ -10,25 +10,26 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
 - 4.3 Primes and Greatest Common Divisors
     - 4.3.1 Introduction
     - 4.3.2 Primes
-    - 4.3.3 Trial Division
     - 4.3.6 Greatest Common Divisors and Least Common Multiples
     - 4.3.7 The Euclidean Algorithm
     - 4.3.8 gcds as Linear Combinations
-- 4.6 Cryptography
-    - 4.6.1 Introduction
-    - 4.6.2 Classical Cryptography
+- 4.4 Solving Congruences
+    - 4.4.1 Introduction
+    - 4.4.2 Linear Congruences
+    - 4.4.3 The Chinese Remainder Theorem
+    - 4.4.5 Fermat’s Little Theorem
+
 
 Videos:
 - [TrevTutor: Modular Arithmetic](https://www.youtube.com/watch?v=d-n92Ml1iu0)
-- [Christof Paar: Modular Arithmetic and Historical Ciphers](https://www.youtube.com/watch?v=W1SY6qKZrUk)
-    - Modular Arithmetic
-    - Modulo Operator
-    - Computation of Remainder
-    - Equivalence Class
-    - Sets
-    - Exponentials
-    - Rings
-    - Greatest Common Divisor
-    - Caesar Cipher
-    - Affine Cipher
-- [DanielChanMaths: Bezout's Theorem](https://www.youtube.com/watch?v=5OYLnMyesX4)
+- [TrevTutor: Euclidian Algorithm to find GCD](https://www.youtube.com/watch?v=cOwyHTiW4KE)
+- [Neso: Euclidian Algorithm to find GCD](https://www.youtube.com/watch?v=yHwneN6zJmU)
+- [Neso: Extended Euclidean Algorithm](https://www.youtube.com/watch?v=lq285DDdmtw)
+- [DanielChanMaths: Bezout's identity](https://www.youtube.com/watch?v=_rRu1jg7Kus)
+- [blackpenredpen: System of Congruences, Chinese Remainder Theorem](https://www.youtube.com/watch?v=LInNgWMtFEs)
+- [Khan Academy: Fermat's Little Theorem](https://www.youtube.com/watch?v=OoQ16YCYksw)
+
+
+Exercises:
+- [TrevTutor: Euclidian Algorithm to find GCD](https://www.youtube.com/watch?v=e_Kl5kvRuJs)
+- [Unboxed: Fermat's Little Theorem](https://www.youtube.com/watch?v=HbcMtbSYDec)
