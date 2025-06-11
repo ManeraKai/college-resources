@@ -22,6 +22,7 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
 
 Videos:
 - [TrevTutor: Modular Arithmetic](https://www.youtube.com/watch?v=d-n92Ml1iu0)
+- [Insights into Mathematics: Modular Arithmetic](https://www.youtube.com/watch?v=Sq_BmcmrQkk)
 - [TrevTutor: Euclidian Algorithm to find GCD](https://www.youtube.com/watch?v=cOwyHTiW4KE)
 - [Best Friends Farm: Extended Euclidean Algorithm](https://www.youtube.com/watch?v=fz1vxq5ts5I)
 - [DanielChanMaths: Bezout's identity](https://www.youtube.com/watch?v=_rRu1jg7Kus)
