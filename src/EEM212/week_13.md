@@ -21,6 +21,7 @@ Videos:
     - [Neso: as Voltage-Controlled Resistor](https://www.youtube.com/watch?v=HEVuVMmMZ6o)
     - [Neso: Transfer Characteristics](https://www.youtube.com/watch?v=Vw4V0hRg0oE)
 - [Neso: BJT Vs JFET](https://www.youtube.com/watch?v=BD-OQ7Hy79A)
+- [The Engineering Mindset: MOSFET](https://www.youtube.com/watch?v=AwRJsze_9m4)
 - Enhancement-Type MOSFET
     - Construction & Working
         - [Neso: Part 1](https://www.youtube.com/watch?v=4_nGFY7zgDM)
