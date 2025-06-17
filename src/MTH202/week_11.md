@@ -13,7 +13,7 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
     - 4.6.8 Cryptographic Protocols
 
 Videos:    
-- [Christof Paar: Modular Arithmetic and Historical Ciphers](https://www.youtube.com/watch?v=W1SY6qKZrUk)
+- [Modular Arithmetic and Historical Ciphers](https://www.youtube.com/watch?v=W1SY6qKZrUk)
     - Modular Arithmetic
     - Modulo Operator
     - Computation of Remainder
@@ -24,5 +24,5 @@ Videos:
     - Greatest Common Divisor (GCD)
     - Caesar Cipher
     - Affine Cipher
-- [Mathispower4u: Transposition Cipher](https://www.youtube.com/watch?v=sHsnH1u03e4)
-- [Udacity: Vigenere Cipher](https://www.youtube.com/watch?v=SkJcmCaHqS0)
+- [Transposition Cipher](https://www.youtube.com/watch?v=sHsnH1u03e4)
+- [Vigenere Cipher](https://www.youtube.com/watch?v=SkJcmCaHqS0)

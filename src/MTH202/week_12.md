@@ -17,11 +17,11 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
     - 8.2.3 Linear Nonhomogeneous Recurrence Relations with Constant Coeﬃcients
 
 Videos:
-- [TrevTutor: Recurrence Relations](https://www.youtube.com/watch?v=eAaP4XaB8hM)
-- [TrevTutor: Homogeneous Recurrence Relations](https://www.youtube.com/watch?v=7mhvA5L7KqY)
-- [TrevTutor: Non-Homogeneous Recurrence Relations](https://www.youtube.com/watch?v=EfF_XSEX1Sk)
+- [Recurrence Relations](https://www.youtube.com/watch?v=eAaP4XaB8hM)
+- [Homogeneous Recurrence Relations](https://www.youtube.com/watch?v=7mhvA5L7KqY)
+- [Non-Homogeneous Recurrence Relations](https://www.youtube.com/watch?v=EfF_XSEX1Sk)
 
 Exercises:
-- [TrevTutor: Homogeneous Recurrence Relations 1](https://www.youtube.com/watch?v=Otj2ypYXn0Q)
-- [TrevTutor: Homogeneous Recurrence Relations 2](https://www.youtube.com/watch?v=H6AIrWRrdr0)
-- [TrevTutor: Non-Homogeneous Recurrence Relations](https://www.youtube.com/watch?v=UVuSLfdcT_Y)
+- [Homogeneous Recurrence Relations 1](https://www.youtube.com/watch?v=Otj2ypYXn0Q)
+- [Homogeneous Recurrence Relations 2](https://www.youtube.com/watch?v=H6AIrWRrdr0)
+- [Non-Homogeneous Recurrence Relations](https://www.youtube.com/watch?v=UVuSLfdcT_Y)
