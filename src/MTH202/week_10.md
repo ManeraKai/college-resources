@@ -21,15 +21,16 @@ Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/
 
 
 Videos:
-- [TrevTutor: Modular Arithmetic](https://www.youtube.com/watch?v=d-n92Ml1iu0)
-- [Insights into Mathematics: Modular Arithmetic](https://www.youtube.com/watch?v=Sq_BmcmrQkk)
-- [TrevTutor: Euclidian Algorithm to find the Greatest Common Divisor](https://www.youtube.com/watch?v=cOwyHTiW4KE)
-- [Best Friends Farm: Extended Euclidean Algorithm](https://www.youtube.com/watch?v=fz1vxq5ts5I)
-- [DanielChanMaths: Bezout's identity](https://www.youtube.com/watch?v=_rRu1jg7Kus)
-- [blackpenredpen: System of Congruences, Chinese Remainder Theorem](https://www.youtube.com/watch?v=LInNgWMtFEs)
-- [Khan Academy: Fermat's Little Theorem](https://www.youtube.com/watch?v=OoQ16YCYksw)
-- [Mu Prime Math: Fermat–Euler theorem & Fermat's Little Theorem](https://www.youtube.com/watch?v=5pswKNgVZSg)
+<!-- - [Modular Arithmetic](https://www.youtube.com/watch?v=Sq_BmcmrQkk) -->
+- [Modular Arithmetic](https://www.youtube.com/watch?v=d-n92Ml1iu0)
+- [Euclidian Algorithm to find the Greatest Common Divisor](https://www.youtube.com/watch?v=cOwyHTiW4KE)
+- [Euclidian Algorithm => Extended Euclidean Algorithm to find inverse of mod](https://www.youtube.com/watch?v=fz1vxq5ts5I)
+- [Extended Euclidean Algorithm => Bezout's identity](https://www.youtube.com/watch?v=_rRu1jg7Kus)
+- [System of Congruences => Chinese Remainder Theorem](https://www.youtube.com/watch?v=LInNgWMtFEs)
+- [Fermat–Euler theorem](https://www.youtube.com/watch?v=FPibhoUApbQ)
+- [Fermat's Little Theorem](https://www.youtube.com/watch?v=HbcMtbSYDec)
+- [Intuition of Fermat's Little Theorem](https://www.youtube.com/watch?v=OoQ16YCYksw)
+- [Proof of Fermat–Euler theorem & Fermat's Little Theorem](https://www.youtube.com/watch?v=5pswKNgVZSg)
 
 Exercises:
 - [TrevTutor: Euclidian Algorithm to find the Greatest Common Divisor](https://www.youtube.com/watch?v=e_Kl5kvRuJs)
-- [Unboxed: Fermat's Little Theorem](https://www.youtube.com/watch?v=HbcMtbSYDec)
