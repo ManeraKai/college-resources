@@ -1,5 +1,13 @@
 # Week 9
 
+Chapters([Introduction to Abstract Algebra](http://pdvpmtasgaon.edu.in/uploads/dptmaths/IntruductionofAbstractAlgebra.pdf)):
+- 1 Sets, Relations, and Integers
+    - 1.5 Binary Operations
+- 2 Introduction to Groups
+    - 2.1 Elementary Properties of Groups
+- 7 Introduction to Rings
+    - 7.1 Basic Properties
+
 Videos:
 - [Socratica: Group](https://www.youtube.com/watch?v=g7L_r6zw4-c)
 - [Socratica: Group Examples](https://www.youtube.com/watch?v=yHq_yzYZV6U&list=PL)
