@@ -27,10 +27,10 @@ Videos:
 - [Euclidian Algorithm => Extended Euclidean Algorithm to find inverse of mod](https://www.youtube.com/watch?v=fz1vxq5ts5I)
 - [Extended Euclidean Algorithm => Bezout's identity](https://www.youtube.com/watch?v=_rRu1jg7Kus)
 - [System of Congruences => Chinese Remainder Theorem](https://www.youtube.com/watch?v=LInNgWMtFEs)
-- [Fermat–Euler theorem](https://www.youtube.com/watch?v=FPibhoUApbQ)
 - [Fermat's Little Theorem](https://www.youtube.com/watch?v=HbcMtbSYDec)
 - [Intuition of Fermat's Little Theorem](https://www.youtube.com/watch?v=OoQ16YCYksw)
-- [Proof of Fermat–Euler theorem & Fermat's Little Theorem](https://www.youtube.com/watch?v=5pswKNgVZSg)
+- [Fermat–Euler theorem](https://www.youtube.com/watch?v=FPibhoUApbQ)
+- [Proof of Fermat–Euler Theorem & Fermat's Little Theorem](https://www.youtube.com/watch?v=5pswKNgVZSg)
 
 Exercises:
 - [TrevTutor: Euclidian Algorithm to find the Greatest Common Divisor](https://www.youtube.com/watch?v=e_Kl5kvRuJs)
