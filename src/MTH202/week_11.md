@@ -25,4 +25,4 @@ Videos:
     - Caesar Cipher
     - Affine Cipher
 - [Transposition Cipher](https://www.youtube.com/watch?v=sHsnH1u03e4)
-- [Vigenere Cipher](https://www.youtube.com/watch?v=SkJcmCaHqS0)
+- [Vigenere Cipher](https://www.youtube.com/watch?v=RCkGauRMs2A)
