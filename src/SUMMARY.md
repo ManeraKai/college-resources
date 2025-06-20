@@ -94,7 +94,7 @@
         - [Week 11](MTH202/week_11.md)
         - [Week 12](MTH202/week_12.md)
         - [Week 13 (Review)]()
-        - [Week 13 (Exam)]()
+        - [Week 14 (Exam)]()
 
 
 - [Physics (PHY)](PHY.md)
