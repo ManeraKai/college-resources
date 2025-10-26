@@ -168,6 +168,16 @@
         - [Week 13](COM202/week_13.md)
         - [Week 14 (Exam)]()
 
+    - [Operating Systems (COM301)](COM301/index.md)
+        - [Week 1 (bs)]()
+        - [Week 2](COM301/week_2.md)
+        - [Week 3](COM301/week_3.md)
+        - [Week 4](COM301/week_4.md)
+
+    - [Database Management (COM303)](COM303/index.md)
+        - [Week 1](COM303/week_1.md)
+        - [Week 2](COM303/week_2.md)
+
 
 - [Electrical Engineering (EEE)](./EEE.md)
     - [Basics of Electrical Engineering (EEE201)](EEE201/index.md)
