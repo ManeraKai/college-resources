@@ -7,12 +7,6 @@ Videos:
         - Concurrency
         - Parallelism
     - [CPU Scheduling](https://www.youtube.com/watch?v=O2tV9q6784k)
-    - [Race Conditions](https://www.youtube.com/watch?v=bhpzTWtee2A)
-    - [Solution to Race Conditions](https://www.youtube.com/watch?v=QAzuAn3nFGo)
-        - Race Conditions
-        - Peterson's Solution
-        - Compiler Optimization
-        - CPU Pipelining
 <!---->
 - Neso Academy
     - Threads
@@ -27,4 +21,3 @@ Videos:
         - [CPU and I/O Burst Cycles](https://www.youtube.com/watch?v=pVzb3TUcDLo)
         - [Preemptive and Non-Preemptive Scheduling](https://www.youtube.com/watch?v=4DhFmL-6SDA) -->
 <!---->
-- [Jacob Sorber: Semaphores in C](https://www.youtube.com/watch?v=ukM_zzrIeXs)
