@@ -96,6 +96,11 @@
         - [Week 13 (Review)]()
         - [Week 14 (Exam)]()
 
+    - [Numerical Analysis (MTH219)](MTH219/index.md)
+        - [Week 1](MTH219/week_1.md)
+        - [Week 2](MTH219/week_2.md)
+        - [Week 3](MTH219/week_3.md)
+        - [Week 4](MTH219/week_4.md)
 
 - [Physics (PHY)](PHY.md)
     - [Physics I (PHY107)](PHY107/index.md)
