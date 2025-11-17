@@ -3,10 +3,14 @@
 Videos:
 - Function Approximated Roots
     - Bisection
-    - Fixed point iteration
-        - [The Math Guy: Algebraically](https://www.youtube.com/watch?v=ucz233Izov0)
-        - [Jacob Bishop: Intuition](https://www.youtube.com/watch?v=OXChy3Vqd4A)
+        - [Intermediate Value Theorem](https://www.youtube.com/watch?v=9xgO-EJ3sr0)
+        - [Part 1](https://www.youtube.com/watch?v=Z0YEZkr_58U)
+        - [Part 2](https://www.youtube.com/watch?v=gCwxTa1YuJM)
+        - [Code in MATLAB](https://www.youtube.com/watch?v=fCKUOWiM-6s)
+    - Fixed Point iteration
+        - [The Math Guy: Fixed Point](https://www.youtube.com/watch?v=ucz233Izov0)
+        - [Jacob Bishop: Fixed Point Intuition](https://www.youtube.com/watch?v=OXChy3Vqd4A)
+        - [wenshenpsu: Fixed Point](https://www.youtube.com/watch?v=ggg5_Kgdxxs)
     - Newton-Raphson
         - [Eddie Woo: Newton-Raphson](https://www.youtube.com/watch?v=j6ikEASjbWE)
-        - [Jacob Bishop: Newton-Raphson](https://www.youtube.com/watch?v=sjBXn10c5Ic)
-        - [blackpenredpen: Proof](https://www.youtube.com/watch?v=iVOsU4tnouk)
+        - [Code in MATLAB](https://www.youtube.com/watch?v=eNPfsxZxJLM)

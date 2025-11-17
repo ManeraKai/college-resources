@@ -2,5 +2,10 @@
 
 Videos:
 - Matrix Approximated Solution
-    - [Jacobi](https://www.youtube.com/watch?v=s_XFSeH7xG0&list=PLDea8VeK4MUTppAXQzHBNz3KiyEd9SQms&index=19)
-    - [Gauss-Seidel]()
+    - Jacobi
+        - [Theory](https://www.youtube.com/watch?v=s_XFSeH7xG0)
+        - [Example](https://www.youtube.com/watch?v=UA7bzwCwHMI)
+        - [Code in MATLAB](https://www.youtube.com/watch?v=0NvoPApzV90)
+    - Gauss-Seidel
+        - [Theory](https://www.youtube.com/watch?v=pQVqaiFBvoU)
+        - [Example](https://www.youtube.com/watch?v=qd4jXumIy9E)
