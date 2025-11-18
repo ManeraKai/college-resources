@@ -217,3 +217,12 @@
         - [Week 12](EEM212/week_12.md)
         - [Week 13](EEM212/week_13.md)
         - [Week 14 (Exam)]()
+
+    - [Logical Circuit Design (EEE209)](EEE209/index.md)
+        - [Week 1 (bs)]()
+        - [Week 2 (from COM204)](COM204/week_2.md)
+        - [Week 3 (from COM204)](COM204/week_3.md)
+        - [Week 4 (from COM204)](COM204/week_4.md)
+        - [Week 5 (from COM204)](COM204/week_5.md)
+        - [Week 6 (from COM204)](COM204/week_6.md)
+        - [Week 7 (from COM204)](COM204/week_7.md)
