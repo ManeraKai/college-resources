@@ -182,7 +182,13 @@
 
     - [Database Management (COM303)](COM303/index.md)
         - [Week 1](COM303/week_1.md)
-        - [Week 2](COM303/week_2.md)
+        - [Week 2 (same as 1)]()
+        - [Week 3](COM303/week_3.md)
+        - [Week 4](COM303/week_4.md)
+        - [Week 5](COM303/week_5.md)
+        - [Week 6](COM303/week_6.md)
+        - [Week 7](COM303/week_7.md)
+        - [Week 8 (Exam)]()
 
 
 - [Electrical Engineering (EEE)](./EEE.md)
