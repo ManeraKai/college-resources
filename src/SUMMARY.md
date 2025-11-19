@@ -132,7 +132,7 @@
         - [12. Electromagnetic Waves](PHY108/12_electromagnetic_waves.md)
 
 
-- [Computer (COM)](./COM.md)
+- [Computer Engineering (COM)](./COM.md)
     - [Computer Programming I (COM103)](COM103/index.md)
         - [0. Scratch](COM103/0_scratch.md)
         - [1. C](COM103/1_c.md)
