@@ -1,9 +1,39 @@
 # Week 2
 
 
-<!-- Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
-- 1. Introduction
--->
+Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
+- 1 INTRODUCTION
+    - 1.1 WHAT IS AN OPERATING SYSTEM
+        - 1.1.1 The Operating System as an Extended Machine
+        - 1.1.2 The Operating System as a Resource Manager
+    - 1.2 HISTORY OF OPERATING SYSTEM
+        - 1.2.1 The First Generation (1945-55) Vacuum Tubes
+        - 1.2.2 The Second Generation (1955-65) Transistors and Batch Systems
+        - 1.2.3 The Third Generation (1965-1980) ICs and Multiprogramming
+        - 1.2.4 The Fourth Generation (1980—Present) Personal Computers
+    - 1.3 COMPUTER HARDWARE REVIEW
+        - 1.3.1 Processors
+        - 1.3.2 Memory
+        - 1.3.5 1/0 Devices
+        - 1.3.6 Buses
+    - 1.5 OPERATING SYSTEM CONCEPT
+        - 1.5.1 Processes
+        - 1.5.2 Address Spaces
+        - 1.5.3 Files
+        - 1.5.4 Input/Output
+        - 1.5.5 Protection
+        - 1.5.6 The Shell
+    - 1.6 SYSTEM CALLS
+        - 1.6.1 System Calls for Process Management
+        - 1.6.2 System Calls for File Management
+        - 1.6.3 System Calls for Directory Management
+        - 1.6.4 Miscellaneous System Calls
+    - 1.7 OPERATING SYSTEM STRUCTURE
+        - 1.7.1 Monolithic Systems
+        - 1.7.2 Layered Systems
+        - 1.7.3 Microkernels
+        - 1.7.4 Client-Server Model
+        - 1.7.5 Virtual Machines
 
 <!--
 - I/O polling

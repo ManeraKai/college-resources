@@ -1,5 +1,17 @@
 # Week 3
 
+Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
+- 2 PROCESSES AND THREADS
+    - 2.1 PROCESSES
+        - 2.1.1 The Process Model
+        - 2.1.2 Process Creation
+        - 2.1.3 Process Termination
+        - 2.1.4 Process Hierarchies
+        - 2.1.5 Process States
+        - 2.1.6 Implementation of Processes
+        - 2.1.7 Modeling Multiprogramming
+
+
 Videos:
 - Core Dumped
     - [Concurrency](https://www.youtube.com/watch?v=3X93PnKRNUo)

@@ -179,6 +179,9 @@
         - [Week 3](COM301/week_3.md)
         - [Week 4](COM301/week_4.md)
         - [Week 5](COM301/week_5.md)
+        - [Week 6](COM301/week_6.md)
+        - [Week 7](COM301/week_7.md)
+        - [Week 8 (Exam)]()
 
     - [Database Management (COM303)](COM303/index.md)
         - [Week 1](COM303/week_1.md)
