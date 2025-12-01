@@ -12,3 +12,12 @@ Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd046
     - 2.5 CLASSICAL IPC PROBLEMS
         - 2.5.1 The Dining Philosophers Problem
         - 2.5.2 The Readers and Writers Problem
+
+Videos:
+- Core Dumped
+    - [CPU Scheduling](https://www.youtube.com/watch?v=O2tV9q6784k)
+- Neso Academy
+    - CPU Scheduling
+        - [Introduction](https://www.youtube.com/watch?v=EWkQl0n0w5M)
+        - [CPU and I/O Burst Cycles](https://www.youtube.com/watch?v=pVzb3TUcDLo)
+        - [Preemptive and Non-Preemptive Scheduling](https://www.youtube.com/watch?v=4DhFmL-6SDA)

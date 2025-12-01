@@ -15,6 +15,12 @@ Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd046
 
 Videos:
 - Core Dumped
+    - [IPC](https://www.youtube.com/watch?v=Y2mDwW2pMv4)
+        - IPC (Inter-Process Communication)
+        - Shared Memory
+        - Message Passing
+        - Ports
+        - Socket
     - [Race Conditions](https://www.youtube.com/watch?v=bhpzTWtee2A)
     - [Solution to Race Conditions](https://www.youtube.com/watch?v=QAzuAn3nFGo)
         - Race Conditions
@@ -22,3 +28,15 @@ Videos:
         - Compiler Optimization
         - CPU Pipelining
 - [Jacob Sorber: Semaphores in C](https://www.youtube.com/watch?v=ukM_zzrIeXs)
+- Neso Academy
+    - Semaphores
+        - [What are Semaphores?](https://www.youtube.com/watch?v=XDIOC2EY5JE)
+        - [Disadvantages of Semaphores](https://www.youtube.com/watch?v=2cGo2HdA0dM)
+        - [The Bounded Buffer Problem](https://www.youtube.com/watch?v=Qx3P2wazwI0)
+    - IPC
+        - [IPC (Inter-Process Communication)](https://www.youtube.com/watch?v=dJuYKfR8vec)
+        - [Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74)
+        - Message Passing Systems
+            - [Part 1](https://www.youtube.com/watch?v=LuuSXWkDJOo)
+            - [Part 2](https://www.youtube.com/watch?v=S3mS8MR7bUY)
+            - [Part 3](https://www.youtube.com/watch?v=fViAyFLOYxU)

@@ -11,7 +11,6 @@ Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd046
         - 2.1.6 Implementation of Processes
         - 2.1.7 Modeling Multiprogramming
 
-
 Videos:
 - Core Dumped
     - [Concurrency](https://www.youtube.com/watch?v=3X93PnKRNUo)
@@ -28,13 +27,6 @@ Videos:
     - [Process](https://www.youtube.com/watch?v=LDhoD4IVElk)
         - Address Space
         - Context Switch
-    - [IPC](https://www.youtube.com/watch?v=Y2mDwW2pMv4)
-        - IPC (Inter Process Communication)
-        - Shared Memory
-        - Message Passing
-        - Ports
-        - Socket
-<!---->
 - Neso Academy
     - [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)
     - [Process State](https://www.youtube.com/watch?v=jZ_6PXoaoxo)
@@ -44,13 +36,3 @@ Videos:
     - Operation on Processes
         - [Process Creation](https://www.youtube.com/watch?v=pSW9d3Oaie8)
         - [Process Termination](https://www.youtube.com/watch?v=SFc3jt8t5rU)
-    - IPC (Interprocess Communication)
-        - [IPC (Interprocess Communication)](https://www.youtube.com/watch?v=dJuYKfR8vec)
-        - [Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74)
-        - Message Passing Systems
-            - [Part 1](https://www.youtube.com/watch?v=LuuSXWkDJOo)
-            - [Part 2](https://www.youtube.com/watch?v=S3mS8MR7bUY)
-            - [Part 3](https://www.youtube.com/watch?v=fViAyFLOYxU)
-        <!-- - [Sockets](https://www.youtube.com/watch?v=uagKTbohimU) -->
-        <!-- - [RPC (Remote Procedure Calls)](https://www.youtube.com/watch?v=QmhTjsOOrlw) -->
-        <!-- - [Issues in RPC & How They're Resolved](https://www.youtube.com/watch?v=jH3RezOHROU) -->
