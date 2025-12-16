@@ -1,5 +1,8 @@
 # Week 3
 
+Chapters ([Numerical Mathematics and Computing](https://annas-archive.org/md5/3492b757a4472728fdde443855b0cd93)):
+- 8.2 Iterative Solutions of Linear Systems
+
 Videos:
 - Matrix Approximated Solution
     - Jacobi
