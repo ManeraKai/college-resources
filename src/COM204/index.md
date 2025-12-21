@@ -21,3 +21,6 @@ Books:
 - Cache Memory
 - Virtual Memory
 - Pipeline System -->
+
+
+Note: You may notice that this course should be named **Introduction to Computer Architecture**. Because we had no fundementals in the 2nd year, we basically studied [Logical Circuit Design (EEE209)](../EEE209/index.md) (which is ironically in 3rd year). Then after the mid-term, we studied a little about Computer Architecture.

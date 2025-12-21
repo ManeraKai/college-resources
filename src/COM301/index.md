@@ -15,3 +15,5 @@ Subjects:
 - Memory allocation, virtual memory management
 - File systems and management, UNIX file system
 - Input / Output
+
+Note: don't ask me why Chapter 3 is taught after Chapter 6.
