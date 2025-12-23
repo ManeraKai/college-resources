@@ -28,6 +28,14 @@ Videos:
 - [Introduction to the Flags Register](https://www.youtube.com/watch?v=7eaTT8PekE0)
 - [Example Operation of the CPU Flag Register](https://www.youtube.com/watch?v=CfVj3Iip4q4)
 <!---->
+- [Core Dumped: Executing Instructions using Transistors](https://www.youtube.com/watch?v=HjneAhCy2N4)
+  - Transistor
+  - Logic Gates
+  - Adder
+  - Binary Decoder
+  - OP Code
+  - ALU
+<!---->
 - [Core Dumped: Creating a CPU](https://www.youtube.com/watch?v=GYlNoAMBY6o)
   - Machine Instructions
   - Address Bus
