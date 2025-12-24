@@ -1,4 +1,4 @@
-# Week 3
+# Week 3 (from EEE209)
 
 
 Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
