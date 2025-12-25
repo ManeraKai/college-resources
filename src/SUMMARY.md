@@ -14,8 +14,10 @@
         - [Week 9](MTH105/week_9.md)
         - [Week 10](MTH105/week_10.md)
         - [Week 11](MTH105/week_11.md)
-        - [Week 12 (Review)]()
-        - [Week 13](MTH105/week_13.md)
+        - [Week 12](MTH105/week_12.md)
+        - [Week 13 (Review)]()
+        - [Week 14 (Exam)]()
+
 
     - [Mathematics II (MTH106)](MTH106/index.md)
         - [Week 1 (Review of Mathematics I)]()
@@ -32,6 +34,7 @@
         - [Week 12](MTH106/week_12.md)
         - [Week 13](MTH106/week_13.md)
         - [Week 14 (Review)]()
+        - [Week 14 (Exam)]()
 
     - [Linear Algebra (MTH104)](MTH104/index.md)
         - [1. Introduction](MTH104/1.md)
