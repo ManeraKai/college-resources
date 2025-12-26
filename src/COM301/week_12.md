@@ -8,3 +8,5 @@ Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd046
         - 3.6.3 Instruction Backup
         - 3.6.4 Locking Pages in Memory
         - 3.6.5 Backing Store
+    - 3.7 SEGMENTATION
+        - 3.7.1 Implementation of Pure Segmentation
