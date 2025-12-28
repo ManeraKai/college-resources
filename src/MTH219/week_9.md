@@ -1,7 +1,10 @@
 # Week 9
 
+Chapters:
+- [Lagrange Polynomial Interpolation Error Bound](https://personal.math.vt.edu/embree/math5466/lecture3.pdf) (see after Lagrange Polynomial Interpolation and Newton Interpolation using Divided Differences)
+
 Videos:
 - Polynomial Interpolation
-    - [Lagrange Interpolation](https://www.youtube.com/watch?v=nvkX1Bd90Gk)
-    - Newton Interpolation and Divided Differences
-    - Linear Regression
+    - [Lagrange Polynomial Interpolation](https://www.youtube.com/watch?v=nvkX1Bd90Gk)
+    - [Newton Interpolation using Divided Differences](https://www.youtube.com/watch?v=S7QIU0i1qLE)
+    - Linear Regression (optional)

@@ -2,4 +2,4 @@
 
 Videos:
 - Numerical Differentiation
-    - [Second Order Derivatives and Differentiating Data](https://www.youtube.com/watch?v=dKyqCPjhv0I)
+    - [Finite Difference Derivatives (2nd Order)](https://www.youtube.com/watch?v=dKyqCPjhv0I)
