@@ -4,7 +4,7 @@ These are supplementing (or REPLACING) resources for college courses. You can ea
 
 Those courses are roughly for Turkey's English Curriculum.
 
-Somtimes I only mention book chapters because, no good video exists. So Please READ THE BOOKS.
+Somtimes I only mention book chapters because, no good video exists. So Please [RTFB](https://en.wikipedia.org/wiki/RTFM).
 
 Special Thanks to every video and book creator in this website. You saved our lives!
 
