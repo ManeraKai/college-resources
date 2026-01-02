@@ -1,6 +1,6 @@
 # College Resources
 
-These are supplementing (or REPLACING) resources for college courses. You can easily find all of these links on the internet for free. However, grouping them is the hard part.
+These are supplementing or REPLACING resources for college courses. You can find all of these links on the internet for free. However, finding and organizing them is the hard part.
 
 Those courses are roughly for Turkey's English Curriculum.
 
