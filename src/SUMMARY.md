@@ -113,8 +113,10 @@
         - [Week 10](MTH219/week_10.md)
         - [Week 11](MTH219/week_11.md)
         - [Week 12](MTH219/week_12.md)
-        - [Week 13 (Review)]()
-        - [Week 14 (Exam)]()
+        - [Week 13 (Optional)](MTH219/week_13.md)
+        - [Week 14 (Nothing)]()
+        - [Week 15 (Review)]()
+        - [Week 16 (Exam)]()
 
 - [Physics (PHY)](PHY.md)
     - [Physics I (PHY107)](PHY107/index.md)

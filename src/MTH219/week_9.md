@@ -7,4 +7,3 @@ Videos:
 - Polynomial Interpolation
     - [Lagrange Polynomial Interpolation](https://www.youtube.com/watch?v=nvkX1Bd90Gk)
     - [Newton Interpolation using Divided Differences](https://www.youtube.com/watch?v=S7QIU0i1qLE)
-    - Linear Regression (optional)
