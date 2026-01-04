@@ -1,6 +1,6 @@
 # Week 13
 
-Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/1fec9964c4c69b9aedb545bc50eff5de)):
+Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.li/md5/1fec9964c4c69b9aedb545bc50eff5de)):
 - 6 Field-Effect Transistors
     - 6.1 Introduction
     - 6.2 Construction and Characteristics of JFETs

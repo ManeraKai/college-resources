@@ -1,6 +1,6 @@
 # 8. Sources of Magnetic Field
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 30.1 The Biot–Savart Law
 - 30.2 The Magnetic Force Between Two Parallel Conductors
 - 30.3 Ampère’s Law

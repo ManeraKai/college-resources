@@ -1,6 +1,6 @@
 # 6. Direct Current Circuits
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 28.1 Electromotive Force
 - 28.2 Resistors in Series and Parallel
 - 28.3 Kirchhoff’s Rules

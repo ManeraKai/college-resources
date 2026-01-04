@@ -1,6 +1,6 @@
 # 7. Magnetic Fields
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 29.1 Analysis Model: Particle in a Field (Magnetic)
 - 29.4 Magnetic Force Acting on a Current-Carrying Conductor
 - 29.5 Torque on a Current Loop in a Uniform Magnetic Field

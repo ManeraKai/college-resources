@@ -1,6 +1,6 @@
 # 4. Capacitance and Dielectrics
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 26.1 Definition of Capacitance
 - 26.2 Calculating Capacitance
 - 26.3 Combinations of Capacitors

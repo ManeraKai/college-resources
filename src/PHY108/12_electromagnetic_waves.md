@@ -1,6 +1,6 @@
 # 12. Electromagnetic Waves
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 34.1 Displacement Current and the General Form of Ampère’s Law
 - 34.2 Maxwell’s Equations and Hertz’s Discoveries
 - 34.3 Plane Electromagnetic Waves

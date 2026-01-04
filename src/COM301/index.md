@@ -1,7 +1,7 @@
 # Operating Systems (COM301)
 
 Books:
-- [Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd0467e923a0c04b7a939f84)
+- [Modern Operating Systems](https://annas-archive.li/md5/ac8cd7d4fd0467e923a0c04b7a939f84)
 
 Subjects:
 - Operating systems: basic concepts, classification, history

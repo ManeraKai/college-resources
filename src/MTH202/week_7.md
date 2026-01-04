@@ -1,6 +1,6 @@
 # Week 7
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.li/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 2.3 Functions
     - 2.3.1 Introduction
     - 2.3.2 One-to-One and Onto Functions

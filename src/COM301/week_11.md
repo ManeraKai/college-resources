@@ -1,6 +1,6 @@
 # Week 11
 
-Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
+Chapters ([Modern Operating Systems](https://annas-archive.li/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
 - 3 MEMORY MANAGEMENT
     - 3.5 DESIGN ISSUES FOR PAGING SYSTEMS
         - 3.5.1 Local versus Global Allocation Policies

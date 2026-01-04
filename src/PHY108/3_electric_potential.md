@@ -1,6 +1,6 @@
 # 3. Electric Potential
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 25.1 Electric Potential and Potential Difference
 - 25.2 Potential Difference in a Uniform Electric Field
 - 25.3 Electric Potential and Potential Energy Due to Point Charges

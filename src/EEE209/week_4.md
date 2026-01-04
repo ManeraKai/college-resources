@@ -1,6 +1,6 @@
 # Week 4 (from EEE209)
 
-<!-- Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
+<!-- Chapters ([Digital Electronics](https://annas-archive.li/md5/3f538094613f595ccd218b310a6bfb28)):
 - 3.1 Basic Rules of Binary Addition and Subtraction
 - 3.2 Addition of Larger-Bit Binary Numbers
     - 3.2.1 Addition Using the 2's Complement Method
@@ -10,7 +10,7 @@
 - 3.5 Binary Multiplication
 - 3.6 Binary Division -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 3 Binary Math and Signed Representations
     - 3.1 Binary Addition
     - 3.2 Binary Subtraction

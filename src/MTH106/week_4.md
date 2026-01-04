@@ -1,6 +1,6 @@
 # Week 4
 
-Chapters ([Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)):
+Chapters ([Thomas' Calculus 15ed](https://annas-archive.li/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)):
 - 6.1 Volumes by Slicing and Rotation About an Axis
 - 6.2 Volumes by Cylindrical Shells
 - 6.5 Areas of Surfaces of Revolution

@@ -1,6 +1,6 @@
 # Week 10
 
-Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/1fec9964c4c69b9aedb545bc50eff5de)):
+Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.li/md5/1fec9964c4c69b9aedb545bc50eff5de)):
 - 4 DC Biasing—BJTs
     - 4.6 Collector Feedback Configuration
     - 4.7 Emitter-Follower Configuration

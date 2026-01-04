@@ -1,6 +1,6 @@
 # Week 6 (from EEE209)
 
-<!-- Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
+<!-- Chapters ([Digital Electronics](https://annas-archive.li/md5/3f538094613f595ccd218b310a6bfb28)):
 - 7.1 Combinational Circuits
 - 7.2 Implementing Combinational Logic
 - 7.3 Arithmetic Circuits – Basic Building Blocks
@@ -18,7 +18,7 @@
 - 8.2 Encoders
 - 8.3 Demultiplexers and Decoders -->
 
-<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
+<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.li/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
 - 3.4 Digital Components
   - 3.4.1 Digital Circuits and Their Relationship to Boolean Algebra
   - 3.4.2 Integrated Circuits
@@ -32,7 +32,7 @@
   - 3.6.4 Examples of Sequential Circuits
 - 3.7 Designing Circuits -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 8 Combinational Logic Applications
   - 8.1 Adders
   - 8.2 Seven-Segment Displays

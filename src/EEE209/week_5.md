@@ -1,6 +1,6 @@
 # Week 5 (from EEE209)
 
-<!-- Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
+<!-- Chapters ([Digital Electronics](https://annas-archive.li/md5/3f538094613f595ccd218b310a6bfb28)):
 - 4.1 Positive and Negative Logic
 - 4.2 Truth Table
 - 4.3 Logic Gates
@@ -16,7 +16,7 @@
 - 6.6 Karnaugh Map Method -->
 
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 4 Logic Functions and Gates
     - 4.1 Logic Gate Basics
         - 4.1.1 NOT Gate

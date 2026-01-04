@@ -9,4 +9,4 @@ Weeks:
 - [Week 6](week_6.md) -->
 
 Books:
-- [Probability and Statistics for Engineers and Scientists](https://annas-archive.org/md5/e11ad37ea52fecbb0060a61f8bb2f4c2)
+- [Probability and Statistics for Engineers and Scientists](https://annas-archive.li/md5/e11ad37ea52fecbb0060a61f8bb2f4c2)

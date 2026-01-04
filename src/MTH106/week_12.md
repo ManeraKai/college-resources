@@ -1,6 +1,6 @@
 # Week 12
 
-Chapters ([Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)):
+Chapters ([Thomas' Calculus 15ed](https://annas-archive.li/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)):
 - 15.1 Double and Iterated Integrals over Rectangles
 - 15.2 Double Integrals over General Regions
 - 15.3 Area by Double Integration

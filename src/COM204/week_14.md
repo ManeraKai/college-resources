@@ -1,6 +1,6 @@
 # Week 14
 
-<!-- Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+<!-- Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 17 Intel 80x86 Assembly Language
   - 17.1 Assemblers versus Compilers
     - 17.2 Components of a Line of Assembly Language

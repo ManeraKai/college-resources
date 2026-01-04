@@ -1,6 +1,6 @@
 # Week 2
 
-Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
+Chapters ([Modern Operating Systems](https://annas-archive.li/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
 - 1 INTRODUCTION
     - 1.1 WHAT IS AN OPERATING SYSTEM
         - 1.1.1 The Operating System as an Extended Machine

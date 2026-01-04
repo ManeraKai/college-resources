@@ -1,6 +1,6 @@
 # Week 11
 
-Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/1fec9964c4c69b9aedb545bc50eff5de)):
+Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.li/md5/1fec9964c4c69b9aedb545bc50eff5de)):
 - 5 BJT AC Analysis
     - 5.1 Introduction
     - 5.2 Amplification in the AC Domain

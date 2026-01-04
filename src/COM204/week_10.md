@@ -1,6 +1,6 @@
 # Week 10
 
-<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
+<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.li/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
 - 5.1 Introduction
 - 5.2 Instruction Formats
   - 5.2.1 Design Decisions for Instruction Sets
@@ -13,7 +13,7 @@
   - 5.4.1 Data Types
   - 5.4.2 Address Modes -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 13 Memory Hierarchy
   - 13.1 Characteristics of the Memory Hierarchy
   - 13.4 Cache RAM

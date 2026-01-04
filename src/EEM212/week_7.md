@@ -1,6 +1,6 @@
 # Week 7
 
-Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/1fec9964c4c69b9aedb545bc50eff5de)):
+Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.li/md5/1fec9964c4c69b9aedb545bc50eff5de)):
 - 3 Bipolar Junction Transistors
     - 3.6 Common-Collector Configuration
     <!-- - 3.7 Limits of Operation -->

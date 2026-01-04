@@ -1,6 +1,6 @@
 # Week 5
 
-Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.org/md5/1fec9964c4c69b9aedb545bc50eff5de)):
+Chapters ([Electronic Devices and Circuit Theory](https://annas-archive.li/md5/1fec9964c4c69b9aedb545bc50eff5de)):
 - 2 Diode Applications
     - 2.8 Clippers
     - 2.9 Clampers

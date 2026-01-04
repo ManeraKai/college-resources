@@ -1,6 +1,6 @@
 # Week 7
 
-Chapters ([Modern Operating Systems](https://annas-archive.org/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
+Chapters ([Modern Operating Systems](https://annas-archive.li/md5/ac8cd7d4fd0467e923a0c04b7a939f84)):
 - 6 DEADLOCIS
     - 6.1 RESOURCES
         - 6.1.1 Preemptable and Nonpreemptable Resources

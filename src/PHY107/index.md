@@ -16,6 +16,6 @@ Kinematics:
 - Oscillatory Motion -->
 
 Books:
-- [Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)
-- [Serway & Jewett, Physics 9ed [solutions]](https://annas-archive.org/md5/1d4b6c369e3117829a70fcfec481bbe4)
+- [Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)
+- [Serway & Jewett, Physics 9ed [solutions]](https://annas-archive.li/md5/1d4b6c369e3117829a70fcfec481bbe4)
 - [OpenStax, College Physics for AP® Courses 2ed](https://openstax.org/details/books/college-physics-ap-courses-2e)

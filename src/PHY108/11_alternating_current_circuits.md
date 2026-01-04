@@ -1,6 +1,6 @@
 # 11. Alternating Current Circuits
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 33.1 AC Sources
 - 33.2 Resistors in an AC Circuit
 - 33.3 Inductors in an AC Circuit

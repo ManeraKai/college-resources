@@ -1,6 +1,6 @@
 # 9. Faraday's Law
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 31.1 Faraday’s Law of Induction
 - 31.2 Motional emf
 - 31.3 Lenz’s Law

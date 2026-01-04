@@ -1,6 +1,6 @@
 # Week 13
 
-<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
+<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.li/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
 - 6.5 Virtual Memory
   - 6.5.1 Paging
   - 6.5.2 Effective Access Time Using Paging
@@ -9,7 +9,7 @@
   - 6.5.5 Segmentation
   - 6.5.6 Paging Combined with Segmentation -->
 
-<!-- Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+<!-- Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 16 Intel 80x86 Base Architecture
   - 16.1 Why Study the 80x86?
   - 16.2 Execution Unit

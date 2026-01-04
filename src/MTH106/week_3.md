@@ -1,6 +1,6 @@
 # Week 3
 
-Chapters ([Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)):
+Chapters ([Thomas' Calculus 15ed](https://annas-archive.li/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)):
 - 5.6 Substitution and Area Between Curves
 - 6.3 Lengths of Plane Curves
 

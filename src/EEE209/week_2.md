@@ -1,6 +1,6 @@
 # Week 2 (from EEE209)
 
-<!-- Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
+<!-- Chapters ([Digital Electronics](https://annas-archive.li/md5/3f538094613f595ccd218b310a6bfb28)):
 - 1.2 Introduction to Number Systems
 - 1.3 Decimal Number System
 - 1.4 Binary Number System
@@ -15,7 +15,7 @@
 - 1.14 Hex–Binary and Binary–Hex Conversions
 - 1.15 Hex–Octal and Octal–Hex Conversions -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 2 Numbering Systems
     - 2.1 Unsigned Binary Counting
     - 2.2 Binary Terminology

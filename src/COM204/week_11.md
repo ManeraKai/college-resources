@@ -1,9 +1,9 @@
 # Week 11
 
-<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
+<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.li/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
 - 5.5 Instruction-Level Pipelining -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 15 Introduction to Processor Architecture
     - 15.1 Organization versus Architecture
     - 15.2 Components

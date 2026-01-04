@@ -1,6 +1,6 @@
 # Week 9
 
-<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
+<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.li/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
 - 4.2 MARIE
   - 4.2.1 The Architecture
   - 4.2.2 Registers and Buses
@@ -15,7 +15,7 @@
   - 4.5.2 Why Use Assembly Language?
 - 4.6 Extending Our Instruction Set -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 12 Memory Organization
   - 12.1 Early Memory
   - 12.2 Organization of Memory Device

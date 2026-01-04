@@ -17,5 +17,5 @@
 - Week 14 (Review) -->
 
 Books:
-- [Thomas' Calculus 15ed](https://annas-archive.org/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)
-- [James Stewart Calculus 7ed](https://annas-archive.org/md5/a3a643f0b2a3865055edb4675e6cd8bc)
+- [Thomas' Calculus 15ed](https://annas-archive.li/md5/ca33a08bbe2ed2ef4769d8ff9fbdde41)
+- [James Stewart Calculus 7ed](https://annas-archive.li/md5/a3a643f0b2a3865055edb4675e6cd8bc)

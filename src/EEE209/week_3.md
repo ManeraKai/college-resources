@@ -1,7 +1,7 @@
 # Week 3 (from EEE209)
 
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 2.7 Hexadecimal Representation
 - 2.8 Binary Coded Decimal
 - 2.9 Gray Codes
@@ -9,7 +9,7 @@ Chapters ([Computer organization and design fundamentals](https://annas-archive.
 - 9.3 Parity 
 - 9.6 Hamming Code
 
-Chapters ([Digital Electronics](https://annas-archive.org/md5/3f538094613f595ccd218b310a6bfb28)):
+Chapters ([Digital Electronics](https://annas-archive.li/md5/3f538094613f595ccd218b310a6bfb28)):
 <!-- - 1.8 Number Representation in Binary
     - 1.8.1 Sign-Bit Magnitude
     - 1.8.2 1’s Complement

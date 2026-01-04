@@ -1,6 +1,6 @@
 # 10. Inductance
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 32.1 Self-Induction and Inductance
 - 32.2 RL Circuits
 - 32.3 Energy in a Magnetic Field

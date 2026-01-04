@@ -1,6 +1,6 @@
 # Week 6
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.li/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 9.5 Equivalence Relations
     - 9.5.3 Equivalence Classes
     - 9.5.4 Equivalence Classes and Partitions

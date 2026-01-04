@@ -1,6 +1,6 @@
 # Week 7 (from EEE209)
 
-<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.org/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
+<!-- Chapters ([The Essentials Of Computer Organization And Architecture](https://annas-archive.li/md5/5ba0d1b3a05968d49a19d41ed52c2add)):
 - 4.1 Introduction 
   - 4.1.1 CPU Basics and Organization
   - 4.1.2 The Bus
@@ -9,7 +9,7 @@
   - 4.1.5 Memory Organization and Addressing
   - 4.1.6 Interrupts -->
 
-Chapters ([Computer organization and design fundamentals](https://annas-archive.org/md5/21e29706fb83c40a7f4f1ffc5960c369)):
+Chapters ([Computer organization and design fundamentals](https://annas-archive.li/md5/21e29706fb83c40a7f4f1ffc5960c369)):
 - 10 Memory Cells 
   - 10.1 New Truth Table Symbols
     - 10.1.1 Edges/Transitions

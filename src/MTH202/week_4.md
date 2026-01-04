@@ -1,6 +1,6 @@
 # Week 4
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.li/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 2.1 Sets
     - 2.1.1 Introduction
     - 2.1.2 Venn Diagrams

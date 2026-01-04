@@ -1,6 +1,6 @@
 # Week 10
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.li/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 4.1 Divisibility and Modular Arithmetic
     - 4.1.1 Introduction
     - 4.1.2 Division

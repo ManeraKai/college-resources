@@ -1,6 +1,6 @@
 # Week 5
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.li/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 9.4 Closures of Relations
     - 9.4.2 Diﬀerent Types of Closures
 - 9.5 Equivalence Relations

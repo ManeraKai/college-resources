@@ -1,6 +1,6 @@
 # 1. Electric Fields
 
-Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.org/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
+Chapters ([Serway & Jewett, Physics 9ed](https://annas-archive.li/md5/076b2e7e2084a32914bcb8ca29d04f4d)):
 - 23.1 Properties of Electric Charges
 - 23.2 Charging Objects by Induction
 - 23.3 Coulomb's Law

@@ -1,6 +1,6 @@
 # Week 2
 
-Chapters ([Numerical Mathematics and Computing](https://annas-archive.org/md5/3492b757a4472728fdde443855b0cd93)):
+Chapters ([Numerical Mathematics and Computing](https://annas-archive.li/md5/3492b757a4472728fdde443855b0cd93)):
 - 8.1 Matrix Factorizations
 
 Videos:

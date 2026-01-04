@@ -4,7 +4,7 @@
 
 Curriculum:
 - Database System Concepts
-    - [Book](https://annas-archive.org/md5/7ea8b6552592a7c2096ee3ebcc3fb4bf)
+    - [Book](https://annas-archive.li/md5/7ea8b6552592a7c2096ee3ebcc3fb4bf)
     - [Slides, Solutions to Book, Laboratory:](https://db-book.com/)
 
 Subjects:

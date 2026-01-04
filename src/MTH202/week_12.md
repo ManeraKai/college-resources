@@ -1,6 +1,6 @@
 # Week 12
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.li/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 2.4 Sequences and Summations
     - 2.4.1 Introduction
     - 2.4.2 Sequences

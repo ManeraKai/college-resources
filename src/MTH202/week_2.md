@@ -1,6 +1,6 @@
 # Week 2
 
-Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.org/md5/fbd2bb38796aca68b86da621fe6b0fad)):
+Chapters ([Discrete Mathematics and Its Applications](https://annas-archive.li/md5/fbd2bb38796aca68b86da621fe6b0fad)):
 - 1.6 Rulesof Inference
     - 1.6.1 Introduction
     - 1.6.2 Valid Arguments in Propositional Logic
