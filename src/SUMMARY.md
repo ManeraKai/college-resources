@@ -119,7 +119,7 @@
         - [Week 16 (Exam)]()
 
 - [Physics (PHY)](PHY.md)
-    - [Physics I (PHY107)](PHY107/index.md)
+    - [Physics I (PHY107)]()
         - [1. Physics and Measurement]()
         - [2. Motion in One Dimension]()
         - [3. Vectors]()
@@ -205,14 +205,14 @@
         - [Week 13](COM301/week_13.md)
         - [Week 14 (Exam)]()
 
-    - [Database Management (COM303)](COM303/index.md)
-        - [Week 1](COM303/week_1.md)
+    - [Database Management (COM303)]()
+        - [Week 1]()
         - [Week 2 (same as 1)]()
-        - [Week 3](COM303/week_3.md)
-        - [Week 4](COM303/week_4.md)
-        - [Week 5](COM303/week_5.md)
-        - [Week 6](COM303/week_6.md)
-        - [Week 7](COM303/week_7.md)
+        - [Week 3]()
+        - [Week 4]()
+        - [Week 5]()
+        - [Week 6]()
+        - [Week 7]()
         - [Week 8 (Exam)]()
 
 
