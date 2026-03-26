@@ -264,3 +264,5 @@
         - [Week 12 (Nothing)]()
         - [Week 13 (Review)]()
         - [Week 14 (Exam)]()
+
+    - [Signals and Systems (EEE307)](./EEE307/index.md)
