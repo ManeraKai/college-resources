@@ -265,4 +265,19 @@
         - [Week 13 (Review)]()
         - [Week 14 (Exam)]()
 
+    - [Electromagnetic Theory (EEE216)](./EEE216/index.md)
+        - [Week 1 (bs)]()
+        - [Week 2 ](EEE216/week_2.md)
+        - [Week 3](EEE216/week_3.md)
+        - [Week 4](EEE216/week_4.md)
+        - [Week 5 (same as 4)]()
+        - [Week 6 (same as 4)]()
+        - [Week 7 (same as 4)]()
+        - [Week 8](EEE216/week_8.md)
+        - [Week 9](EEE216/week_9.md)
+        - [Week 10 (Exam)]()
+
+
     - [Signals and Systems (EEE307)](./EEE307/index.md)
+        <!-- - [Week 1](EEE307/week_1.md)
+        - [Week 2](EEE307/week_2.md) -->
