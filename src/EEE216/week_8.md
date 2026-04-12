@@ -1,6 +1,6 @@
 # Week 8
 
-Chapters ([Engineering Electromagnetics](https://annas-archive.gl/md5/0bd4a0180a5aeeaf2a4e61c2ef60e1bc))
+Chapters ([Engineering Electromagnetics](https://annas-archive.gl/md5/ac43a73ee1ed8fbb7f9f2cb3e3cfdc74))
 - 4 Energy and Potential
     - 4.1 Energy Expended in Moving a Point Charge in an Electric Field
     - 4.2 The Line Integral
