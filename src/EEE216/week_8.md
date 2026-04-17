@@ -1,4 +1,4 @@
-# Week 8
+<!-- # Week 8
 
 Chapters ([Engineering Electromagnetics](https://annas-archive.gl/md5/ac43a73ee1ed8fbb7f9f2cb3e3cfdc74))
 - 4 Energy and Potential
@@ -9,4 +9,4 @@ Chapters ([Engineering Electromagnetics](https://annas-archive.gl/md5/ac43a73ee1
     - 4.5 The Potential Field of a System of Charges: Conservative Property
     <!-- -4.6 Potential Gradient
     -4.7 The Electric Dipole
-    -4.8 Energy Density in the Electrostatic Field -->
+    -4.8 Energy Density in the Electrostatic Field --> -->

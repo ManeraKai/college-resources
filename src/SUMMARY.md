@@ -273,8 +273,8 @@
         - [Week 5](EEE216/week_5.md)
         - [Week 6 (same as 4 & 5)]()
         - [Week 7 (same as 4 & 5)]()
-        - [Week 8](EEE216/week_8.md)
-        - [Week 9 (same as 8)]()
+        - [Week 8 (same as 4 & 5)]()
+        - [Week 9 (same as 4 & 5)]()
         - [Week 10 (Exam)]()
 
 
