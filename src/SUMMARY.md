@@ -270,11 +270,11 @@
         - [Week 2 ](EEE216/week_2.md)
         - [Week 3](EEE216/week_3.md)
         - [Week 4](EEE216/week_4.md)
-        - [Week 5](EEE216/week_5.md)
-        - [Week 6 (same as 4 & 5)]()
-        - [Week 7 (same as 4 & 5)]()
-        - [Week 8 (same as 4 & 5)]()
-        - [Week 9 (same as 4 & 5)]()
+        - [Week 5 (same as 4)]()
+        - [Week 6 (same as 4)]()
+        - [Week 7 (same as 4)]()
+        - [Week 8 (same as 4)]()
+        - [Week 9 (same as 4)]()
         - [Week 10 (Exam)]()
 
 
