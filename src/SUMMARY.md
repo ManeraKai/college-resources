@@ -158,7 +158,7 @@
         - [5. Data Structures](COM103/5_data_structures.md)
 
     - [Computer Architecture (COM204)](COM204/index.md)
-        - [Week 1 (bs)]()
+        - [Week 1 (Introduction bs)]()
         - [Week 2 (from EEE209)](COM204/week_2.md)
         - [Week 3 (from EEE209)](COM204/week_3.md)
         - [Week 4 (from EEE209)](COM204/week_4.md)
@@ -190,7 +190,7 @@
         - [Week 14 (Exam)]()
 
     - [Operating Systems (COM301)](COM301/index.md)
-        - [Week 1 (bs)]()
+        - [Week 1 (Introduction bs)]()
         - [Week 2](COM301/week_2.md)
         - [Week 3](COM301/week_3.md)
         - [Week 4](COM301/week_4.md)
@@ -218,8 +218,8 @@
 
 - [Electrical Engineering (EEE)](./EEE.md)
     - [Basics of Electrical Engineering (EEE201)](EEE201/index.md)
-        - [Week 1 (bs)]()
-        - [Week 2 (bs)]()
+        - [Week 1 (Introduction bs)]()
+        - [Week 2 (History bs)]()
         - [Week 3](EEE201/week_3.md)
         - [Week 4](EEE201/week_4.md)
         - [Week 5](EEE201/week_5.md)
@@ -234,7 +234,7 @@
         - [Week 14 (Exam)]()
 
     - [Electronics Circuits (EEM212)](EEM212/index.md)
-        - [Week 1 (bs)]()
+        - [Week 1 (Introduction bs)]()
         - [Week 2](EEM212/week_2.md)
         - [Week 3](EEM212/week_3.md)
         - [Week 4](EEM212/week_4.md)
@@ -250,7 +250,7 @@
         - [Week 14 (Exam)]()
 
     - [Logical Circuit Design (EEE209)](EEE209/index.md)
-        - [Week 1 (bs)]()
+        - [Week 1 (Introduction bs)]()
         - [Week 2](EEE209/week_2.md)
         - [Week 3](EEE209/week_3.md)
         - [Week 4](EEE209/week_4.md)
@@ -266,7 +266,7 @@
         - [Week 14 (Exam)]()
 
     - [Electromagnetic Theory (EEE216)](./EEE216/index.md)
-        - [Week 1 (bs)]()
+        - [Week 1 (Introduction bs)]()
         - [Week 2 ](EEE216/week_2.md)
         - [Week 3](EEE216/week_3.md)
         - [Week 4](EEE216/week_4.md)
