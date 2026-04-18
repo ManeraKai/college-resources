@@ -1,4 +1,4 @@
-# Computer Architecture (BIL206)
+# Computer Architecture (COM402)
 
 
 Books:
@@ -23,4 +23,4 @@ Books:
 - Pipeline System -->
 
 
-Note: You may notice that this course should be named **Introduction to Computer Architecture**. Because we had no fundementals in the 2nd year, we basically studied [Logical Circuit Design (EEE209)](../EEE209/index.md) (which is ironically in 3rd year). Then after the mid-term, we studied a little about Computer Architecture.
+Note: This 2nd year course should be named **Introduction to Computer Architecture**. Because we had no fundementals, we basically studied [Logical Circuit Design (EEE209)](../EEE209/index.md) (which is ironically a 3rd year course). Then, after the mid-term, we studied a little about Computer Architecture.
