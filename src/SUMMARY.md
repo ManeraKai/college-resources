@@ -259,9 +259,9 @@
         - [Week 7](EEE209/week_7.md)
         - [Week 8 (Exam)]()
         - [Week 9](EEE209/week_9.md)
-        - [Week 10 (Nothing)]()
-        - [Week 11 (Nothing)]()
-        - [Week 12 (Nothing)]()
+        - [Week 10 (Same as previous weeks)]()
+        - [Week 11 (Same as previous weeks)]()
+        - [Week 12 (Same as previous weeks)]()
         - [Week 13 (Review)]()
         - [Week 14 (Exam)]()
 
