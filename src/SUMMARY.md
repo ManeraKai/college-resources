@@ -118,6 +118,12 @@
         - [Week 15 (Review)]()
         - [Week 16 (Exam)]()
 
+    - [Statistical Analysis (MTH217)](MTH217/index.md)
+        - [Week 1](MTH217/week_1.md)
+        - [Week 2](MTH217/week_2.md)
+        - [Week 3](MTH217/week_3.md)
+        - [Week 4](MTH217/week_4.md)
+
 - [Physics (PHY)](PHY.md)
     - [Physics I (PHY107)]()
         - [1. Physics and Measurement]()
