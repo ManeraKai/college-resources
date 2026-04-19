@@ -210,8 +210,21 @@
         - [Week 12](COM301/week_12.md)
         - [Week 13](COM301/week_13.md)
         - [Week 14 (Exam)]()
+    
+    - [Microprocessors (COM304)](COM304/index.md)
+        - [Week 1](COM304/week_1.md)
+        - [Week 2](COM304/week_2.md)
+        - [Week 3](COM304/week_3.md)
+        - [Week 4](COM304/week_4.md)
+        - [Week 5](COM304/week_5.md)
+        - [Week 6](COM304/week_6.md)
+        - [Week 7](COM304/week_7.md)
+        - [Week 8](COM304/week_8.md)
+        - [Week 9](COM304/week_9.md)
+        - [Week 10 (Exam)]()
 
-    - [Database Management (COM303)]()
+
+    <!-- - [Database Management (COM303)]()
         - [Week 1]()
         - [Week 2 (same as 1)]()
         - [Week 3]()
@@ -219,7 +232,10 @@
         - [Week 5]()
         - [Week 6]()
         - [Week 7]()
-        - [Week 8 (Exam)]()
+        - [Week 8 (Exam)]() -->
+
+
+    
 
 
 - [Electrical Engineering (EEE)](./EEE.md)
