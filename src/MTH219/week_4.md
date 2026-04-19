@@ -1,6 +1,6 @@
 # Week 4
 
-Chapters ([Numerical Mathematics and Computing](https://annas-archive.li/md5/3492b757a4472728fdde443855b0cd93)):
+Chapters ([Numerical Mathematics and Computing](https://annas-archive.gl/md5/3492b757a4472728fdde443855b0cd93)):
 - 3.1 Bisection Method
 - 3.2 Newton’s Method
 - 3.3 Secant Method
