@@ -1,4 +1,4 @@
-# Week 4
+# Week 6
 
 Chapters ([Biostatistics](https://annas-archive.gl/md5/d27040211edfa936e7958999eac36819)):
 - 7 HYPOTHESIS TESTING
