@@ -229,6 +229,19 @@
         - [Week 9](COM304/week_9.md)
         - [Week 10 (Exam)]()
 
+    - [Network Technologies (COM306)](COM306/index.md)
+        - [Week 1](COM306/week_1.md)
+        - [Week 2](COM306/week_2.md)
+        - [Week 3](COM306/week_3.md)
+        - [Week 4](COM306/week_4.md)
+        - [Week 5](COM306/week_5.md)
+        - [Week 6](COM306/week_6.md)
+        - [Week 7](COM306/week_7.md)
+        - [Week 8 (nothing)]()
+        - [Week 9 (nothing)]()
+        - [Week 10 (Exam)]()
+
+
 
     <!-- - [Database Management (COM303)]()
         - [Week 1]()
