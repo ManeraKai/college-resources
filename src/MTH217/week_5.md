@@ -8,7 +8,7 @@ Chapters ([Biostatistics](https://annas-archive.gl/md5/d27040211edfa936e7958999e
     - 6.4 Confidence Interval for the Difference Between Two Population Means
     <!-- - 6.5 Confidence Interval for a Population Proportion -->
 
-Videos:
+<!-- Videos:
 - [Professor Leonard: Statistics Lecture 7.2](https://www.youtube.com/watch?v=Le8qzbDhunE&list=PL5102DFDC6790F3D0)
-    - Finding Confidence Intervals for the Population Proportion
+    - Finding Confidence Intervals for the Population Proportion -->
 

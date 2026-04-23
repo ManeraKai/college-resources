@@ -15,5 +15,5 @@ Chapters ([Biostatistics](https://annas-archive.gl/md5/d27040211edfa936e7958999e
     - 2.4 Descriptive Statistics: Measures of Central Tendency 
     - 2.5 Descriptive Statistics: Measures of Dispersion
 
-Reviews:
-- [MTH207: Week 2](../MTH207/week_1.md)
+<!-- Reviews:
+- [MTH207: Week 2](../MTH207/week_1.md) -->

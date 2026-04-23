@@ -11,7 +11,7 @@ Chapters ([Biostatistics](https://annas-archive.gl/md5/d27040211edfa936e7958999e
     - 5.3 Distribution of the Sample Mean
     - 5.4 Distribution of the Difference Between Two Sample Means
 
-Reviews:
+<!-- Reviews:
 - [MTH207: Week 2](../MTH207/week_2.md) without Quartiles
 - [MTH207: Week 13](../MTH207/week_13.md) without Hypothesis Testing
 
@@ -22,4 +22,4 @@ Videos:
 - [Professor Leonard: Statistics Lecture 6.5](https://www.youtube.com/watch?v=JaVA-nXKVRI&list=PL5102DFDC6790F3D0)
     - The Central Limit Theorem for Statistics
     - Using z-score
-    - Using Standard Score
+    - Using Standard Score -->
