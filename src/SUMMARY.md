@@ -152,12 +152,14 @@
         - [4. Capacitance and Dielectrics](PHY108/4_capacitance_and_eielectrics.md)
         - [5. Current and Resistance](PHY108/5_current_and_resistance.md)
         - [6. Direct Current Circuits](PHY108/6_direct_current_circuits.md)
+        - [Exam]()
         - [7. Magnetic Fields](PHY108/7_magnetic_fields.md)
         - [8. Sources of Magnetic Field](PHY108/8_sources_of_magnetic_field.md)
         - [9. Faraday's Law](PHY108/9_faradays_law.md)
         - [10. Inductance](PHY108/10_inductance.md)
         - [11. Alternating Current Circuits](PHY108/11_alternating_current_circuits.md)
         - [12. Electromagnetic Waves](PHY108/12_electromagnetic_waves.md)
+        - [Exam]()
 
 
 - [Computer Engineering (COM)](./COM.md)
