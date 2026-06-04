@@ -330,8 +330,9 @@
         - [Week 11](EEM212/week_11.md)
         - [Week 12](EEM212/week_12.md)
         - [Week 13](EEM212/week_13.md)
-        - [Week 14 (Final Exam)]()
-        - [Week 15 (Make-up Exam)]()
+        - [Week 14 (Review)]()
+        - [Week 15 (Final Exam)]()
+        - [Week 16 (Make-up Exam)]()
 
     - [Logical Circuit Design (EEE209)](EEE209/index.md)
         - [Week 1 (Introduction bs)]()
