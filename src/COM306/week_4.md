@@ -2,11 +2,11 @@
 
 Chapters ([Computer Networking A Top-Down Approach](https://annas-archive.gl/md5/f9dfec894d8462e58dc9140e9c75fa9b)):
 - 1 Computer Networks and the Internet
-    - 1.5 Protocol Layers and Their Service Models
-        - 1.5.1 Layered Architecture
-        - 1.5.2 Encapsulation
+    - 1.2 The Network Edge
+        - 1.2.1 Access Networks
+        - 1.2.2 Physical Media
 
 Videos:
-- [1.5 Protocol Layers and Their Service Models](https://www.youtube.com/watch?v=IZ_PnVXtMeY)
-    - 1.5.1 Layered Architecture
-    - 1.5.2 Encapsulation
+- [1.2 The Network Edge](https://www.youtube.com/watch?v=k8NmM-hImBU)
+    - 1.2.1 Access Networks
+    - 1.2.2 Physical Media
