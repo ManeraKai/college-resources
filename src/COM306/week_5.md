@@ -34,9 +34,6 @@ Chapters ([Computer Networking A Top-Down Approach](https://annas-archive.gl/md5
         - 2.7.1 Socket Programming with UDP
         - 2.7.2 Socket Programming with TCP
 
-Note: Each subsection was given to a group to explain. It was terrible...
-
-
 Videos:
 - [2.1 Principles of Network Applications](https://www.youtube.com/watch?v=abeupgK5z48)
     - 2.1.1 Network Application Architectures
@@ -69,3 +66,5 @@ Videos:
 - [2.7 Socket Programming: Creating Network Applications](https://www.youtube.com/watch?v=_iHMMo7SDfQ)
     - 2.7.1 Socket Programming with UDP
     - 2.7.2 Socket Programming with TCP
+
+Note: Each subsection was given to a group to explain. It was terrible...
