@@ -5,3 +5,8 @@ Chapters ([Computer Networking A Top-Down Approach](https://annas-archive.gl/md5
     - 1.2 The Network Edge
         - 1.2.1 Access Networks
         - 1.2.2 Physical Media
+
+Videos:
+- [1.2 The Network Edge](https://www.youtube.com/watch?v=k8NmM-hImBU)
+    - 1.2.1 Access Networks
+    - 1.2.2 Physical Media

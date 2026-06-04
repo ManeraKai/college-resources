@@ -5,3 +5,8 @@ Chapters ([Computer Networking A Top-Down Approach](https://annas-archive.gl/md5
     - 1.5 Protocol Layers and Their Service Models
         - 1.5.1 Layered Architecture
         - 1.5.2 Encapsulation
+
+Videos:
+- [1.5 Protocol Layers and Their Service Models](https://www.youtube.com/watch?v=IZ_PnVXtMeY)
+    - 1.5.1 Layered Architecture
+    - 1.5.2 Encapsulation

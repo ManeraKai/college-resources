@@ -6,3 +6,9 @@ Chapters ([Computer Networking A Top-Down Approach](https://annas-archive.gl/md5
         - 1.1.1 A Nuts-and-Bolts Description
         - 1.1.2 A Services Description
         - 1.1.3 What Is a Protocol?
+
+Videos:
+- [1.1 What Is the Internet?](https://www.youtube.com/watch?v=74sEFYBBRAY)
+    - 1.1.1 A Nuts-and-Bolts Description
+    - 1.1.2 A Services Description
+    - 1.1.3 What Is a Protocol?
