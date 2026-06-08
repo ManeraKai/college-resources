@@ -277,7 +277,7 @@
         - [Week 10 (Mid-term Exam)]()
         - [Week 11](COM306/week_11.md)
         - [Week 12](COM306/week_12.md)
-        - [Week 13 (Holiday)]()
+        - [Week 13](COM306/week_13.md)
         - [Week 14 (Project)]()
         - [Week 15 (Project)]()
         - [Week 16 (Final Exam)]()
